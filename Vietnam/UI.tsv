@@ -1,7 +1,7 @@
-UI_20150317_000001	{@st41b}Learn Attributes{nl}from Masters of each class.{/}
-UI_20150317_000002	{@st43}List {/}
-UI_20150317_000003	{@st59}Close {/}
-UI_20150317_000004	{@st43}Learn Attributes{/}
+UI_20150317_000001	{@st41b}Học Thuộc Tính{nl}từ Masters of each class.{/}
+UI_20150317_000002	{@st43}Danh Sách {/}
+UI_20150317_000003	{@st59}Thoát {/}
+UI_20150317_000004	{@st43}Học Thuộc Tính{/}
 UI_20150317_000005	{@st59}Close Attributes window{/}
 UI_20150317_000006	{@st41b}Funds{/}
 UI_20150317_000007	My Achievements
@@ -14,10 +14,10 @@ UI_20150317_000013	{@st41b}All{/}
 UI_20150317_000014	{@St41b}Pause{/}
 UI_20150317_000015	{@St43}Adventure History{/}
 UI_20150317_000016	{@St43}Auction House{/}
-UI_20150317_000017	{@St59}Close Auction House{/}
+UI_20150317_000017	{@St59}Thoát Auction House{/}
 UI_20150317_000018	{@St41b}Items Sold : %s ea, Items Unsold : %s ea{/}
 UI_20150317_000019	{@St43}{s22}Item Auction{/}
-UI_20150317_000020	{@st59}Close Quest Information{/}
+UI_20150317_000020	{@st59}Thoát Quest Information{/}
 UI_20150317_000021	Abe days rest
 UI_20150317_000022	{@St41b}Remaining Time
 UI_20150317_000023	3 hours 16 minutes
@@ -61,13 +61,13 @@ UI_20150317_000060	{@st42}Elapsed Time
 UI_20150317_000061	10 minutes
 UI_20150317_000062	10 seconds
 UI_20150317_000063	{@st44}Complete
-UI_20150317_000064	{@st59}Close Vending Machine{/}
+UI_20150317_000064	{@st59}Thoát Vending Machine{/}
 UI_20150317_000065	{@st43}Buff Vending Machine
 UI_20150317_000066	Vending Machine Name
 UI_20150317_000067	{@st43}Register
 UI_20150317_000068	{@st43}Cancel
 UI_20150317_000069	Buff Vending Machine
-UI_20150317_000070	{@st59}Close the Buff Vending Machine.
+UI_20150317_000070	{@st59}Thoát the Buff Vending Machine.
 UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
 UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Disembark{/}
@@ -83,7 +83,7 @@ UI_20150317_000082	Displays a brief description of the class.
 UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}
 UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
 UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
-UI_20150317_000086	{@st59}Close the Class Information window{/}
+UI_20150317_000086	{@st59}Thoát the Class Information window{/}
 UI_20150317_000087	Advancement Alarm
 UI_20150317_000088	{@st43} Advancement
 UI_20150317_000089	{@sti7}{s14} Character {/}
@@ -103,7 +103,7 @@ UI_20150317_000102	{@st59}Adjust Chat Window{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
 UI_20150317_000105	{@st59b} Macro {nl} {@st59s} - How to use: {nl} 1. Register the gesture icon to the gesture slots at the bottom {nl} 2. Write your phrase and save {nl} 3. Use the short cut key to use the phrase and make gesture at the same time {/}
-UI_20150317_000106	{@st59}Close Macro{/}
+UI_20150317_000106	{@st59}Thoát Macro{/}
 UI_20150317_000107	{@st41b}Save {/}
 UI_20150317_000108	{@st59}Save your changes{/}
 UI_20150317_000109	{@st41b}Cancel {/}
@@ -117,7 +117,7 @@ UI_20150317_000116	{@st42b}Item{/}
 UI_20150317_000117	{@st42b}Monster{/}
 UI_20150317_000118	{@st42b}Move map{/}
 UI_20150317_000119	{@st42b}Combat Order{/}
-UI_20150317_000120	{@st41b}Close{/}
+UI_20150317_000120	{@st41b}Thoát{/}
 UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
 UI_20150317_000122	{s16}{b}ea
 UI_20150317_000123	{s16}{b}Lv.
@@ -128,7 +128,7 @@ UI_20150317_000127	{s16}{b}Choose desired area.
 UI_20150317_000128	{s18}{b}View Minimap{/}
 UI_20150317_000129	{@st41b}Tool List{/}
 UI_20150317_000130	Collection {@st59b} {nl} {@st59s} - If you collect the items saved my collection deck games can collect the item {nl} - If you use shortcut keys to activate the collection item collection deck {nl} {/}
-UI_20150317_000131	{@st59}Close Collection Information{/}
+UI_20150317_000131	{@st59}Thoát Collection Information{/}
 UI_20150317_000132	{@st43}Collection{/}
 UI_20150317_000133	{@st43}Color Spray{/}
 UI_20150317_000134	{@st49}Color Spray{/}
@@ -138,18 +138,18 @@ UI_20150317_000137	{@st49}Brush{/}
 UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
 UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
-UI_20150317_000141	{@st49}Close{/}
+UI_20150317_000141	{@st49}Thoát{/}
 UI_20150317_000142	{@st43} Companion Adoption
 UI_20150317_000143	{@st59} Enter the name of your newly adopted companion {/}
 UI_20150317_000144	{@st41b}Name{/}
 UI_20150317_000145	{@st41b}Price %s{/}
-UI_20150317_000146	{@st59}Close the Companion Adoption window {/}
+UI_20150317_000146	{@st59}Thoát the Companion Adoption window {/}
 UI_20150317_000147	{@st41b}Adopt
 UI_20150317_000148	{@st59}Confirm adoption {/}
 UI_20150317_000149	{@st43}Companion Shop
-UI_20150317_000150	{@st59}Close the Companion Shop{/}
+UI_20150317_000150	{@st59}Thoát the Companion Shop{/}
 UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close the Character Information{/}
+UI_20150317_000152	{@st59}Thoát the Character Information{/}
 UI_20150317_000153	{@st41b}Information
 UI_20150317_000154	{@st41b}Record
 UI_20150317_000155	Team Name
@@ -208,7 +208,7 @@ UI_20150317_000207	{@st49}Cancel{/}
 UI_20150317_000208	{@st49}Delete{/}
 UI_20150317_000209	Enter the name of the file to save.
 UI_20150317_000210	{@st43}Friend
-UI_20150317_000211	{@st59}Close Friend List{/}
+UI_20150317_000211	{@st59}Thoát Friend List{/}
 UI_20150317_000212	{@st59b} Friend {nl} {@st59s} - Make friends with other players {nl} - Check the status of your friends in List tab {nl} - Check invite, reject, block in Manage tab {/}
 UI_20150317_000213	{@st41b}Show online friends only{/}
 UI_20150317_000214	{@st41b}List
@@ -224,7 +224,7 @@ UI_20150317_000223	Guild Mission
 UI_20150317_000224	Members Online
 UI_20150317_000225	{@st44}Create Guild{/}
 UI_20150317_000226	{@st42}Create{/}
-UI_20150317_000227	{@st42}Close{/}
+UI_20150317_000227	{@st42}Thoát{/}
 UI_20150317_000228	{@st42}All{/}
 UI_20150317_000229	{@st42}Today's Rankings{/}
 UI_20150317_000230	{@st42}Weekly Rankings{/}
@@ -236,7 +236,7 @@ UI_20150317_000235	Previous Page
 UI_20150317_000236	Next Page
 UI_20150317_000237	{@st42}Search ID{/}
 UI_20150317_000238	Enter the ID to search
-UI_20150317_000239	Close the Hall of Fame
+UI_20150317_000239	Thoát the Hall of Fame
 UI_20150317_000240	Enter the ID to search
 UI_20150317_000241	{@st59} Stamina {/}
 UI_20150317_000242	{@st43}Help List{/}
