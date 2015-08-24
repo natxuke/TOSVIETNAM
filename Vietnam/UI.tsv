@@ -1,74 +1,74 @@
-UI_20150317_000001	{@st41b}Học Thuộc Tính{nl}từ Masters of each class.{/}
+UI_20150317_000001	{@st41b}Học Thuộc Tính{nl}từ Giáo Sư của mỗi lớp.{/}
 UI_20150317_000002	{@st43}Danh Sách {/}
 UI_20150317_000003	{@st59}Thoát {/}
 UI_20150317_000004	{@st43}Học Thuộc Tính{/}
-UI_20150317_000005	{@st59}Close Attributes window{/}
+UI_20150317_000005	{@st59}Thoát khung Thuộc Tính{/}
 UI_20150317_000006	{@st41b}Funds{/}
-UI_20150317_000007	My Achievements
-UI_20150317_000008	Server Ranking
-UI_20150317_000009	{@st59}There is an unexpected event.{/}
-UI_20150317_000010	{@st59}There is a new Help message{/}
-UI_20150317_000011	{@st41}Select an arrow to create{/}
-UI_20150317_000012	{@st41b}Once{/}
-UI_20150317_000013	{@st41b}All{/}
-UI_20150317_000014	{@St41b}Pause{/}
-UI_20150317_000015	{@St43}Adventure History{/}
-UI_20150317_000016	{@St43}Auction House{/}
+UI_20150317_000007	Thành Tích Của Tôi
+UI_20150317_000008	Xếp Hạng Máy Chủ
+UI_20150317_000009	{@st59}Có một sự kiện bất ngờ.{/}
+UI_20150317_000010	{@st59}Có một tin nhắn Help mới.{/}
+UI_20150317_000011	{@st41}Chọn một mũi tên để tạo.{/}
+UI_20150317_000012	{@st41b}Một{/}
+UI_20150317_000013	{@st41b}Tất Cả{/}
+UI_20150317_000014	{@St41b}Ngừng{/}
+UI_20150317_000015	{@St43}Lịch Sử Phiêu Lưu{/}
+UI_20150317_000016	{@St43}Nhà Đấu Giá{/}
 UI_20150317_000017	{@St59}Thoát Auction House{/}
-UI_20150317_000018	{@St41b}Items Sold : %s ea, Items Unsold : %s ea{/}
-UI_20150317_000019	{@St43}{s22}Item Auction{/}
-UI_20150317_000020	{@st59}Thoát Quest Information{/}
+UI_20150317_000018	{@St41b}Hàng đã bán: %s món, Hàng chưa bán : %s món{/}
+UI_20150317_000019	{@St43}{s22}Hàng Đấu Giá{/}
+UI_20150317_000020	{@st59}Thoát khung nhiệm vụ{/}
 UI_20150317_000021	Abe days rest
-UI_20150317_000022	{@St41b}Remaining Time
-UI_20150317_000023	3 hours 16 minutes
-UI_20150317_000024	{@St41b}Starting Price
-UI_20150317_000025	{@St41b}Bids
-UI_20150317_000026	{@St41b}Current Price
+UI_20150317_000022	{@St41b}Thời gian còn lại
+UI_20150317_000023	3 tiếng 16 phút
+UI_20150317_000024	{@St41b}Giá bắt đầu
+UI_20150317_000025	{@St41b}Lượt đấu
+UI_20150317_000026	{@St41b}Giá hiện tại
 UI_20150317_000027	{@St41b}Bidding Price
 UI_20150317_000028	{@St41b}Minimum Bid Price from {@st57}%s{@st41b}Silver{/}
-UI_20150317_000029	{@St41b}Bid{/}
-UI_20150317_000030	{@St43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
-UI_20150317_000031	{@St44}Permission Settings{/}
-UI_20150317_000032	{@St45}Name:%s{/}
-UI_20150317_000033	{@St45}Party Warehouse{/}
-UI_20150317_000034	{@St49}None
-UI_20150317_000035	{@St49}Insert
-UI_20150317_000036	{@St49}Import
+UI_20150317_000029	{@St41b}Đấu Giá{/}
+UI_20150317_000030	{@St43b}Mua Ngay!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
+UI_20150317_000031	{@St44}Cài Đặt Quyền{/}
+UI_20150317_000032	{@St45}Tên:%s{/}
+UI_20150317_000033	{@St45}Kho Của Nhóm{/}
+UI_20150317_000034	{@St49}Không có ai
+UI_20150317_000035	{@St49}Thêm
+UI_20150317_000036	{@St49}Nhập
 UI_20150317_000037	{@St45}Survey{/}
-UI_20150317_000038	{@St49}Create
-UI_20150317_000039	{@St49}Delete
-UI_20150317_000040	{@St44}Save{/}
-UI_20150317_000041	{@St44}Cancel{/}
-UI_20150317_000042	{@St43}{s22}Hair Shop{/}
-UI_20150317_000043	{@st59}Previous Hair{/}
-UI_20150317_000044	{@St59}Next Hair{/}
-UI_20150317_000045	{@st41b} change {s18} (Coins 100 required) {/}
-UI_20150317_000046	{@St59}Change to selected hair.{/}
-UI_20150317_000047	{@St41}Cancel
-UI_20150317_000048	{@st43}Black Market{/}
-UI_20150317_000049	Name of Book
-UI_20150317_000050	{@St59}Stop reading{/}
-UI_20150317_000051	{@st59}Previous Page{/}
-UI_20150317_000052	{@st59}Next Page{/}
-UI_20150317_000053	{@st47}%s appeared!
-UI_20150317_000054	{@st43}Score{/}
-UI_20150317_000055	Damage Received
-UI_20150317_000056	Technique Bonus
-UI_20150317_000057	Evasion Bonus
-UI_20150317_000058	Clear Time
-UI_20150317_000059	Total Score
-UI_20150317_000060	{@st42}Elapsed Time
-UI_20150317_000061	10 minutes
-UI_20150317_000062	10 seconds
-UI_20150317_000063	{@st44}Complete
-UI_20150317_000064	{@st59}Thoát Vending Machine{/}
-UI_20150317_000065	{@st43}Buff Vending Machine
-UI_20150317_000066	Vending Machine Name
-UI_20150317_000067	{@st43}Register
-UI_20150317_000068	{@st43}Cancel
-UI_20150317_000069	Buff Vending Machine
-UI_20150317_000070	{@st59}Thoát the Buff Vending Machine.
-UI_20150317_000071	{@st59}Buff Vending Machine{nl} - You can pay silver to receive buffs from another player.
+UI_20150317_000038	{@St49}Tạo
+UI_20150317_000039	{@St49}Xóa
+UI_20150317_000040	{@St44}Lưu{/}
+UI_20150317_000041	{@St44}Hủy Bỏ{/}
+UI_20150317_000042	{@St43}{s22}Cửa hàng tóc{/}
+UI_20150317_000043	{@st59}Tóc Trước{/}
+UI_20150317_000044	{@St59}Tóc Tiếp Theo{/}
+UI_20150317_000045	{@st41b} Đổi {s18} (Cần 100 coin) {/}
+UI_20150317_000046	{@St59}Đổi thành tóc chọn.{/}
+UI_20150317_000047	{@St41}Hủy Bỏ
+UI_20150317_000048	{@st43}Chợ Đen{/}
+UI_20150317_000049	Tên Của Sách
+UI_20150317_000050	{@St59}Ngừng Đọc{/}
+UI_20150317_000051	{@st59}Trang Trước{/}
+UI_20150317_000052	{@st59}Trang Tiếp Theo{/}
+UI_20150317_000053	{@st47}%s Xuất Hiện!
+UI_20150317_000054	{@st43}Điểm{/}
+UI_20150317_000055	Damage nhận
+UI_20150317_000056	Kỹ Thuật Thưởng thêm
+UI_20150317_000057	Né Thưởng Thêm 
+UI_20150317_000058	Thời gian làm xong
+UI_20150317_000059	Tổng số điểm
+UI_20150317_000060	{@st42}Thời gian trôi qua
+UI_20150317_000061	10 phút
+UI_20150317_000062	10 giây
+UI_20150317_000063	{@st44}Hoàn Thành
+UI_20150317_000064	{@st59}Thoát Máy Bán Hàng{/}
+UI_20150317_000065	{@st43}Máy Bán Buff
+UI_20150317_000066	Tên Máy Bán Hàng
+UI_20150317_000067	{@st43}Đăng ký
+UI_20150317_000068	{@st43}Hủy bỏ
+UI_20150317_000069	Máy Bán Buff
+UI_20150317_000070	{@st59}Thoát máy bán buff.
+UI_20150317_000071	{@st59}Máy Bán Buff{nl} - Bạn có thể trả silver để nhận buff từ người chơi khác.
 UI_20150317_000072	Carriage Menu
 UI_20150317_000073	{ol}{s22}Disembark{/}
 UI_20150317_000074	Casting
