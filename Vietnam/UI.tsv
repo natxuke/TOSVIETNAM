@@ -1,4 +1,4 @@
-UI_20150317_000001	{@st41b}Học Thuộc Tính{nl}từ Giáo Sư của mỗi lớp. {/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
+UI_20150317_000001	{@st41b}Học Thuộc Tính{nl}từ Giáo Sư của mỗi class. {/}	{@st41b}각 클래스 마스터들에게서{nl}특성을 배울 수 있습니다.{/}				
 UI_20150317_000002	{@st43}Danh Sách Thuộc Tính {/}	{@st43}특성 목록{/}				
 UI_20150317_000003	{@st59}Đóng Danh Sách Thuộc Tính {/}	{@st59}특성리스트를 닫습니다{/}				
 UI_20150317_000004	{@st43}Học Thuộc Tính{/}	{@st43}특성 배우기{/}				
@@ -74,408 +74,408 @@ UI_20150317_000073	{ol}{s22}Thoát Khỏi{/}	{ol}{s22}내리기{/}
 UI_20150317_000074	Casting	캐스팅				
 UI_20150317_000075	{@st43}Cài Đặt Trò Chơi{/}	{@st43}게임설정{/}				
 UI_20150317_000076	{@st64}Sử dụng phím mũi tên để chọn một ô!	{@st64}방향키를 입력해 셀을 선택하세요!				
-UI_20150317_000077	{@st43}Thông Tin Advancement{/}	{@st43}전직 정보{/}				
-UI_20150317_000078	{@st43}Chọn Lớp	{@st43}클래스 선택				
+UI_20150317_000077	{@st43}Thông Tin Phát Triển Class{/}	{@st43}전직 정보{/}				
+UI_20150317_000078	{@st43}Chọn class	{@st43}클래스 선택				
 UI_20150317_000079	Psychokinesist	사이코키네스스트				
 UI_20150317_000080	{@st42}%s Vòng Tròn {/}	{@st42}%s 서클{/}				
 UI_20150317_000081	Có bao nhiêu vòng tròn?	몇 서클				
-UI_20150317_000082	Hiển thị mô tả cơ bản của lớp.	클래스에 대한 간단한 설명을 이곳에 표시합니다.				
+UI_20150317_000082	Hiển thị mô tả cơ bản của class.	클래스에 대한 간단한 설명을 이곳에 표시합니다.				
 UI_20150317_000083	{memo X}{@st41b}Tấn Công {@sti7}%s{/}	{@st41b}공격력 {@sti7}%s{/}				
 UI_20150317_000084	{memo X}{@st41b}Hỗ Trợ {@sti7}%s{/}	{@st41b}보조    {@sti7}%s{/}				
 UI_20150317_000085	{memo X}{@st41b}Độ Khó{@sti7}%s{/}	{@st41b}난이도 {@sti7}%s{/}				
-UI_20150317_000086	{@st59}Close the Class Information window{/}	{@st59}클래스 정보 창을 닫습니다{/}				
-UI_20150317_000087	Advancement Alarm	전직 가능 알람				
-UI_20150317_000088	{@st43} Advancement	{@st43}클래스 전직				
-UI_20150317_000089	{@sti7}{s14} Character {/}	{@sti7}{s14}캐릭터{/}				
+UI_20150317_000086	{@st59}Đóng cửa sổ thông tin class.{/}	{@st59}클래스 정보 창을 닫습니다{/}				
+UI_20150317_000087	Báo Động Phát Triển	전직 가능 알람				
+UI_20150317_000088	{@st43}Phát Triển	{@st43}클래스 전직				
+UI_20150317_000089	{@sti7}{s14} Nhât Vật {/}	{@sti7}{s14}캐릭터{/}				
 UI_20150317_000090	{@sti8}{s14} Class {/}	{@sti8}{s14}클래스{/}				
 UI_20150317_000091	{@st44}Chat{/}	{@st44}채팅{/}				
 UI_20150317_000092	To. WWWWWWWW and 1 other	To. WWWWWWWW 외 1				
 UI_20150317_000093	{memo X}General: /s chat {nl} Shout: /y chat {nl} Party: /p chat{nl} Whisper: /w character's username chat	일반 : /s 내용{nl}외침 : /y 내용{nl}파티 : /p 내용{nl}귓속말 : /w 캐릭명 내용				
 UI_20150317_000094	{@st41}All Chat{/}	{@st41}일반 대화{/}				
-UI_20150317_000095	{@59}Quit{/}	{@59}종료하기{/}				
-UI_20150317_000096	{@59}Invite{/}	{@59}초대하기{/}				
-UI_20150317_000097	{@st59}All{/}	{@st59}전체{/}				
-UI_20150317_000098	{@st59}Normal (/s chat){/}	{@st59}일반  (/s 할말){/}				
-UI_20150317_000099	{@st59}Shout (/y chat){/}	{@st59}외침  (/y 할말){/}				
-UI_20150317_000100	{@st59}Party (/p chat){/}	{@st59}파티  (/p 할말){/}				
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}	{@st59}귓속말   (/w 팀이름 할말){/}				
-UI_20150317_000102	{@st59}Adjust Chat Window{/}	{@st59}채팅창 크기 조절{/}				
-UI_20150317_000103	{@st43}{s22}Chat Macro{/}	{@st43}{s22}채팅 매크로{/}				
-UI_20150317_000104	{@st43}Macro{/}	{@st43}매크로{/}				
-UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag the gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}	{@st59b}매크로{nl}{@st59s} - 사용 방법 : {nl} 1. 상단의 제스쳐 아이콘을 하단의 제스쳐 슬롯에 등록{nl} 2. 대화문구 작성 후 저장{nl} 3. 해당 단축키를 사용해서 대사와 동시에 제스쳐 동작{/}				
-UI_20150317_000106	{@st59}Close Macro{/}	{@st59}매크로를 닫습니다{/}				
-UI_20150317_000107	{@st41b}Save {/}	{@st41b}저장{/}				
-UI_20150317_000108	{@st59}Save your changes{/}	{@st59}등록한 내용을 저장합니다{/}				
-UI_20150317_000109	{@st41b}Cancel {/}	{@st41b}취소{/}				
-UI_20150317_000110	{@st59}Cancel your changes{/}	{@st59}등록한 내용을 취소합니다{/}				
-UI_20150317_000111	{@st42}Chat Settings	{@st42}채팅 설정				
-UI_20150317_000112	{@st42}Transparency	{@st42}투명도				
-UI_20150317_000113	Show chat balloon	말풍선 표시				
-UI_20150317_000114	Show shouts on top	화면 상단에 외치기 내용 표시				
-UI_20150317_000115	{@st43}Cheat List{/}	{@st43}치트리스트{/}				
-UI_20150317_000116	{memo X}{@st42b}Item{/}	{@st42b}  아이템  {/}				
-UI_20150317_000117	{memo X}{@st42b}Monster{/}	{@st42b}  몬스터  {/}				
-UI_20150317_000118	{memo X}{@st42b}Move map{/}	{@st42b}  맵이동  {/}				
+UI_20150317_000095	{@59}Thoát{/}	{@59}종료하기{/}				
+UI_20150317_000096	{@59}Mời{/}	{@59}초대하기{/}				
+UI_20150317_000097	{@st59}Tất Cả{/}	{@st59}전체{/}				
+UI_20150317_000098	{@st59}Bình Thường (/s chat){/}	{@st59}일반  (/s 할말){/}				
+UI_20150317_000099	{@st59}La hét (/y chat){/}	{@st59}외침  (/y 할말){/}				
+UI_20150317_000100	{@st59}Tổ Đội (/p chat){/}	{@st59}파티  (/p 할말){/}				
+UI_20150317_000101	{@st59}Tin nhắn Riêng (/w team name chat){/}	{@st59}귓속말   (/w 팀이름 할말){/}				
+UI_20150317_000102	{@st59}Điều chỉnh cửa sổ Chat{/}	{@st59}채팅창 크기 조절{/}				
+UI_20150317_000103	{@st43}{s22}Chat Biểu Cảm{/}	{@st43}{s22}채팅 매크로{/}				
+UI_20150317_000104	{@st43}Biểu Cảm{/}	{@st43}매크로{/}				
+UI_20150317_000105	{@st59b}Biểu Cảm {nl} {@st59s} - Cách Sử Dụng: {nl} 1. Kéo icon biểu cảm  vào ô phím tắt ở dưới.{nl} 2. Viết cụm từ mà bạn muốn và lưu. {nl} 3. Sử dụng các phím tắt để đồng thời sử dụng các cụm từ và thực hiện những biểu cảm.{/}	{@st59b}매크로{nl}{@st59s} - 사용 방법 : {nl} 1. 상단의 제스쳐 아이콘을 하단의 제스쳐 슬롯에 등록{nl} 2. 대화문구 작성 후 저장{nl} 3. 해당 단축키를 사용해서 대사와 동시에 제스쳐 동작{/}				
+UI_20150317_000106	{@st59}Đóng Biểu Cảm{/}	{@st59}매크로를 닫습니다{/}				
+UI_20150317_000107	{@st41b}Lưu {/}	{@st41b}저장{/}				
+UI_20150317_000108	{@st59}Lưu Thay Đổi{/}	{@st59}등록한 내용을 저장합니다{/}				
+UI_20150317_000109	{@st41b}Hủy {/}	{@st41b}취소{/}				
+UI_20150317_000110	{@st59}Hủy Bỏ Thay Đổi{/}	{@st59}등록한 내용을 취소합니다{/}				
+UI_20150317_000111	{@st42}Cài Đặt Trò Chuyện	{@st42}채팅 설정				
+UI_20150317_000112	{@st42}Trong Suốt{@st42}투명도				
+UI_20150317_000113	Hiển ihị bóng trò chuyện.	말풍선 표시				
+UI_20150317_000114	Hiển thị la hét ở trên. Show shouts on top	화면 상단에 외치기 내용 표시				
+UI_20150317_000115	{@st43}Danh Sách Ăn Gian{/}	{@st43}치트리스트{/}				
+UI_20150317_000116	{memo X}{@st42b}Vật Phẩm{/}	{@st42b}  아이템  {/}				
+UI_20150317_000117	{memo X}{@st42b}Quái Vật{/}	{@st42b}  몬스터  {/}				
+UI_20150317_000118	{memo X}{@st42b}Di chuyển qua map{/}	{@st42b}  맵이동  {/}				
 UI_20150317_000119	{memo X}{@st42b}Combat Order{/}	{@st42b}  전투명령  {/}				
-UI_20150317_000120	{@st41b}Close{/}	{@st41b}닫기{/}				
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.	{s16}{b}더블클릭 또는 생성 버튼으로 아이템을 생성할 수 있습니다.				
+UI_20150317_000120	{@st41b}Đóng{/}	{@st41b}닫기{/}				
+UI_20150317_000121	{s16}{b}Tạo vậtt phẩm bằng cách ấn vào nút Tạo hoặc nhấp chuột 2 lần.{s16}{b}더블클릭 또는 생성 버튼으로 아이템을 생성할 수 있습니다.				
 UI_20150317_000122	{memo X}{s16}{b}ea	{s16}{b}개				
 UI_20150317_000123	{memo X}{s16}{b}Lv.	{s16}{b}레벨				
-UI_20150317_000124	{@st41b}Search{/}	{@st41b}검색{/}				
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.	{s16}{b}더블클릭 또는 생성버튼으로 몬스터를 소환할 수 있습니다.				
+UI_20150317_000124	{@st41b}Tìm Kiếm{/}	{@st41b}검색{/}				
+UI_20150317_000125	{s16}{b}Triệu hồi quái vật bằng cách ấn vào nút Tạo hoặc nhấp chuột 2 lần.{s16}{b}더블클릭 또는 생성버튼으로 몬스터를 소환할 수 있습니다.				
 UI_20150317_000126	{memo X}{s16}{b}ea	{s16}{b}마리				
-UI_20150317_000127	{s16}{b}Select a desired area.	{s16}{b}원하는 지역을 선택하세요				
-UI_20150317_000128	{s18}{b}View Minimap{/}	{s18}{b}미니맵 보기{/}				
-UI_20150317_000129	{@st41b}Tool List{/}	{@st41b}툴 리스트{/}				
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}				
-UI_20150317_000131	{@st59}Close Collection Information{/}	{@st59}콜렉션 정보를 닫습니다{/}				
-UI_20150317_000132	{@st43}Collection{/}	{@st43}콜렉션{/}				
-UI_20150317_000133	{@st43}Color Spray{/}	{@st43}컬러스프레이{/}				
-UI_20150317_000134	{@st49}Color Spray{/}	{@st49}컬러스프레이{/}				
-UI_20150317_000135	{@st49}Color{/}	{@st49}색상{/}				
-UI_20150317_000136	{@st49}Remaining{/}	{@st49}잔량{/}				
-UI_20150317_000137	{@st49}Brush{/}	{@st49}브러쉬{/}				
-UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}	{@st49}{a END_EDIT_SPRAY}그리기{/}{/}				
-UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}	{@st49}{a SAVE_EDIT_SPRAY}저장{/}{/}				
-UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}	{@st49}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
-UI_20150317_000141	{@st49}Close{/}	{@st49}닫기{/}				
-UI_20150317_000142	{@st43} Companion Adoption	{@st43}컴패니언 분양				
-UI_20150317_000143	{@st59} Enter the name of your newly adopted companion {/}	{@st59}분양 받을 컴패니언의 이름을 입력하세요{/}				
-UI_20150317_000144	{@st41b}Name{/}	{@st41b}이름{/}				
-UI_20150317_000145	{@st41b}Price %s{/}	{@st41b}가격     %s{/}				
-UI_20150317_000146	{@st59}Close the Companion Adoption window {/}	{@st59}컴패니엄 분양 창을 닫습니다{/}				
-UI_20150317_000147	{@st41b}Adopt	{@st41b}분양				
-UI_20150317_000148	{@st59}Confirm adoption {/}	{@st59}분양 받을 컴패니언을 결정합니다{/}				
-UI_20150317_000149	{@st43}Companion Shop	{@st43}컴패니언 샵				
-UI_20150317_000150	{@st59}Close the Companion Shop{/}	{@st59}컴패니언 상점을 닫습니다{/}				
-UI_20150317_000151	{@st43}Other Character Info{/}{@st42}	{@st43}다른 캐릭터 정보{/} {@st42}				
-UI_20150317_000152	{@st59}Close the Character Information{/}	{@st59}캐릭터 정보를 닫습니다{/}				
-UI_20150317_000153	{@st41b}Information	{@st41b}정보				
-UI_20150317_000154	{@st41b}Record	{@st41b}기록				
-UI_20150317_000155	Team Name	팀이륨				
-UI_20150317_000156	Character Name	캐릭이륨				
-UI_20150317_000157	Rank {#Ffff00}%s{/} %s Level {#ffff00}%s{/}	{#ffff00}%s{/}랭크 %s {#ffff00}%s{/}레벨				
+UI_20150317_000127	{s16}{b}Chọn một khu vực mong muốn.	{s16}{b}원하는 지역을 선택하세요				
+UI_20150317_000128	{s18}{b}Xem bản đồ nhỏ{/}	{s18}{b}미니맵 보기{/}				
+UI_20150317_000129	{@st41b}Danh sách dung cụ{/}	{@st41b}툴 리스트{/}				
+UI_20150317_000130	{@st59b}Bộ Sưu Tập {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}	{@st59b}콜렉션{nl}{@st59s} - 게임내 콜렉션 덱을 구해 아이템을 수집하면 해당 아이템 수집 가능{nl} - 콜렉션 덱 아이템 사용했을 경우 콜렉션 단축키가 활성화{nl}{/}				
+UI_20150317_000131	{@st59}Đóng thông tin về bộ sưu tập.{/}	{@st59}콜렉션 정보를 닫습니다{/}				
+UI_20150317_000132	{@st43}Bộ Sưu Tập{/}	{@st43}콜렉션{/}				
+UI_20150317_000133	{@st43}Phun Màu{/}	{@st43}컬러스프레이{/}				
+UI_20150317_000134	{@st49}Phun Màu{/}	{@st49}컬러스프레이{/}				
+UI_20150317_000135	{@st49}Màu{/}	{@st49}색상{/}				
+UI_20150317_000136	{@st49}Còn Lại{/}	{@st49}잔량{/}				
+UI_20150317_000137	{@st49}Cọ Vẽ{/}	{@st49}브러쉬{/}				
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Vẽ{/}{/}	{@st49}{a END_EDIT_SPRAY}그리기{/}{/}				
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Lưu{/}{/}	{@st49}{a SAVE_EDIT_SPRAY}저장{/}{/}				
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Đưa Vào{/}{/}	{@st49}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
+UI_20150317_000141	{@st49}Đóng{/}	{@st49}닫기{/}				
+UI_20150317_000142	{@st43} Nhận Bạn Đồng Hành	{@st43}컴패니언 분양				
+UI_20150317_000143	{@st59} Ghi tên của người bạn đồng hành mới của bạn. {/}	{@st59}분양 받을 컴패니언의 이름을 입력하세요{/}				
+UI_20150317_000144	{@st41b}Tên{/}	{@st41b}이름{/}				
+UI_20150317_000145	{@st41b}Giá %s{/}	{@st41b}가격     %s{/}				
+UI_20150317_000146	{@st59}Đóng cửa sổ bạn đồng hành.{/}	{@st59}컴패니엄 분양 창을 닫습니다{/}				
+UI_20150317_000147	{@st41b}Nhận Nuôi	{@st41b}분양				
+UI_20150317_000148	{@st59}Xác nhận nuôi{/}	{@st59}분양 받을 컴패니언을 결정합니다{/}				
+UI_20150317_000149	{@st43}Cửa hàng bạn đồng hành{@st43}컴패니언 샵				
+UI_20150317_000150	{@st59}Đóng cửa hàng bạn đồng hành.{/}	{@st59}컴패니언 상점을 닫습니다{/}				
+UI_20150317_000151	{@st43}Thông tin nhân vật khác{/}{@st42}	{@st43}다른 캐릭터 정보{/} {@st42}				
+UI_20150317_000152	{@st59}Đóng thông tin nhân vật{/}	{@st59}캐릭터 정보를 닫습니다{/}				
+UI_20150317_000153	{@st41b}Thông Tin	{@st41b}정보				
+UI_20150317_000154	{@st41b}Ghi Chép	{@st41b}기록				
+UI_20150317_000155	Tên Nhóm	팀이륨				
+UI_20150317_000156	Tên nhân vật	캐릭이륨				
+UI_20150317_000157	Xếp Hạng {#Ffff00}%s{/} %s Level {#ffff00}%s{/}	{#ffff00}%s{/}랭크 %s {#ffff00}%s{/}레벨				
 UI_20150317_000158	Warrior	젼샤				
-UI_20150317_000159	{memo X}Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)	모험지수 {#ffff00}%s{/} ({#ffff00}%s{/}위/%s)				
-UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})	모험지수 {#ffff00}%s{/} ({#ffff00}Unranked{/})				
-UI_20150317_000161	Total Achievements : {#ffff00}%s{/}	업적달성 {#ffff00}%s{/}개				
-UI_20150317_000162	Settings	설정				
-UI_20150317_000163	Clear the tab title to delete the tab.	탭 제목을 지우고 확인하면 탭이 삭제됩니다				
-UI_20150317_000164	{@st49}All{/}	{@st49}전체{/}				
-UI_20150317_000165	{@st49}System{/}	{@st49}시스템{/}				
-UI_20150317_000166	{@st49}Talk{/}	{@st49}대화{/}				
-UI_20150317_000167	{@st49}Combat{/}	{@st49}전투{/}				
-UI_20150317_000168	{@st49}Item{/}	{@st49}아이템{/}				
+UI_20150317_000159	{memo X}Mục lục hành trình{#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)	모험지수 {#ffff00}%s{/} ({#ffff00}%s{/}위/%s)				
+UI_20150317_000160	Mục lục hành trình {#ffff00}%s{/} ({#ffff00}Chưa có hạng{/})	모험지수 {#ffff00}%s{/} ({#ffff00}Unranked{/})				
+UI_20150317_000161	Tổng Số Thành Tựu : {#ffff00}%s{/}	업적달성 {#ffff00}%s{/}개				
+UI_20150317_000162	Cài Đặt	설정				
+UI_20150317_000163	Dọn dẹp tiêu đề tab để xóa tab.	탭 제목을 지우고 확인하면 탭이 삭제됩니다				
+UI_20150317_000164	{@st49}Tất Cả{/}	{@st49}전체{/}				
+UI_20150317_000165	{@st49}Hệ Thống{/}	{@st49}시스템{/}				
+UI_20150317_000166	{@st49}Nói Chuyện{/}	{@st49}대화{/}				
+UI_20150317_000167	{@st49}Chiến Đấu{/}	{@st49}전투{/}				
+UI_20150317_000168	{@st49}Vật Phẩm{/}	{@st49}아이템{/}				
 UI_20150317_000169	{@st43}Credits{/}	{@st43}크레딧{/}				
-UI_20150317_000170	{memo X}{@st43}Lock Target settings {/}	{@st43}타겟 고정 설정 중{/}				
-UI_20150317_000171	NPC Name	엔피씨이름				
-UI_20150317_000172	Compare	비교				
-UI_20150317_000173	Illustration	일러스트				
-UI_20150317_000174	Select a conversation	대화 선택				
-UI_20150317_000175	Text Help	텍스트 헬프				
-UI_20150317_000176	{@st41}Item Crafting{/}	{@st41}아이템 제조{/}				
-UI_20150317_000177	{@st45tw2}Crafting the item...	{@st45tw2}아이템 제작 중...				
-UI_20150317_000178	%r seconds	%r 초				
-UI_20150317_000179	{@st41}Cancel{/}	{@st41}취소{/}				
-UI_20150317_000180	{@st45tw2}Quantity{/}	{@st45tw2}수량 {/}				
-UI_20150317_000181	{@st45tw2}Do you want to craft this item?	{@st45tw2}아이템을 만드시겠습니까?				
-UI_20150317_000182	{@st41}Confirm{/}	{@st41}결정{/}				
-UI_20150317_000183	Quest Information	퀘스트 정보				
-UI_20150317_000184	{@st59}Cancel Trade{/}	{@st59}거래를취소합니다{/}				
-UI_20150317_000185	{@st43}Personal Trade{/}	{@st43}개인 거래{/}				
-UI_20150317_000186	My Trading List	내 거래 목록				
+UI_20150317_000170	{memo X}{@st43}Khóa cài đặt các mục tiêu {/}	{@st43}타겟 고정 설정 중{/}				
+UI_20150317_000171	Tên NPC	엔피씨이름				
+UI_20150317_000172	So Sánh	비교				
+UI_20150317_000173	Thí Dụ	일러스트				
+UI_20150317_000174	Chọn một cuộc trò chuyện	대화 선택				
+UI_20150317_000175	Trợ Giúp	텍스트 헬프				
+UI_20150317_000176	{@st41}Chế Tạo Vật Phẩm{/}	{@st41}아이템 제조{/}				
+UI_20150317_000177	{@st45tw2}Đang chế tạo vật phẩm...	{@st45tw2}아이템 제작 중...				
+UI_20150317_000178	%r giây	%r 초				
+UI_20150317_000179	{@st41}Hủy{/}	{@st41}취소{/}				
+UI_20150317_000180	{@st45tw2}Số lượng{/}	{@st45tw2}수량 {/}				
+UI_20150317_000181	{@st45tw2}Bạn có muốn tạo vật phẩm này?	{@st45tw2}아이템을 만드시겠습니까?				
+UI_20150317_000182	{@st41}Xác nhận{/}	{@st41}결정{/}				
+UI_20150317_000183	Thông tin nhiệm vụ	퀘스트 정보				
+UI_20150317_000184	{@st59}Hủy Giao Dịch{/}	{@st59}거래를취소합니다{/}				
+UI_20150317_000185	{@st43}Giao Dịch Cá Nhân{/}	{@st43}개인 거래{/}				
+UI_20150317_000186	Dach sách giao dịch của tôi	내 거래 목록				
 UI_20150317_000187	Silver : %s	실버 : %s				
-UI_20150317_000188	{memo X}Enter	입력				
-UI_20150317_000189	{@st41}Accept	{@st41}수락				
-UI_20150317_000190	{@st41}Confirm	{@st41}최종확인				
-UI_20150317_000191	Other Player's(%s) Trading List	상대방(%s) 거래 목록				
-UI_20150317_000192	Other Player's Name	상대방이름				
-UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}	{s18}{ol}{gr gradation1}필드 이벤트{/}				
-UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?	{s20}{ol}부베족을 물리쳐라! 참가하시겠습니까?				
-UI_20150317_000195	{s20}{ol}%s Would you like to join?	{s20}{ol}%s 참가하시겠습니까?				
-UI_20150317_000196	{s20}{ol}Participants : (1/5)	{s20}{ol}참가 인원 : (1/5)				
-UI_20150317_000197	{s20}{ol}Participants : (%s/%s)	{s20}{ol}참가 인원 : (%s/%s)				
-UI_20150317_000198	{s20}{ol}The game will begin after 1 second.	{s20}{ol}1초 후 게임이 시작됩니다.				
-UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.	{s20}{ol}%s초 후 게임이 시작됩니다.				
-UI_20150317_000200	Do not show this anymore for today.	오늘 하루 보지 않기.				
-UI_20150317_000201	Do not show Field Events.	필드 이벤트를 보지 않습니다.				
-UI_20150317_000202	Join Game	게임 참여				
-UI_20150317_000203	Start a game with other players.	플레이어들과 게임을 시작합니다.				
-UI_20150317_000204	Decline game invite.	게임 참여를 하지 않습니다.				
-UI_20150317_000205	Spray Presets	스프레이 프리셋				
-UI_20150317_000206	{@st49}Select{/}	{@st49}선택{/}				
-UI_20150317_000207	{@st49}Cancel{/}	{@st49}취소{/}				
-UI_20150317_000208	{@st49}Delete{/}	{@st49}삭제{/}				
-UI_20150317_000209	Enter a file name to save.	저장할 파일의 이름을 입력합니다.				
-UI_20150317_000210	{@st43}Friends	{@st43}친구				
-UI_20150317_000211	{@st59}Close Friends List{/}	{@st59}친구 목록를 닫습니다{/}				
-UI_20150317_000212	{@st59b}Friend{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status on your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}	{@st59b}친구{nl}{@st59s} - 친구 관계는 계정 사이에 생성{nl} - 목록 탭에서 친구들의 상태 확인/삭제 가능{nl} - 관리 탭에서 초대, 거절, 차단 등의 내용을 확인{/}				
-UI_20150317_000213	{@st41b}Show online friends{/}	{@st41b}접속한 친구만 보기{/}				
-UI_20150317_000214	{@st41b}List	{@st41b}목록				
-UI_20150317_000215	{@st41b}Manage	{@st41b}관리				
-UI_20150317_000216	{@st41b}Send Friend Request	{@st41b}친구 신청				
-UI_20150317_000217	{@st41b}Block	{@st41b}차단				
-UI_20150317_000218	{@st59}Search{/}	{@st59}검색{/}				
+UI_20150317_000188	{memo X}Cho vào	입력				
+UI_20150317_000189	{@st41}Chấp Nhận	{@st41}수락				
+UI_20150317_000190	{@st41}Xác Nhận	{@st41}최종확인				
+UI_20150317_000191	Người chơi khác(%s) dach sách giao dịch	상대방(%s) 거래 목록				
+UI_20150317_000192	Tên nhân vật khác	상대방이름				
+UI_20150317_000193	{s18}{ol} {gr gradation1} Sự Kiện Map{/}	{s18}{ol}{gr gradation1}필드 이벤트{/}				
+UI_20150317_000194	{s20}{ol}Đánh bại bộ lạc Vubbe! Bạn có muốn tham gia?	{s20}{ol}부베족을 물리쳐라! 참가하시겠습니까?				
+UI_20150317_000195	{s20}{ol}%s Bạn có muốn tham gia?	{s20}{ol}%s 참가하시겠습니까?				
+UI_20150317_000196	{s20}{ol}Những người tham gia : (1/5)	{s20}{ol}참가 인원 : (1/5)				
+UI_20150317_000197	{s20}{ol}Những người tham gia : (%s/%s)	{s20}{ol}참가 인원 : (%s/%s)				
+UI_20150317_000198	{s20}{ol}Trò chơi sẽ được bắt đầu sau khi 1 giây nữa.	{s20}{ol}1초 후 게임이 시작됩니다.				
+UI_20150317_000199	{s20}{ol}Trò chơi sẽ được bắt đầu sau khi %s giây.	{s20}{ol}%s초 후 게임이 시작됩니다.				
+UI_20150317_000200	Không hiển thị này nữa cho ngày hôm nay.	오늘 하루 보지 않기.				
+UI_20150317_000201	Không hiển thị sự kiện map.	필드 이벤트를 보지 않습니다.				
+UI_20150317_000202	Tham gia	게임 참여				
+UI_20150317_000203	Bắt đầu một trò chơi với những người chơi khác.	플레이어들과 게임을 시작합니다.				
+UI_20150317_000204	Từ chời lời mời.	게임 참여를 하지 않습니다.				
+UI_20150317_000205	Spray cài sẵn	스프레이 프리셋				
+UI_20150317_000206	{@st49}Chọn{/}	{@st49}선택{/}				
+UI_20150317_000207	{@st49}Hủy{/}	{@st49}취소{/}				
+UI_20150317_000208	{@st49}Xóa{/}	{@st49}삭제{/}				
+UI_20150317_000209	Ghi vào tên file để lưu.	저장할 파일의 이름을 입력합니다.				
+UI_20150317_000210	{@st43}Bạn bè	{@st43}친구				
+UI_20150317_000211	{@st59}Đóng danh sách bạn bè{/}	{@st59}친구 목록를 닫습니다{/}				
+UI_20150317_000212	{@st59b}Bạn{nl}{@st59s} - Trờ thành bạn bè của những người chơi khác trong trò chơi.{nl} - Bạn có thể kiểm tra tình trạng của bạn bè của bạn thông qua tab Danh sách bạn bè.{nl} - Trong tab Quản lý,  bạn có thể mời, từ chối hoặc chặn bạn bè của bạn.{/}	{@st59b}친구{nl}{@st59s} - 친구 관계는 계정 사이에 생성{nl} - 목록 탭에서 친구들의 상태 확인/삭제 가능{nl} - 관리 탭에서 초대, 거절, 차단 등의 내용을 확인{/}				
+UI_20150317_000213	{@st41b}Hiển thị bạn đang chơi{/}	{@st41b}접속한 친구만 보기{/}				
+UI_20150317_000214	{@st41b}Danh Sách	{@st41b}목록				
+UI_20150317_000215	{@st41b}Quản lý	{@st41b}관리				
+UI_20150317_000216	{@st41b}Gửi yêu cầu làm bạn	{@st41b}친구 신청				
+UI_20150317_000217	{@st41b}Chặn	{@st41b}차단				
+UI_20150317_000218	{@st59}Tìm Kiếm{/}	{@st59}검색{/}				
 UI_20150317_000219	{@st44}Guild{/}	{@st44}길드{/}				
 UI_20150317_000220	Guild	길드				
-UI_20150317_000221	List	명단				
-UI_20150317_000222	News	새소식				
-UI_20150317_000223	Guild Mission	길드미션				
-UI_20150317_000224	Members Online	접속중인 구성원 수				
-UI_20150317_000225	{@st44}Create Guild{/}	{@st44}길드생성{/}				
-UI_20150317_000226	{@st42}Create{/}	{@st42}생성{/}				
-UI_20150317_000227	{@st42}Close{/}	{@st42}닫기{/}				
-UI_20150317_000228	{@st42}All{/}	{@st42}전체{/}				
-UI_20150317_000229	{@st42}Today's Rankings{/}	{@st42}오늘랭킹{/}				
-UI_20150317_000230	{@st42}Weekly Rankings{/}	{@st42}주간랭킹{/}				
-UI_20150317_000231	{@st56}Rank {/}	{@st56}순위{/}				
-UI_20150317_000232	{@st56}Points{/}	{@st56}점수{/}				
+UI_20150317_000221	Danh Sách	명단				
+UI_20150317_000222	Tin Tức	새소식				
+UI_20150317_000223	Nhiệm Vụ Guild	길드미션				
+UI_20150317_000224	Thành viên đang chơi	접속중인 구성원 수				
+UI_20150317_000225	{@st44}Tạo Guild{/}	{@st44}길드생성{/}				
+UI_20150317_000226	{@st42}Tạo{/}	{@st42}생성{/}				
+UI_20150317_000227	{@st42}Đóng{/}	{@st42}닫기{/}				
+UI_20150317_000228	{@st42}Tất Cả{/}	{@st42}전체{/}				
+UI_20150317_000229	{@st42}Xếp Hạng Của Hôm Nay{/}	{@st42}오늘랭킹{/}				
+UI_20150317_000230	{@st42}Xếp Hạng Của Tuần{/}	{@st42}주간랭킹{/}				
+UI_20150317_000231	{@st56}Xếp Hạng {/}	{@st56}순위{/}				
+UI_20150317_000232	{@st56}Điểm{/}	{@st56}점수{/}				
 UI_20150317_000233	{@st56}Class{/}	{@st56}직업{/}				
-UI_20150317_000234	{@st56}Name {/}	{@st56}이름{/}				
-UI_20150317_000235	Previous Page	이전 페이지				
-UI_20150317_000236	Next Page	다음 페이지				
-UI_20150317_000237	{@st42}Search ID{/}	{@st42}ID 검색{/}				
-UI_20150317_000238	Enter the ID to search	입력한 ID를 검색합니다				
-UI_20150317_000239	Close the Hall of Fame	명예의 전당을 닫습니다				
-UI_20150317_000240	Enter the ID to search	검색할 ID를 입력합니다				
+UI_20150317_000234	{@st56}Tên {/}	{@st56}이름{/}				
+UI_20150317_000235	Trang Trước	이전 페이지				
+UI_20150317_000236	Trang Tiếp Theo	다음 페이지				
+UI_20150317_000237	{@st42}Tìm ID{/}	{@st42}ID 검색{/}				
+UI_20150317_000238	Điền vào ID để tìm	입력한 ID를 검색합니다				
+UI_20150317_000239	Đóng đại sảnh của người nổi tiếng.	명예의 전당을 닫습니다				
+UI_20150317_000240	Điền vào ID để tìm	검색할 ID를 입력합니다				
 UI_20150317_000241	{memo X}{@st59} Stamina {/}	{@st59}스태미나{/}				
-UI_20150317_000242	{@st43}Help List{/}	{@st43}도움말 목록{/}				
-UI_20150317_000243	{@st59}Close the Help List window{/}	{@st59}도움말 목록 창을 닫습니다{/}				
-UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}	{@st59b}도움말 목록{nl}{@st59s} - 읽었던 도움말들을 목록에서 다시 확인 가능{nl} - 원하는 항목을 선택해서 상세 보기{/}				
-UI_20150317_000245	{@st43}{s22}Help{/}	{@st43}{s22}도움말{/}				
-UI_20150317_000246	{@st47_b}{b}Help Topics{/}	{@st47_b}{b}도움말 제목{/}				
-UI_20150317_000247	{@st42b}Simple Help Contents{/}	{@st42b}심플 도움말내용{/}				
-UI_20150317_000248	{@st59}View details{/}	{@st59}자세하게 보기{/}				
-UI_20150317_000249	Please enter a quantity	수량을 입력하세요				
-UI_20150317_000250	{@st59}Enter the contents{/}	{@st59}내용을 입력합니다{/}				
-UI_20150317_000251	{@st41b}Confirm	{@st41b}확인				
-UI_20150317_000252	{@st59}Confirm {/}	{@st59}입력 내용을 확인합니다{/}				
-UI_20150317_000253	{@st41b}Close	{@st41b}닫기				
-UI_20150317_000254	{@st59}Cancel {/}	{@st59}입력을 취소합니다{/}				
-UI_20150317_000255	{@st43}Warp{/}	{@st43}워프{/}				
-UI_20150317_000256	{@st59}Close Warp Window{/}	{@st59}워프 창을 닫습니다{/}				
-UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}	{@st59b}워프{nl}{@st59s} - 자신이 방문한 지역으로 워프할 수 있는 시스템{nl} - 워프가 2개이상일때 워프 기능 활성화{nl}{/}				
-UI_20150317_000258	{@st41}Current Location : %s{/}	{@st41}현재 위치 : %s{/}				
-UI_20150317_000259	{@st43}{s22}Warp{/}	{@st43}{s22}워프{/}				
-UI_20150317_000260	{@st41b}Do you want to move to this area?{/}	{@st41b}이 지역으로 이동하시겠습니까?{/}				
-UI_20150317_000261	What about Siauliai	사울레이 어쩌고				
-UI_20150317_000262	Coin Consumed : 0	소모 코인 : 0				
-UI_20150317_000263	Intro	인트로				
-UI_20150317_000264	{@st43}Inventory{/}	{@st43}인벤토리{/}				
-UI_20150317_000265	{@st59}Close Inventory{/}	{@st59}인벤토리를 닫습니다{/}				
-UI_20150317_000266	{memo X}{@st59b}Equipment {nl} {@st59s}- Hairstyle/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Pants, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}	{@st59b}착용장비{nl}{@st59s} - 헤어/코스튬 : 외형 변경 가능 아이템 착용{nl} - 무기 : 한손 장비 및 양손 장비 착용 가능{nl}   (한손 장비 착용시 서브웨폰/방패 착용 가능 ){nl} - 방어구 : 상의, 하의, 장갑, 신발 착용{nl} - 악세서리 : 목걸이 1개, 팔찌 2개 착용{nl}{/}				
-UI_20150317_000267	{@st59}Hairstyle Costume 1{/}	{@st59}헤어 코스튬1{/}				
-UI_20150317_000268	{@st59}Hairstyle Costume 2{/}	{@st59}헤어 코스튬2{/}				
-UI_20150317_000269	{@st59}Necklace{/}	{@st59}목걸이{/}				
-UI_20150317_000270	{@st59}Costume{/}	{@st59}코스튬{/}				
-UI_20150317_000271	{@st59}Top{/}	{@st59}상의{/}				
-UI_20150317_000272	{@st59}Gloves{/}	{@st59}장갑{/}				
-UI_20150317_000273	{@st59}Pants{/}	{@st59}하의{/}				
-UI_20150317_000274	{@st59}Shoes{/}	{@st59}신발{/}				
-UI_20150317_000275	{@st59}Left Hand{/}	{@st59}왼손{/}				
-UI_20150317_000276	{@st59}Right Hand{/}	{@st59}오른손{/}				
-UI_20150317_000277	{@st59}Bracelet 1{/}	{@st59}팔찌1{/}				
-UI_20150317_000278	{@st59}Bracelet 2{/}	{@st59}팔찌2{/}				
-UI_20150317_000279	{@st59}Armband{/}	{@st59}암밴드{/}				
-UI_20150317_000280	{@st59}Search{/}	{@st59}입력한 이름으로 검색합니다{/}				
-UI_20150317_000281	Weight	무게				
-UI_20150317_000282	{memo X}{@st43}Equipment Buff{/}	{@st43}장비 버프{/}				
-UI_20150317_000283	{@st59}Close the Item Repair UI{/}	{@st59}수리 UI를 닫습니다{/}				
-UI_20150317_000284	{memo X}{@st42}Available for Buff	{@st42}버프 가능 장비 목록				
-UI_20150317_000285	{memo X}{@st42}Consume{/}	{@st42}소모 아이템{/}				
-UI_20150317_000286	{memo X}{@st42}Run	{@st42}실행				
+UI_20150317_000242	{@st43}Danh sách trợ giúp{/}	{@st43}도움말 목록{/}				
+UI_20150317_000243	{@st59}Đóng danh sách trợ giúp{/}	{@st59}도움말 목록 창을 닫습니다{/}				
+UI_20150317_000244	{@st59b}Danh sách trợ giúp{nl}{@st59s} - Nếu bạn cần trợ giúp gì đó, bạn lúc nào củng có thể đọc những chủ đề giúp đỡ.{nl} - Select a topic to view more information about it. {/}	{@st59b}도움말 목록{nl}{@st59s} - 읽었던 도움말들을 목록에서 다시 확인 가능{nl} - 원하는 항목을 선택해서 상세 보기{/}				
+UI_20150317_000245	{@st43}{s22}Trợ Giúp{/}	{@st43}{s22}도움말{/}				
+UI_20150317_000246	{@st47_b}{b}Chủ Đề Trợ Giúp{/}	{@st47_b}{b}도움말 제목{/}				
+UI_20150317_000247	{@st42b}Nội dung trợ giúp cơ bản.{/}	{@st42b}심플 도움말내용{/}				
+UI_20150317_000248	{@st59}Xem chi tiết{/}	{@st59}자세하게 보기{/}				
+UI_20150317_000249	Vui lòng nhập số lượng	수량을 입력하세요				
+UI_20150317_000250	{@st59}Nhập nội dung{/}	{@st59}내용을 입력합니다{/}				
+UI_20150317_000251	{@st41b}Xác Nhận {@st41b}확인				
+UI_20150317_000252	{@st59}Xác Nhận {/}	{@st59}입력 내용을 확인합니다{/}				
+UI_20150317_000253	{@st41b}Đóng	{@st41b}닫기				
+UI_20150317_000254	{@st59}Hủy {/}	{@st59}입력을 취소합니다{/}				
+UI_20150317_000255	{@st43}Dịch Chuyển nhanh {/}	{@st43}워프{/}				
+UI_20150317_000256	{@st59}Đóng cửa sổ dịch chuyển{/}	{@st59}워프 창을 닫습니다{/}				
+UI_20150317_000257	{@st59b}Dịch Chuyển nhanh{nl}{@st59s} - Cho phép bạn nhanh chóng di chuyển đến các khu vực bạn đã qua rồi. {nl} - Tính năng này được kích hoạt khi hai điểm dịch chuyển đều có sẵn. Feature is activated when two or more warp points are available. {nl} {/}	{@st59b}워프{nl}{@st59s} - 자신이 방문한 지역으로 워프할 수 있는 시스템{nl} - 워프가 2개이상일때 워프 기능 활성화{nl}{/}				
+UI_20150317_000258	{@st41}Vị trí hiên tại : %s{/}	{@st41}현재 위치 : %s{/}				
+UI_20150317_000259	{@st43}{s22}Dịch Chuyển Nhanh{/}	{@st43}{s22}워프{/}				
+UI_20150317_000260	{@st41b}Bạn có muốn di chuyển đến khu vực này?{/}	{@st41b}이 지역으로 이동하시겠습니까?{/}				
+UI_20150317_000261	Những gì về Siauliai 사울레이 어쩌고				
+UI_20150317_000262	Tiêu thụ coin : 0	소모 코인 : 0				
+UI_20150317_000263	Giới Thiệu	인트로				
+UI_20150317_000264	{@st43}Túi Đồ{/}	{@st43}인벤토리{/}				
+UI_20150317_000265	{@st59}Đóng túi đồ{/}	{@st59}인벤토리를 닫습니다{/}				
+UI_20150317_000266	{memo X}{@st59b}Thiết Bị {nl} {@st59s}- Kiểu tóc / Trang phục: Thiết bị để thay đổi bề ngoài của  nhân vật. {nl} - Vũ khí: Có thể trang bị vũ khí một tay hoặc hai tay {nl} (Vũ khí phụ / Khiên chắn có thể được trang bị với một vũ khí một tay) {nl} - Áo Giáp: Áo, quần, găng tay, Giày dép. {nl} - Phụ Kiện: Có thể mang 1 dây chuyền và 2 vòng tay.{nl} {/}	{@st59b}착용장비{nl}{@st59s} - 헤어/코스튬 : 외형 변경 가능 아이템 착용{nl} - 무기 : 한손 장비 및 양손 장비 착용 가능{nl}   (한손 장비 착용시 서브웨폰/방패 착용 가능 ){nl} - 방어구 : 상의, 하의, 장갑, 신발 착용{nl} - 악세서리 : 목걸이 1개, 팔찌 2개 착용{nl}{/}				
+UI_20150317_000267	{@st59}Kiểu Tóc Trang Phục 1{/}	{@st59}헤어 코스튬1{/}				
+UI_20150317_000268	{@st59}kiểu Tóc Trang Phục 2{/}	{@st59}헤어 코스튬2{/}				
+UI_20150317_000269	{@st59}Dây Chuyền{/}	{@st59}목걸이{/}				
+UI_20150317_000270	{@st59}Trang Phục{/}	{@st59}코스튬{/}				
+UI_20150317_000271	{@st59}Áo{/}	{@st59}상의{/}				
+UI_20150317_000272	{@st59}Gang Tay{/}	{@st59}장갑{/}				
+UI_20150317_000273	{@st59}Quần{/}	{@st59}하의{/}				
+UI_20150317_000274	{@st59}Giày{/}	{@st59}신발{/}				
+UI_20150317_000275	{@st59}Tay Trái{/}{/}	{@st59}왼손{/}				
+UI_20150317_000276	{@st59}Tay Phải{/}	{@st59}오른손{/}				
+UI_20150317_000277	{@st59}Vòng Tay 1{/}	{@st59}팔찌1{/}				
+UI_20150317_000278	{@st59}Vòng Tay 2{/}	{@st59}팔찌2{/}				
+UI_20150317_000279	{@st59}Băng Tay{/}	{@st59}암밴드{/}				
+UI_20150317_000280	{@st59}Tìm Kiếm{/}	{@st59}입력한 이름으로 검색합니다{/}				
+UI_20150317_000281	Sức Nặng	무게				
+UI_20150317_000282	{memo X}{@st43}Buff Thiết Bị{/}	{@st43}장비 버프{/}				
+UI_20150317_000283	{@st59}Đóng cửa sổ sửa chữa vật phẩm{/}	{@st59}수리 UI를 닫습니다{/}				
+UI_20150317_000284	{memo X}{@st42}Buff có thể dùng	{@st42}버프 가능 장비 목록				
+UI_20150317_000285	{memo X}{@st42}Dùng{/}	{@st42}소모 아이템{/}				
+UI_20150317_000286	{memo X}{@st42}Chạy	{@st42}실행				
 UI_20150317_000287	{memo X}{@st42}Target Item{/}	{@st42}타겟 아이템{/}				
-UI_20150317_000288	{@st59}Ring 1{/}	{@st59}링1{/}				
-UI_20150317_000289	{@st43}Item Crafting{/}	{@st43}아이템 제작{/}				
-UI_20150317_000290	{@st42b}Show only craftable items{/}	{@st42b}재료가 있는 것만 보기{/}				
-UI_20150317_000291	{@st59}Close Item Crafting {/}	{@st59}아이템 제작을 닫습니다{/}				
-UI_20150317_000292	{@st43}{s22}Split Item	{@st43}{s22}아이템 나누기				
-UI_20150317_000293	{@st59}Enter a quantity{/}	{@st59}개수를 입력하세요{/}				
-UI_20150317_000294	Monster HP Bar	몬스터 체력게이지				
-UI_20150317_000295	{@st44}Item Set acquired{/}	{@st44}세트 아이템 획득{/}				
-UI_20150317_000296	Keyboard Warrior	키보드 워리어				
-UI_20150317_000297	Kills	킬				
-UI_20150317_000298	99 minutes 99 seconds	99분 99초				
-UI_20150317_000299	38000 points	38000 점				
-UI_20150317_000300	Enhanced Speed Potion	향상된 신속의 물약				
-UI_20150317_000301	{@st41}Confirm{/}	{@st41}확 인{/}				
-UI_20150317_000302	${@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}				
-UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}	{@sti7}{s22}{ds}모험지수 달성도{/}				
-UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}	{@st42b}{#22FF22}상위 10% / %s점{/}				
-UI_20150317_000305	{@st42b} Average / %s Points {/}	{@st42b}전체 평균 /  %s점{/}				
-UI_20150317_000306	1st / %s Points	1위 / %s점				
-UI_20150317_000307	Rank %s	%s위				
-UI_20150317_000308	%s Points	%s점				
-UI_20150317_000309	Profession	직업				
-UI_20150317_000310	Team	팀				
-UI_20150317_000311	{@st59}Close Adventure Journal{/}	{@st59}모험일지를 닫습니다{/}				
-UI_20150317_000312	{@st43}Adventure Journal Ranking{/}	{@st43}모험일지 랭킹{/}				
-UI_20150317_000313	{@st43}{s22}Rank   	{@st43}{s22}랭킹				
-UI_20150317_000314	{@st43}{s22}Name	{@st43}{s22}이름				
-UI_20150317_000315	{@st43}{s22}Score	{@st43}{s22}점수				
-UI_20150317_000316	{@st41}Details{/}	{@st41}상세정보{/}				
-UI_20150317_000317	{@st43}Start Crafting{/}	{@st43}제작시작{/}				
-UI_20150317_000318	{@st59}Start item crafting.{/}	{@st59}아이템 제작을 시작합니다.{/}				
-UI_20150317_000319	{@st44}Keypad{/}	{@st44}키패드{/}				
-UI_20150317_000320	{@st42}Time limit	{@st42}제한 시간				
-UI_20150317_000321	{@st56}Kill{/}	{@st56}킬{/}				
+UI_20150317_000288	{@st59}Nhẩn 1{/}	{@st59}링1{/}				
+UI_20150317_000289	{@st43}Chế Tạo vật phẩm{/}	{@st43}아이템 제작{/}				
+UI_20150317_000290	{@st42b}Chỉ hiện những vật phẩm có thể chế.{/}	{@st42b}재료가 있는 것만 보기{/}				
+UI_20150317_000291	{@st59}Đóng cửa sổ chế tạo {/}	{@st59}아이템 제작을 닫습니다{/}				
+UI_20150317_000292	{@st43}{s22}Tách vật Phẩm	{@st43}{s22}아이템 나누기				
+UI_20150317_000293	{@st59}Nhập Số Lượng{/}	{@st59}개수를 입력하세요{/}				
+UI_20150317_000294	Thanh Máu của quái vật	몬스터 체력게이지				
+UI_20150317_000295	{@st44}Bộ vật phẩm nhận được.{/}	{@st44}세트 아이템 획득{/}				
+UI_20150317_000296	Anh Hùng Bàn Phím	키보드 워리어				
+UI_20150317_000297	Giết	킬				
+UI_20150317_000298	99 phút 99 giây	99분 99초				
+UI_20150317_000299	38000 Điểm	38000 점				
+UI_20150317_000300	Thuốc tăng cao tóc độ	향상된 신속의 물약				
+UI_20150317_000301	{@st41}Xác Nhận{/}	{@st41}확 인{/}				
+UI_20150317_000302	${@st59b} Nhật ký Hành Trình {nl}{@st59s}- Sự tiến triển của trò chơi của bạn sẽ được lưu lại trong nhật ký hành trình. {nl} - bạn có thể tiến triển hành trình của bạn bằng cách: nhận được vật phẩm, giết quái, chế tạo, và khám phá thế giới.{nl}    Mục lục của hành trình : Tất cả mục lục của bạn. {nl}    Tăng Trưởng : 5 điểm cho mỗi cấp của nhân vật và cấp class.{nl}    Vật Phẩm : Trang Bị : Cấp Trang Bị X 10 Điểm, Sách : 10 points, Khác : 1 point {nl}    Quái Vật : 10 Điểm cho mỗi quái vật (50 Điểm cho Boss) {nl}    Thế Giới : 1 Điểm cho mỗi 10% thế giới được khám phá{nl}    Nhiệm Vụ : 1 điểm cho mỗi 1 nhiệm vụ {nl}    Thành Tích : Điểm tùy theo từng thành tích{nl}    Chế Tạo : 10 Điểm {nl}    Sưu Tầm : 5 điểm cho 1 bộ bài và 45 điểm khi hoàn thành.{nl} - Người chơi có thể nhận được quá đặc biết từ NPC trong thành phố tùy theo số điểm hành trình. {/}	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}				
+UI_20150317_000303	{@sti7}{s22}{ds}Thành Tích{/}	{@sti7}{s22}{ds}모험지수 달성도{/}				
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Điểm{/}	{@st42b}{#22FF22}상위 10% / %s점{/}				
+UI_20150317_000305	{@st42b} Trung Bình / %s Điểm {/}	{@st42b}전체 평균 /  %s점{/}				
+UI_20150317_000306	1st / %s Điểm	1위 / %s점				
+UI_20150317_000307	Hạng %s	%s위				
+UI_20150317_000308	%s Điểm	%s점				
+UI_20150317_000309	Ngành	직업				
+UI_20150317_000310	Đội	팀				
+UI_20150317_000311	{@st59}Đóng nhật ký hành trình{/}	{@st59}모험일지를 닫습니다{/}				
+UI_20150317_000312	{@st43}Xếp Hạng Nhất Ký Hành Trình{/}	{@st43}모험일지 랭킹{/}				
+UI_20150317_000313	{@st43}{s22}Hạng  	{@st43}{s22}랭킹				
+UI_20150317_000314	{@st43}{s22}Tên	{@st43}{s22}이름				
+UI_20150317_000315	{@st43}{s22}Điểm	{@st43}{s22}점수				
+UI_20150317_000316	{@st41}Chi tiết{/}	{@st41}상세정보{/}				
+UI_20150317_000317	{@st43}Bắt đầu chế tạo{/}	{@st43}제작시작{/}				
+UI_20150317_000318	{@st59}Bắt đầu chế tạo vật phẩm.{/}	{@st59}아이템 제작을 시작합니다.{/}				
+UI_20150317_000319	{@st44}Bàn Phím{/}	{@st44}키패드{/}				
+UI_20150317_000320	{@st42}Thời gian giới hạn	{@st42}제한 시간				
+UI_20150317_000321	{@st56}Giết{/}	{@st56}킬{/}				
 UI_20150317_000322	{@st56}Overkill{/}	{@st56}오버킬{/}				
-UI_20150317_000323	{@st56}Shot{/}	{@st56}피격{/}				
-UI_20150317_000324	{@st56}Dead{/}	{@st56}사망{/}				
-UI_20150317_000325	Spell Power	주문력				
-UI_20150317_000326	Defense	방어력				
-UI_20150317_000327	Magic Resistance	마법저항력				
-UI_20150317_000328	Critical Rate	치명타율				
-UI_20150317_000329	${@st43}Socket{/}	{@st43}소켓 관리{/}				
-UI_20150317_000330	{@st59}Close the Socket Management{/}	{@st59}소켓 관리를 닫습니다{/}				
-UI_20150317_000331	Please insert your items	아이템을 올려주세요				
-UI_20150317_000332	Potential	포텐셜				
-UI_20150317_000333	{memo X}Additional socket cost : {#ff9933}%s{/}{nl}Gem extraction cost : {#ff9933}%s{/}	소켓 추가 비용 : {#ff9933}%s{/}{nl}젬 추출 비용 : {#ff9933}%s{/}				
-UI_20150317_000334	{@st41b}Add Socket	{@st41b}소켓 추가				
-UI_20150317_000335	{@st41b}Extract Gem	{@st41b}젬 추출				
-UI_20150317_000336	{@st41}Craft{/}	{@st41}제조{/}				
+UI_20150317_000323	{@st56}Bắn{/}	{@st56}피격{/}				
+UI_20150317_000324	{@st56}Chết{/}	{@st56}사망{/}				
+UI_20150317_000325	Tấn công pháp thuật	주문력				
+UI_20150317_000326	Phòng thủ vật lý	방어력				
+UI_20150317_000327	Phòng thủ pháp thuật	마법저항력				
+UI_20150317_000328	Sát thương chí mạng	치명타율				
+UI_20150317_000329	${@st43}Ổ Gem{/}	{@st43}소켓 관리{/}				
+UI_20150317_000330	{@st59}Đóng của sổ quản lý gem.{/}	{@st59}소켓 관리를 닫습니다{/}				
+UI_20150317_000331	Xin vui lòng để vật phẩm của bạn vào	아이템을 올려주세요				
+UI_20150317_000332	Tìm lực	포텐셜				
+UI_20150317_000333	{memo X}Bổ sung chi phí ô gem: {#ff9933}%s{/}{nl}Chi phí rút gem ra : {#ff9933}%s{/}	소켓 추가 비용 : {#ff9933}%s{/}{nl}젬 추출 비용 : {#ff9933}%s{/}				
+UI_20150317_000334	{@st41b}Thêm ô gem	{@st41b}소켓 추가				
+UI_20150317_000335	{@st41b}Rút Gem {@st41b}젬 추출				
+UI_20150317_000336	{@st41}Chế Tạo{/}	{@st41}제조{/}				
 UI_20150317_000337	{@st41}%s %s ea	{@st41}%s  %s 개				
-UI_20150317_000338	Area Map	지역 지도				
-UI_20150317_000339	{memo X}Area Explored : 95.5%	탐사율 : 95.5%				
-UI_20150317_000340	{memo X}{@st45tw}Area Explored %s% {/}	{@st45tw}탐사율 %s%{/}				
-UI_20150317_000341	{@st59}Close the map (M){/}	{@st59}지도를 닫습니다 (M){/}				
-UI_20150317_000342	{@st41}Map{/}	{@st41}지도{/}				
-UI_20150317_000343	Shift(clear), Ctrl(mid fill)	시프트(지우기), 컨트롤(중간채우기)				
-UI_20150317_000344	{ol}Title	{ol}제목				
-UI_20150317_000345	{@st41}Add{/}	{@st41}추가{/}				
-UI_20150317_000346	{@st41}Delete{/}	{@st41}삭제{/}				
-UI_20150317_000347	{@st41}Save{/}	{@st41}저장{/}				
-UI_20150317_000348	{@st41}Auto{/}	{@st41}자동{/}				
-UI_20150317_000349	{@st41}Reset{/}	{@st41}초기화{/}				
-UI_20150317_000350	{@st59}Set quantity.{/}	{@st59}조각의 개수를 설정합니다.{/}				
-UI_20150317_000351	{ol}Group	{ol}그룹				
-UI_20150317_000352	{ol}Message	{ol}메세지				
-UI_20150317_000353	{ol}Sound	{ol}사운드				
-UI_20150317_000354	{@st41}Create Minimap{/}	{@st41}미니맵 제작{/}				
-UI_20150317_000355	{@st55}Area Map	{@st55}지역 지도				
-UI_20150317_000356	{@st43}{s22}Market{/}	{@st43}{s22}마켓{/}				
-UI_20150317_000357	{@st43}{s24}Market{/}	{@st43}{s24}마켓{/}				
-UI_20150317_000358	{@st42b}Filter{/}	{@st42b}계열{/}				
-UI_20150317_000359	{@st42b}Type{/}	{@st42b}타입{/}				
-UI_20150317_000360	{@st42b}Req. Lv{/}	{@st42b}착용 레벨{/}				
-UI_20150317_000361	{@st42b}Enhance Lv{/}	{@st42b}강화 수치{/}				
-UI_20150317_000362	{@st42b}Name	{@st42b}이름				
+UI_20150317_000338	Bản đồ khu vực	지역 지도				
+UI_20150317_000339	{memo X}Khu vực đã khám phá : 95.5%	탐사율 : 95.5%				
+UI_20150317_000340	{memo X}{@st45tw}Khu vực đã khám phá %s% {/}	{@st45tw}탐사율 %s%{/}				
+UI_20150317_000341	{@st59}Đóng bản đồ (M){/}	{@st59}지도를 닫습니다 (M){/}				
+UI_20150317_000342	{@st41}Bản Đồ{/}	{@st41}지도{/}				
+UI_20150317_000343	Shift(Xóa), Ctrl(mid fill)	시프트(지우기), 컨트롤(중간채우기)				
+UI_20150317_000344	{ol}Tiêu Đề	{ol}제목				
+UI_20150317_000345	{@st41}Thêm{/}	{@st41}추가{/}				
+UI_20150317_000346	{@st41}Xóa{/}	{@st41}삭제{/}				
+UI_20150317_000347	{@st41}Lưu{/}	{@st41}저장{/}				
+UI_20150317_000348	{@st41}Tự động{/}	{@st41}자동{/}				
+UI_20150317_000349	{@st41}Thiết Lập lại{/}	{@st41}초기화{/}				
+UI_20150317_000350	{@st59}Đặt Số Lượng.{/}	{@st59}조각의 개수를 설정합니다.{/}				
+UI_20150317_000351	{ol}Nhóm	{ol}그룹				
+UI_20150317_000352	{ol}Tin Nhắn	{ol}메세지				
+UI_20150317_000353	{ol}Âm Thanh	{ol}사운드				
+UI_20150317_000354	{@st41}Tạo Bản Đồ Nhỏ{/}	{@st41}미니맵 제작{/}				
+UI_20150317_000355	{@st55}Bản Đồ Khu Vực	{@st55}지역 지도				
+UI_20150317_000356	{@st43}{s22}Chợ{/}	{@st43}{s22}마켓{/}				
+UI_20150317_000357	{@st43}{s24}Chợ{/}	{@st43}{s24}마켓{/}				
+UI_20150317_000358	{@st42b}Lọc{/}	{@st42b}계열{/}				
+UI_20150317_000359	{@st42b}Loại{/}	{@st42b}타입{/}				
+UI_20150317_000360	{@st42b}Lv Yêu Cầu{/}	{@st42b}착용 레벨{/}				
+UI_20150317_000361	{@st42b}Lv Cường Hóa{/}	{@st42b}강화 수치{/}				
+UI_20150317_000362	{@st42b}Tên	{@st42b}이름				
 UI_20150317_000363	{@st41b}Item Cabinet%s	{@st41b}아이템 수령함%s				
-UI_20150317_000364	{@st41b}Sell	{@st41b}판매 등록				
-UI_20150317_000365	{@st41b}Search	{@st41b}검색				
-UI_20150317_000366	{@st59}Close the Market window{/}	{@st59}마켓 창을 닫습니다{/}				
-UI_20150317_000367	{@st42b}Sort	{@st42b}보기 순서				
-UI_20150317_000368	{@st41b}Items for Sale	{@st41b}판매중인 아이템				
+UI_20150317_000364	{@st41b}Bán	{@st41b}판매 등록				
+UI_20150317_000365	{@st41b}Tìm Kiếm {@st41b}검색				
+UI_20150317_000366	{@st59}Đóng chợ{/}	{@st59}마켓 창을 닫습니다{/}				
+UI_20150317_000367	{@st42b}Lựa Chọn {@st42b}보기 순서				
+UI_20150317_000368	{@st41b}Vật phẩm đang bán{@st41b}판매중인 아이템				
 UI_20150317_000369	{@st43}{s22}Item Cabinet	{@st43}{s22}아이템 수령함				
-UI_20150317_000370	{@st41b}Receive All	{@st41b}모두 받기				
-UI_20150317_000371	{@st41b} Receive	{@st41b}아이템 수령함				
-UI_20150317_000372	{@st43}{s22}Sell	{@st43}{s22}판매 등록				
-UI_20150317_000373	{@st42b}Quantity	{@st42b}개수				
-UI_20150317_000374	{@st42b}Price	{@st42b}가격				
-UI_20150317_000375	{@st42b}Hide Seller's Name{/}	{@st42b}판매자 비공개{/}				
-UI_20150317_000376	{@st41b}Add	{@st41b}등록				
+UI_20150317_000370	{@st41b}Nhận Tất Cả	{@st41b}모두 받기				
+UI_20150317_000371	{@st41b} Nhận {@st41b}아이템 수령함				
+UI_20150317_000372	{@st43}{s22}Bán	{@st43}{s22}판매 등록				
+UI_20150317_000373	{@st42b}Số Lượng	{@st42b}개수				
+UI_20150317_000374	{@st42b}Giá	{@st42b}가격				
+UI_20150317_000375	{@st42b}Ẩn tên người bán{/}	{@st42b}판매자 비공개{/}				
+UI_20150317_000376	{@st41b}Thêm{@st41b}등록				
 UI_20150317_000377	Siege Coin	공성전 코인				
-UI_20150317_000378	Someone killed someone	누군가누구를처치했습니다.				
+UI_20150317_000378	Một người nào đó đã giết một ai đó	누군가누구를처치했습니다.				
 UI_20150317_000379	{@st43}Minigames{/}	{@st43}미니게임{/}				
-UI_20150317_000380	{@st49}Fire Catapult{/}	{@st49}투석기발사{/}				
-UI_20150317_000381	{@st44}Control directions{/}	{@st44}방향조절{/}				
-UI_20150317_000382	{@st44}Fire{/}	{@st44}발사{/}				
+UI_20150317_000380	{@st49}Sử dụng máy bắn đá{/}	{@st49}투석기발사{/}				
+UI_20150317_000381	{@st44}Điều khiển đường đi{/}	{@st44}방향조절{/}				
+UI_20150317_000382	{@st44}Bắn{/}	{@st44}발사{/}				
 UI_20150317_000383	Minigame	미니게임				
-UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}	{s18}{ol}{gr gradation1}얼음 땡 미니게임{/}				
-UI_20150317_000385	{s16}Would you like to join the mini-game?	{s16}미니게임에 참가하시겠습니까?				
-UI_20150317_000386	{s16}Participants : (0/5)	{s16}참가 인원 : (0/5)				
-UI_20150317_000387	{s16}Participants : (%s /%s)	{s16}참가 인원 : (%s/%s)				
-UI_20150317_000388	{s16}The game starts after 1 second.	{s16}1초 후 게임이 시작됩니다.				
-UI_20150317_000389	{s16}The game starts after %s seconds.	{s16}%s초 후 게임이 시작됩니다.				
-UI_20150317_000390	{@st59}Zoom in{/}	{@st59}확대{/}				
-UI_20150317_000391	{@st59}Zoom out{/}	{@st59}축소{/}				
-UI_20150317_000392	{@st59}Map (M){/}	{@st59}지도 (M){/}				
-UI_20150317_000393	{@st42b} Area Map	{@st42b}지역 지도				
-UI_20150317_000394	{@st44}Item Synthesizer{/}	{@st44}아이템 조합기{/}				
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}	{s16}{#FFcc66}{ol}제작할 아이템을 선택하세요{/}{/}				
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots	{s16}{#FFcc66}{ol}재료 아이템을 슬롯에 드래그 하세요				
-UI_20150317_000397	{@st42}Create{/}	{@st42}제작{/}				
-UI_20150317_000398	{@st42} Cancel {/}	{@st42}취소{/}				
-UI_20150317_000399	Information of %s	%s의 정보				
+UI_20150317_000384	{s18}{ol}{gr gradation1}Trò chơi trốn tìm{/}	{s18}{ol}{gr gradation1}얼음 땡 미니게임{/}				
+UI_20150317_000385	{s16}Bạn có muốn tham gia mini-game?	{s16}미니게임에 참가하시겠습니까?				
+UI_20150317_000386	{s16}Những người tham gia : (0/5)	{s16}참가 인원 : (0/5)				
+UI_20150317_000387	{s16}Những người tham gia : (%s /%s)	{s16}참가 인원 : (%s/%s)				
+UI_20150317_000388	{s16}Trò chơi sẽ bắt đầu sau 1 giây.	{s16}1초 후 게임이 시작됩니다.				
+UI_20150317_000389	{s16}Trò chơi sẽ bắt đầu sau %s giây.	{s16}%s초 후 게임이 시작됩니다.				
+UI_20150317_000390	{@st59}Phóng To{/}	{@st59}확대{/}				
+UI_20150317_000391	{@st59}Thu Nhỏ{/}	{@st59}축소{/}				
+UI_20150317_000392	{@st59}Bản Đồ (M){/}	{@st59}지도 (M){/}				
+UI_20150317_000393	{@st42b} Bản Đồ Khu Vực	{@st42b}지역 지도				
+UI_20150317_000394	{@st44}Kết Hộp Vật Phẩm{/}	{@st44}아이템 조합기{/}				
+UI_20150317_000395	{s16}{#FFcc66}{ol}Xin vui lòng chọn vật phẩm mà bạn muốn tạo.{/}{/}	{s16}{#FFcc66}{ol}제작할 아이템을 선택하세요{/}{/}				
+UI_20150317_000396	{s16}{#FFcc66}{ol}Kéo nguyên liệu vào ô {s16}{#FFcc66}{ol}재료 아이템을 슬롯에 드래그 하세요				
+UI_20150317_000397	{@st42}Tạo{/}	{@st42}제작{/}				
+UI_20150317_000398	{@st42} Hủy {/}	{@st42}취소{/}				
+UI_20150317_000399	Thông tin của %s	%s의 정보				
 UI_20150317_000400	Kepa or ...	케파라던가				
 UI_20150317_000401	{@st41}{Details}	{@st41}{상세정보}				
 UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description	{s20}{#050505}몬스터 설명 내용 몬스터 설명 내용 몬스터 설명 내용 몬스터 설명 내용				
 UI_20150317_000403	{@st41} Kill {/}	{@st41} 킬 {/}				
 UI_20150317_000404	{@st41} Overkill {/}	{@st41} 오버킬 {/}				
 UI_20150317_000405	{@st41} Normal Kill {/}	{@st41} 일반킬 {/}				
-UI_20150317_000406	{@st41} Area {/}	{@st41} 지역 {/}				
-UI_20150317_000407	{@st41} Item {/}	{@st41} 아이템 {/}				
-UI_20150317_000408	{@st41} Achievement {/}	{@st41} 업적 {/}				
+UI_20150317_000406	{@st41} Khu Vực {/}	{@st41} 지역 {/}				
+UI_20150317_000407	{@st41} Vật Phẩm {/}	{@st41} 아이템 {/}				
+UI_20150317_000408	{@st41} Thành Tựu {/}	{@st41} 업적 {/}				
 UI_20150317_000409	Object	대상				
 UI_20150317_000410	{@st43}Necronomicon{/}	{@st43}네크로노미콘{/}				
-UI_20150317_000411	{@st59}Close Necronomicon UI{/}	{@st59}네크로노미콘 UI를 닫습니다{/}				
-UI_20150317_000412	{memo X}{@st59}I am too lazy to think.{/}	{@st59}나는 아무 생각이 없다. 왜냐하면 아무 생각이 없기 때문이다.{/}				
-UI_20150317_000413	Summoning Item : {#ffcc33}%s{/}	소환체 : {#ffcc33}%s{/}				
+UI_20150317_000411	{@st59}Đóng cửa sổ Necronomicon {/}	{@st59}네크로노미콘 UI를 닫습니다{/}				
+UI_20150317_000412	{memo X}{@st59}Tôi quá lười biếng để suy nghĩ.{/}	{@st59}나는 아무 생각이 없다. 왜냐하면 아무 생각이 없기 때문이다.{/}				
+UI_20150317_000413	Vật phẩm triêu hồi : {#ffcc33}%s{/}	소환체 : {#ffcc33}%s{/}				
 UI_20150317_000414	{memo X}Undead Harpy	언데드 하피				
 UI_20150317_000415	{memo X}Skill : %s	스킬 : %s				
 UI_20150317_000416	{memo X}Skill 1, Skill 2	스킬1, 스킬2				
-UI_20150317_000417	{memo X}Fragments needed : %s	필요 파편 : %s				
-UI_20150317_000418	{memo X}Beast 60 / Insect 20/ Mutant 10	야수 60 / 곤충 20 / 변이 10				
-UI_20150317_000419	Number of fragments	파편의 갯수				
-UI_20150317_000420	{memo X}Parts 1	파츠1				
-UI_20150317_000421	{memo X}Parts 2	파츠2				
-UI_20150317_000422	{memo X}Parts 3	파츠3				
-UI_20150317_000423	Congratulations! Your level has increased.	축하합니다! 레벨이 상승하였습니다				
-UI_20150317_000424	Item Alarm	아이템알림				
-UI_20150317_000425	{@st64}Details{/}	{@st64}내용{/}				
-UI_20150317_000426	How to Play	조작 튜토리얼				
-UI_20150317_000427	${@st42b}          Move once with each of the keys{/}	{@st42b}캐릭터가 상하좌우 4방향으로  이동합니다{/}				
-UI_20150317_000428	${@st42b}         Use a basic attack{/}	{@st42b}캐릭터가 기본 공격을 합니다{/}				
-UI_20150317_000429	${@st42b}                Jump up{/}	{@st42b}캐릭터가 제자리 또는 이동시 점프를 합니다{/}				
-UI_20150317_000430	{@st42b}Use two keys together to move diagonally{/}	{@st42b}인접한 방향키 2개를 동시에 입력해 대각선으로 이동합니다{/}				
-UI_20150317_000431	Fog Map Tool	맵 포그 툴				
-UI_20150317_000432	Tool for killing monsters	몬스터 죽이기 툴				
-UI_20150317_000433	Tool for making minimap	미니맵 만들기 툴				
-UI_20150317_000434	Dialogue tool	다이얼로그 툴				
-UI_20150317_000435	{@st43}GM Settings{/}	{@st43}운영자 설정{/}				
-UI_20150317_000436	{@st59}Close Party Information{/}	{@st59}파티 정보를 닫습니다{/}				
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the "Create Party" button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party through the Settings tab. {nl} - Set up specific conditions to search for party members from the Public Party list. {/}	{@st59b}파티 정보{nl}{@st59s} - 하단의 파티 생성 버튼을 눌러 스스로 파티 생성 가능{nl} - 다른 유저의 캐릭터 위에서 마우스 우클릭으로 파티 초대 가능{nl} - 설정탭에서 현재 파티의 다양한 설정을 실시간으로 조정{nl} - 파티 목록으로 파티원을 구할때 공개 항목에서 조건 설정{/}				
-UI_20150317_000438	{@st43}Party Information{/}	{@st43}파티 정보{/}				
-UI_20150317_000439	{@st41b}Members{/}	{@st41b}구성{/}				
-UI_20150317_000440	{@st41b}Party Event {/}	{@st41b}파티 이벤트{/}				
-UI_20150317_000441	{@st41b}Settings{/}	{@st41b}설정{/}				
-UI_20150317_000442	{memo X}{@st41}Members{/}	{@st41}멤버{/}				
-UI_20150317_000443	{memo X}{@st41}Conditions for joining party	{@st41}파티 가입 조건				
-UI_20150317_000444	{memo X}{@st41b}Public	{@st41b}공개				
-UI_20150317_000445	{memo X}{@st41b}Private	{@st41b}비공개				
-UI_20150317_000446	{memo X}Required Level ~	희망 레벨                                 ~				
-UI_20150317_000447	{memo X}{@st41}Item Priority	{@st41}아이템 분배 규칙				
-UI_20150317_000448	{memo X}{@st41b}Individual Loot	{@st41b}각자 획득				
-UI_20150317_000449	{memo X}{@st41b}Round Robin	{@st41b}순서대로 획득				
-UI_20150317_000450	{memo X}{@st41b}Random	{@st41b}랜덤하게 분배				
-UI_20150317_000451	{memo X}{@st41}EXP Priority	{@st41}경험치 분배 규칙				
-UI_20150317_000452	{memo X}{@st41b}Individual EXP	{@st41b}각자얻기				
-UI_20150317_000453	{memo X}{@st41b}Equal EXP	{@st41b}균등분배				
-UI_20150317_000454	{memo X}{@st41b}By Level	{@st41b}레벨차등				
-UI_20150317_000455	{memo X}{@st41}Quest Sharing	{@st41}퀘스트 공유				
-UI_20150317_000456	{memo X}{@st41b}Enabled	{@st41b}사용				
-UI_20150317_000457	{memo X}{@st41b}Disabled	{@st41b}사용안함				
-UI_20150317_000458	{@st41b}Create Party	{@st41b}파티 생성				
-UI_20150317_000459	{@st43}Public Party List {/}	{@st43}공개 파티 목록{/}				
-UI_20150317_000460	${@st59b}Public Party List{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}	{@st59b}공개 파티 목록{nl}{@st59s} - 서버내 공개된 파티 목록을 확인해서 원하는 파티에 가입{nl} - 검색 옵션 사용으로 원하는 조건의 파티 검색{/}				
-UI_20150317_000461	{@st59}Close Party List{/}	{@st59}파티목록을 닫습니다{/}				
-UI_20150317_000462	Use Search	검색 옵션 사용				
-UI_20150317_000463	Quest Sharing	퀘스트 공유				
-UI_20150317_000464	EXP Priority	경험치 분배규칙				
-UI_20150317_000465	Item Priority	아이템 분배규칙				
-UI_20150317_000466	{@st43}Invite	{@st43}초대				
-UI_20150317_000467	{@st41b}Invite{/}	{@st41b}초대{/}				
+UI_20150317_000417	{memo X}Mảnh vở cần: %s	필요 파편 : %s				
+UI_20150317_000418	{memo X}Thú 60 / Côn Trùng 20/ Quái Dị 10	야수 60 / 곤충 20 / 변이 10				
+UI_20150317_000419	Số mảnh vở	파편의 갯수				
+UI_20150317_000420	{memo X}Phần 1	파츠1				
+UI_20150317_000421	{memo X}Phần 2	파츠2				
+UI_20150317_000422	{memo X}Phần 3	파츠3				
+UI_20150317_000423	Chúc Mừng! Bạn đã lên cấp.	축하합니다! 레벨이 상승하였습니다				
+UI_20150317_000424	Báo vật phẩm	아이템알림				
+UI_20150317_000425	{@st64}Chi tiết{/}	{@st64}내용{/}				
+UI_20150317_000426	Hướng dẫn chơi	조작 튜토리얼				
+UI_20150317_000427	${@st42b}          Di chuyển một lần với mỗi phím{/}	{@st42b}캐릭터가 상하좌우 4방향으로  이동합니다{/}				
+UI_20150317_000428	${@st42b}         Dùng tấn công cở bản{/}	{@st42b}캐릭터가 기본 공격을 합니다{/}				
+UI_20150317_000429	${@st42b}                Nhảy lên{/}	{@st42b}캐릭터가 제자리 또는 이동시 점프를 합니다{/}				
+UI_20150317_000430	{@st42b}Sử dụng hai phím để di chuyển theo đường chéo{/}	{@st42b}인접한 방향키 2개를 동시에 입력해 대각선으로 이동합니다{/}				
+UI_20150317_000431	Bản đồ sương mù dụng cụ	맵 포그 툴				
+UI_20150317_000432	Dụng cụ để giết quái	몬스터 죽이기 툴				
+UI_20150317_000433	Dụng cụ để tạo bản đồ nhỏ 	미니맵 만들기 툴				
+UI_20150317_000434	Dụng cụ đối thoại	다이얼로그 툴				
+UI_20150317_000435	{@st43}Cài đặt của GM{/}	{@st43}운영자 설정{/}				
+UI_20150317_000436	{@st59}Đóng thông tin tổ đội{/}	{@st59}파티 정보를 닫습니다{/}				
+UI_20150317_000437	{@st59b}Thông tin tổ đội{nl}{@st59s} - Ấn ""Tạo Tổ Đội"" ở dưới để tạo một tổ đội.{nl} - Ấn chuột phải vào người chơi khác để gửi mời vào tổ đội.{nl} - Những sự thay đổi của tổ đội có thể làm qua tab cài đặt.{nl} - Thiết lập các điều kiện cụ thể để tìm kiếm các thành viên từ danh sách công cộng. {/}	{@st59b}파티 정보{nl}{@st59s} - 하단의 파티 생성 버튼을 눌러 스스로 파티 생성 가능{nl} - 다른 유저의 캐릭터 위에서 마우스 우클릭으로 파티 초대 가능{nl} - 설정탭에서 현재 파티의 다양한 설정을 실시간으로 조정{nl} - 파티 목록으로 파티원을 구할때 공개 항목에서 조건 설정{/}				
+UI_20150317_000438	{@st43}Thông tin tổ đội{/}	{@st43}파티 정보{/}				
+UI_20150317_000439	{@st41b}Thành viên{/}	{@st41b}구성{/}				
+UI_20150317_000440	{@st41b}Sự kiện Tổ Đội{/}	{@st41b}파티 이벤트{/}				
+UI_20150317_000441	{@st41b}thiết lập{/}	{@st41b}설정{/}				
+UI_20150317_000442	{memo X}{@st41}Thành Viên{/}	{@st41}멤버{/}				
+UI_20150317_000443	{memo X}{@st41}Điều kiện để tham gia	{@st41}파티 가입 조건				
+UI_20150317_000444	{memo X}{@st41b}Công khai	{@st41b}공개				
+UI_20150317_000445	{memo X}{@st41b}Cá Nhân	{@st41b}비공개				
+UI_20150317_000446	{memo X}yêu cần Level ~	희망 레벨                                 ~				
+UI_20150317_000447	{memo X}{@st41}Ưu tiên vật phẩm{@st41}아이템 분배 규칙				
+UI_20150317_000448	{memo X}{@st41b}Ưu tiên Nhặt cá nhân	{@st41b}각자 획득				
+UI_20150317_000449	{memo X}{@st41b}Thi Đấu	{@st41b}순서대로 획득				
+UI_20150317_000450	{memo X}{@st41b}Ngẫu nhiên	{@st41b}랜덤하게 분배				
+UI_20150317_000451	{memo X}{@st41}Ưu tiên kinh nghiệm	{@st41}경험치 분배 규칙				
+UI_20150317_000452	{memo X}{@st41b}Ưu tiên cá nhân	{@st41b}각자얻기				
+UI_20150317_000453	{memo X}{@st41b}Chia đều kinh nghiệm	{@st41b}균등분배				
+UI_20150317_000454	{memo X}{@st41b}Theo Level	{@st41b}레벨차등				
+UI_20150317_000455	{memo X}{@st41}Chia sẽ nhiệm vụ	{@st41}퀘스트 공유				
+UI_20150317_000456	{memo X}{@st41b}Mở	{@st41b}사용				
+UI_20150317_000457	{memo X}{@st41b}Tắt	{@st41b}사용안함				
+UI_20150317_000458	{@st41b}Tạo tổ đội	{@st41b}파티 생성				
+UI_20150317_000459	{@st43}Danh sách tổ đội công cộng {/}	{@st43}공개 파티 목록{/}				
+UI_20150317_000460	${@st59b}Danh sách tổ đội công cộng{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}	{@st59b}공개 파티 목록{nl}{@st59s} - 서버내 공개된 파티 목록을 확인해서 원하는 파티에 가입{nl} - 검색 옵션 사용으로 원하는 조건의 파티 검색{/}				
+UI_20150317_000461	{@st59}Đóng danh sách{/}	{@st59}파티목록을 닫습니다{/}				
+UI_20150317_000462	Dùng tìm kiếm	검색 옵션 사용				
+UI_20150317_000463	Chia sẽ nhiệm vụ	퀘스트 공유				
+UI_20150317_000464	Ưu tiên kinh nghiệm 경험치 분배규칙				
+UI_20150317_000465	Ưu tiên vật phẩm	아이템 분배규칙				
+UI_20150317_000466	{@st43}Mời	{@st43}초대				
+UI_20150317_000467	{@st41b}Mời{/}	{@st41b}초대{/}				
 UI_20150317_000468	{memo X}{s18}{ol}{gr gradation1}Logout PC rules{/}	{s18}{ol}{gr gradation1}로그아웃 PC 규칙{/}				
-UI_20150317_000469	{ol}Conditions for applying rules	{ol}규칙 적용 조건				
-UI_20150317_000470	{ol}Action for applying rules	{ol}규칙 적용 동작				
-UI_20150317_000471	Enter a name for the rule	규칙의 이름을 입력합니다				
-UI_20150317_000472	{Gr gradation1}Registration{/}	{gr gradation1}등록{/}				
-UI_20150317_000473	Register Rules	규칙을 등록합니다				
-UI_20150317_000474	{Gr gradation1}Cancel{/}	{gr gradation1}취소{/}				
-UI_20150317_000475	Cancel Action	작업을 취소합니다				
-UI_20150317_000476	{@st43}Companion Info	{@st43}컴패니언 정보				
-UI_20150317_000477	{@st59b} Companion Info{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}				
-UI_20150317_000478	{@st59}Close Companion Info{/}	{@st59}컴패니언 정보를 닫습니다{/}				
+UI_20150317_000469	{ol}Điều kiện cho việc áp dụng các quy tắc	{ol}규칙 적용 조건				
+UI_20150317_000470	{ol}Hành động cho việc áp dụng các quy tắc	{ol}규칙 적용 동작				
+UI_20150317_000471	Nhập tên cho quy tắc	규칙의 이름을 입력합니다				
+UI_20150317_000472	{Gr gradation1}Đăng ký{/}	{gr gradation1}등록{/}				
+UI_20150317_000473	Quy tắc đăng ký	규칙을 등록합니다				
+UI_20150317_000474	{Gr gradation1}hủy{/}	{gr gradation1}취소{/}				
+UI_20150317_000475	Hủy hành động	작업을 취소합니다				
+UI_20150317_000476	{@st43}Thông tin bạn đồng hành	{@st43}컴패니언 정보				
+UI_20150317_000477	{@st59b} Thông tin bạn đồng hành{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}				
+UI_20150317_000478	{@st59}Đóng Thông tin bạn đồng hành{/}	{@st59}컴패니언 정보를 닫습니다{/}				
 UI_20150317_000479	{memo X}{@st41b}Name : {@sti9}%s{/}	{@st41b}이름 : {@sti9}%s{/}				
 UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}	{@sti9}%s{@st41b}과의 친밀도 : {@sti9}%s {@st41b}레벨{/}				
 UI_20150317_000481	{memo X}{@st41b}EXP{/}	{@st41b}경험치{/}				
