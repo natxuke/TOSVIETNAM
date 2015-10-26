@@ -690,136 +690,136 @@ UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Lưu{/}{/}	{@st41b}{a SAVE_EDIT_SP
 UI_20150317_000690	{@st59}Lưu bức tranh{/}	{@st59}그리고 있는 그림을 저장합니다.{/}				
 UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Tải{/}{/}	{@st41b}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
 UI_20150317_000692	{@st59}Tải hình đã từng vẽ.{/}	{@st59}그렸던 그림을 불러옵니다.{/}				
-UI_20150317_000693	{@st59}Selected color 1{/}	{@st59}선택한 색상1{/}				
-UI_20150317_000694	{@st59}Selected color 2{/}	{@st59}선택한 색상2{/}				
-UI_20150317_000695	{@st59}Color List{/}	{@st59}색상 목록{/}				
-UI_20150317_000696	{@st59}Selected Brush{/}	{@st59}선택한 브러시{/}				
-UI_20150317_000697	{@st59}Brush 1{/}	{@st59}브러시 1{/}				
-UI_20150317_000698	{@st59}Brush 2{/}	{@st59}브러시 2{/}				
-UI_20150317_000699	{@st59}Brush 3{/}	{@st59}브러시 3{/}				
-UI_20150317_000700	{@st59}Brush 4{/}	{@st59}브러시 4{/}				
-UI_20150317_000701	{@st59}Brush 5{/}	{@st59}브러시 5{/}				
-UI_20150317_000702	{@st59}Brush 6{/}	{@st59}브러시 6{/}				
-UI_20150317_000703	{@st49}People who like this{/}	{@st49}좋아하는 사람들{/}				
-UI_20150317_000704	{s20}{#050505}Describe whatever	{s20}{#050505}뭐가되었든 설명				
-UI_20150317_000705	{@st41} All {/}	{@st41} 전체 {/}				
-UI_20150317_000706	{@st41} Party {/}	{@st41} 파티 {/}				
-UI_20150317_000707	{@st41} Monster {/}	{@st41} 몬스터 {/}				
-UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Remaining Status Points ▶ {@st46}%s	{@st41b}{#f0dcaa}남은 스테이터스 포인트 ▶ {@st46}%s				
-UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : By leveling up, you can earn points that you can use to enhance the 5 abilities to become more powerful. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 얻은 포인트를 사용해서 5가지 능력 강화{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}				
-UI_20150317_000710	{@st41b}Info{/}	{@st41b}정보{/}				
+UI_20150317_000693	{@st59}Chọn màu 1{/}	{@st59}선택한 색상1{/}				
+UI_20150317_000694	{@st59}Chọn màu 2{/}	{@st59}선택한 색상2{/}				
+UI_20150317_000695	{@st59}Danh sách màu{/}	{@st59}색상 목록{/}				
+UI_20150317_000696	{@st59}Chọn cọ vẽ{/}	{@st59}선택한 브러시{/}				
+UI_20150317_000697	{@st59}Cọ Vẽ 1{/}	{@st59}브러시 1{/}				
+UI_20150317_000698	{@st59}Cọ Vẽ 2{/}	{@st59}브러시 2{/}				
+UI_20150317_000699	{@st59}Cọ Vẽ 3{/}	{@st59}브러시 3{/}				
+UI_20150317_000700	{@st59}Cọ Vẽ 4{/}	{@st59}브러시 4{/}				
+UI_20150317_000701	{@st59}Cọ Vẽ 5{/}	{@st59}브러시 5{/}				
+UI_20150317_000702	{@st59}Cọ Vẽ 6{/}	{@st59}브러시 6{/}				
+UI_20150317_000703	{@st49}Những người đã thích{/}	{@st49}좋아하는 사람들{/}				
+UI_20150317_000704	{s20}{#050505}Mô tả bất cứ điều gì	{s20}{#050505}뭐가되었든 설명				
+UI_20150317_000705	{@st41} Tất Cả {/}	{@st41} 전체 {/}				
+UI_20150317_000706	{@st41} Tổ Đội {/}	{@st41} 파티 {/}				
+UI_20150317_000707	{@st41} Quái vật {/}	{@st41} 몬스터 {/}				
+UI_20150317_000708	{memo X}{@st41b}{#f0dcaa}Điểm Chỉ Số còn lại ▶ {@st46}%s	{@st41b}{#f0dcaa}남은 스테이터스 포인트 ▶ {@st46}%s				
+UI_20150317_000709	{@st59b}Thông Tin Của Tôi{nl}{@st59s}- Chỉ Số :  Khi bạn lên cấp mới, bạn sẽ nhận được điểm chỉ số mà bạn có thể sử dụng để làm nhân vật của bạn mạnh hơn.{nl}- Thông Tin : Đây là thông tin về nhân vật của bạn dựa trên chỉ số và thiết bị của bạn.{nl}- Danh Hiệu : Bạn có thể nhận được danh hiệu khi hoàn thành thành tựu.{nl} {/}	{@st59b}내 정보{nl}{@st59s} - 스테이터스 : 레벨업으로 얻은 포인트를 사용해서 5가지 능력 강화{nl} - 정보 : 아이템 및 스테이터스 능력치에 따른 캐릭터 능력치 정보{nl} - 칭호 : 업적을 완료했을때 습득가능한 칭호{nl}{/}				
+UI_20150317_000710	{@st41b}Thông Tin{/}	{@st41b}정보{/}				
 UI_20150317_000711	{memo X}{@st41b}Title{/}	{@st41b}칭호{/}				
-UI_20150317_000712	Show Class	직업 출력				
-UI_20150317_000713	Show Character Name	캐릭터 이름 출력				
-UI_20150317_000714	{@st59}Change Character Name{/}	{@st59}캐릭터 이름을 수정합니다{/}				
-UI_20150317_000715	{memo X}{@st41b}Apply	{@st41b}적용				
-UI_20150317_000716	{@st59}Apply{/}	{@st59}스테이터스 분배를 적용합니다{/}				
-UI_20150317_000717	{@st41b}Cancel	{@st41b}취소				
-UI_20150317_000718	{memo X}{@st59}Cancel{/}	{@st59}스테이터스 분배를 취소합니다{/}				
-UI_20150317_000719	PC Name	PC이름				
+UI_20150317_000712	Hiện Class	직업 출력				
+UI_20150317_000713	Hiện Tên Nhân Vật	캐릭터 이름 출력				
+UI_20150317_000714	{@st59}Thay đổi tên nhân vật/}	{@st59}캐릭터 이름을 수정합니다{/}				
+UI_20150317_000715	{memo X}{@st41b}Áp Dụng	{@st41b}적용				
+UI_20150317_000716	{@st59}Áp Dụng{/}	{@st59}스테이터스 분배를 적용합니다{/}				
+UI_20150317_000717	{@st41b}Hủy	{@st41b}취소				
+UI_20150317_000718	{memo X}{@st59}Hủy{/}	{@st59}스테이터스 분배를 취소합니다{/}				
+UI_20150317_000719	Tên Máy tính	PC이름				
 UI_20150317_000720	{@st41_yellow}Level: {@st41}%s{/}	{@st41_yellow}레벨: {@st41}%s{/}				
-UI_20150317_000721	{memo X}{@st41_yellow}Mercenary Skills	{@st41_yellow}용병 스킬				
-UI_20150317_000722	{@st43}Attack Effects{/}	{@st43}공격 효과{/}				
-UI_20150317_000723	{@st43}Defense Effects{/}	{@st43}방어 효과{/}				
-UI_20150317_000724	{@st43}Stat{/}	{@st43}스탯{/}				
+UI_20150317_000721	{memo X}{@st41_yellow}Kỹ năng đánh mướn	{@st41_yellow}용병 스킬				
+UI_20150317_000722	{@st43}Hiệu ứng tấn công{/}	{@st43}공격 효과{/}				
+UI_20150317_000723	{@st43}Hiệu ứng phòng thủ{/}	{@st43}방어 효과{/}				
+UI_20150317_000724	{@st43}Chỉ Số{/}	{@st43}스탯{/}				
 UI_20150317_000725	systemmenu_vertical tentative removal	systemmenu_vertical 잠정제거				
-UI_20150317_000726	{@st59}Character Information (F1){/}	{@st59}캐릭터 정보 (F1){/}				
-UI_20150317_000727	{@st59}Inventory (F2){/}	{@st59}인벤토리 (F2){/}				
-UI_20150317_000728	${@st59}Classes & Skills (F3){/}	{@st59}클래스와 스킬 (F3){/}				
-UI_20150317_000729	{@st59}Adventure Journal (F4){/}	{@st59}모험일지 (F4){/}				
-UI_20150317_000730	{@st59}Quest (F5){/}	{@st59}퀘스트 (F5){/}				
-UI_20150317_000731	{@st59}Party (F6){/}	{@st59}파티 (F6){/}				
-UI_20150317_000732	{@st59}Friend (F7){/}	{@st59}친구 (F7){/}				
-UI_20150317_000733	{@st59}Macro (F8) {/}	{@st59}매크로 (F8){/}				
-UI_20150317_000734	{@st59}Companion (F9) {/}	{@st59}컴패니언 (F9){/}				
-UI_20150317_000735	{@st59}Help (F10) {/}	{@st59}도움말 (F10){/}				
-UI_20150317_000736	{@st59}System Menu (Esc){/}	{@st59}시스템 메뉴 (Esc){/}				
+UI_20150317_000726	{@st59}Thông Tin Nhân Vật (F1){/}	{@st59}캐릭터 정보 (F1){/}				
+UI_20150317_000727	{@st59}Túi Đồ (F2){/}	{@st59}인벤토리 (F2){/}				
+UI_20150317_000728	${@st59}Nghề Nghiệp & Kỹ Năng (F3){/}	{@st59}클래스와 스킬 (F3){/}				
+UI_20150317_000729	{@st59}Nhật kí hành trình (F4){/}	{@st59}모험일지 (F4){/}				
+UI_20150317_000730	{@st59}Nhiệm Vụ (F5){/}	{@st59}퀘스트 (F5){/}				
+UI_20150317_000731	{@st59}Tổ Đội (F6){/}	{@st59}파티 (F6){/}				
+UI_20150317_000732	{@st59}Bạn Bè (F7){/}	{@st59}친구 (F7){/}				
+UI_20150317_000733	{@st59}Biểu Cảm (F8) {/}	{@st59}매크로 (F8){/}				
+UI_20150317_000734	{@st59}Bạn Đồng Hành (F9) {/}	{@st59}컴패니언 (F9){/}				
+UI_20150317_000735	{@st59}Trợ Giúp (F10) {/}	{@st59}도움말 (F10){/}				
+UI_20150317_000736	{@st59}Hệ Thống (Esc){/}	{@st59}시스템 메뉴 (Esc){/}				
 UI_20150317_000737	{@st59}Necronomicon{/}	{@st59}네크로노미콘{/}				
-UI_20150317_000738	Help(F1)	도움말(F1)				
-UI_20150317_000739	Contents	내용				
-UI_20150317_000740	View Details	상세보기				
-UI_20150317_000741	{@st43}Game Settings{/}	{@st43}게임 설정{/}				
-UI_20150317_000742	{@st43}Game{/}	{@st43}게임{/}				
-UI_20150317_000743	{memo X}{@st41b}Show acquired EXP{/}	{@st41b}경험치 획득량 표기{/}				
-UI_20150317_000744	{memo X}{@st41b}Show Character Name{/}	{@st41b}캐릭터 이름 보기{/}				
-UI_20150317_000745	{memo X}{@st41b}Show Team Name only{/}	{@st41b}팀 이름만 표시{/}				
-UI_20150317_000746	{memo X}{@st41b}Show Quest Guide{/}	{@st41b}퀘스트 가이드 표시{/}				
-UI_20150317_000747	{@st43}Resolution{/}	{@st43}화면{/}				
-UI_20150317_000748	{@st43}Graphics{/}	{@st43}그래픽{/}				
-UI_20150317_000749	{memo X}{@st41b}Full Screen{/}	{@st41b}전체 화면{/}				
-UI_20150317_000750	{memo X}{@st41b}Windowed Mode{/}	{@st41b}창모드{/}				
-UI_20150317_000751	{@st43}Sound{/}	{@st43}사운드{/}				
-UI_20150317_000752	{memo X}{@st41b}Sound Effects Volume (%s){/}	{@st41b}효과음 크기 (%s){/}				
-UI_20150317_000753	{memo X}{@st41b}BGM Volume (%s){/}	{@st41b}음악 크기 (%s){/}				
-UI_20150317_000754	{memo X}{@st41b}Volume (%s){/}	{@st41b}사운드 전체 크기 (%s){/}				
-UI_20150317_000755	{@st43}{b}Select Language{/}	{@st43}언어 선택{/}				
-UI_20150317_000756	{@st59}Close Settings{/}	{@st59}게임 설정창을 닫습니다{/}				
-UI_20150317_000757	{memo X}Lowest-mode {@st41b} {/}	{@st41b}최저 사양 모드{/}				
-UI_20150317_000758	{@st41b}View{/}	{@st41b}보기{/}				
+UI_20150317_000738	Trợ Giúp(F1)	도움말(F1)				
+UI_20150317_000739	Nội Dung	내용				
+UI_20150317_000740	Xem Chi Tiết	상세보기				
+UI_20150317_000741	{@st43}Thiết lập trò chơi {/}	{@st43}게임 설정{/}				
+UI_20150317_000742	{@st43}Trò Chơi{/}	{@st43}게임{/}				
+UI_20150317_000743	{memo X}{@st41b}Hiện số kinh nghiệm nhận được{/}	{@st41b}경험치 획득량 표기{/}				
+UI_20150317_000744	{memo X}{@st41b}Hiện Tên Nhân Vật{/}	{@st41b}캐릭터 이름 보기{/}				
+UI_20150317_000745	{memo X}{@st41b}Chỉ Hiện Tên Nhóm {/}	{@st41b}팀 이름만 표시{/}				
+UI_20150317_000746	{memo X}{@st41b}Hiện hướng dẫn nhiệm vụ{/}	{@st41b}퀘스트 가이드 표시{/}				
+UI_20150317_000747	{@st43}Độ Phân Giải{/}	{@st43}화면{/}				
+UI_20150317_000748	{@st43}Đồ Họa{/}	{@st43}그래픽{/}				
+UI_20150317_000749	{memo X}{@st41b}Toàn Màng Hình{/}	{@st41b}전체 화면{/}				
+UI_20150317_000750	{memo X}{@st41b}Chế Độ Cửa sổ{/}	{@st41b}창모드{/}				
+UI_20150317_000751	{@st43}Âm Thanh{/}	{@st43}사운드{/}				
+UI_20150317_000752	{memo X}{@st41b}Âm Thanh Hiệu Ứng (%s){/}	{@st41b}효과음 크기 (%s){/}				
+UI_20150317_000753	{memo X}{@st41b}Nhạc Nền (%s){/}	{@st41b}음악 크기 (%s){/}				
+UI_20150317_000754	{memo X}{@st41b}Âm Thanh Chính (%s){/}	{@st41b}사운드 전체 크기 (%s){/}				
+UI_20150317_000755	{@st43}{b}Chọn Ngôn Ngữ{/}	{@st43}언어 선택{/}				
+UI_20150317_000756	{@st59}Đóng thiết lập{/}	{@st59}게임 설정창을 닫습니다{/}				
+UI_20150317_000757	{memo X}Chế độ thấp nhất{@st41b} {/}	{@st41b}최저 사양 모드{/}				
+UI_20150317_000758	{@st41b}Xem{/}	{@st41b}보기{/}				
 UI_20150317_000759	{@st59}Credits{/}	{@st59}만든 사람들{/}				
 UI_20150317_000760	Target buff window	타겟버프창				
-UI_20150317_000761	{@st46}IMC's picture	{@st46}IMC님의 그림				
+UI_20150317_000761	{@st46}Hình IMC	{@st46}IMC님의 그림				
 UI_20150317_000762	{@st46}%s's picture	{@st46}%s님의 그림				
-UI_20150317_000763	{@st46}Like	{@st46}좋아요				
+UI_20150317_000763	{@st46}Thích	{@st46}좋아요				
 UI_20150317_000764	{@st46}Report	{@st46}신고				
 UI_20150317_000765	{@st46}Use preservatives	{@st46}보존제 사용				
-UI_20150317_000766	{@st46}Remove Picture	{@st46}그림 제거				
+UI_20150317_000766	{@st46}Xóa hình	{@st46}그림 제거				
 UI_20150317_000767	Snow Hallucination	스노우할레이션				
-UI_20150317_000768	Bouquet	꽃다발				
-UI_20150317_000769	{@st41} Gifts	{@st41}선물				
-UI_20150317_000770	Please enter a quantity	개수를 입력하세요.				
-UI_20150317_000771	{@st53b}%s Wins %s Loss	{@st53b}%s 승 %s 패				
-UI_20150317_000772	{@st42}Today's Schedule	{@st42}오늘의 스케쥴				
-UI_20150317_000773	{@st53}To Start :	{@st53}시작까지 :				
-UI_20150317_000774	{@st53b}Gifts received : ×%s	{@st53b}받은선물 : %s개				
-UI_20150317_000775	{@st43b}Send gift to %s{/}	{@st43b}%s님에게 선물{/}				
-UI_20150317_000776	{@st55_a}Next game	{@st55_a}다음 경기				
-UI_20150317_000777	{@st53}- Click on the name to spectate{nl}- Right-click to send a gift	{@st53}- 이름을 클릭하여 관전 가능{nl}- 우 클릭으로 선물가능				
-UI_20150317_000778	My character as camera	카메라를 나의 캐릭터로				
-UI_20150317_000779	{@st55_a}Congratulations!	{@st55_a}우승을 축하드립니다!				
-UI_20150317_000780	{@st42}Switch Camera	{@st42}카메라 전환				
-UI_20150317_000781	{@st44}Adventure Journal{/}	{@st44}모험일지{/}				
-UI_20150317_000782	{@st59}Change view settings{/}	{@st59}표시 방식을 변경합니다{/}				
-UI_20150317_000783	{@st41} Statistics {/}	{@st41} 통계 {/}				
-UI_20150317_000784	{@st41}Crafting {/}	{@st41} 제조 {/}				
-UI_20150317_000785	{@st41} Hunt {/}	{@st41} 사냥 {/}				
-UI_20150317_000786	{@st41} Help {/}	{@st41} 도움말 {/}				
-UI_20150317_000787	{@st44}Wiki page{/}	{@st44}위키페이지{/}				
-UI_20150317_000788	{@st42}Information{/}	{@st42}정보{/}				
-UI_20150317_000789	{@st42}Details{/}	{@st42}상세{/}				
-UI_20150317_000790	{@st42}Combat{/}	{@st42}전투{/}				
-UI_20150317_000791	{@st42}Acquire{/}	{@st42}획득{/}				
-UI_20150317_000792	{@st59}Close page{/}	{@st59}페이지를 닫습니다{/}				
-UI_20150317_000793	{memo X}{@st43}Battlefield	{@st43}배틀 필드				
-UI_20150317_000794	{memo X}{@st59}Close Battlefield.	{@st59}배틀 필드를 닫습니다.				
-UI_20150317_000795	{memo X}(Bronze 3)	(브론즈 3)				
-UI_20150317_000796	{@sti8}Points to earn today : {nl}%s{/}	{@sti8}오늘의 획득가능 점수 : {nl}%s{/}				
-UI_20150317_000797	{@st41}Point Shop	{@st41}포인트샵				
-UI_20150317_000798	{@st41}Ranking	{@st41}랭킹				
-UI_20150317_000799	{memo X}{@st42}Battlefield schedule	{@st42}배틀 필드 일정				
-UI_20150317_000800	{@st42}Recent Records	{@st42}최근 전적				
-UI_20150317_000801	{@st41}Receive EXP	{@st41}경험치 받기				
-UI_20150317_000802	{@st41}PvP Page	{@st41}PVP페이지				
-UI_20150317_000803	{@st41}Search	{@st41}검색				
-UI_20150317_000804	{memo X}{@st43}Battlefield Rankings	{@st43}배틀 필드 랭킹				
-UI_20150317_000805	{memo X}{@st59}Close Battlefield rankings	{@st59}배틀 필드랭킹을 닫습니다.				
-UI_20150317_000806	{@st56}Skill Name{/}	{@st56}스킬이름{/}				
-UI_20150317_000807	{@st41}Check coordinates{/}	{@st41}좌표 확인{/}				
-UI_20150317_000808	{@st41}Find{/}	{@st41}찾아가기{/}				
-UI_20150317_000809	{@st42b}Manage monster regen{/}	{@st42b}몬젠 관리{/}				
-UI_20150317_000810	{@st42b}Monster List{/}	{@st42b}몬스터 리스트{/}				
-UI_20150317_000811	{@st42b}Create UI{/}	{@st42b}UI 제작{/}				
-UI_20150317_000812	{@st42b}Map Fog{/}	{@st42b}맵 포그{/}				
-UI_20150317_000813	{@st42b}Create Map{/}	{@st42b}맵 제작{/}				
-UI_20150317_000814	{@st42b}Create Minimap{/}	{@st42b}미니맵 제작{/}				
-UI_20150317_000815	{@st42b}Dialog {/}	{@st42b}다이얼로그 {/}				
-UI_20150317_000816	{@st42b}Change Quest Rewards{/}	{@st42b}퀘스트 보상 수정{/}				
+UI_20150317_000768	Bó hoa	꽃다발				
+UI_20150317_000769	{@st41} Quà tặng	{@st41}선물				
+UI_20150317_000770	Xin vui lòng điền vào số lượng	개수를 입력하세요.				
+UI_20150317_000771	{@st53b}%s Thắng %s Thua	{@st53b}%s 승 %s 패				
+UI_20150317_000772	{@st42}Lịch trình của ngày hôm nay	{@st42}오늘의 스케쥴				
+UI_20150317_000773	{@st53}Bắt đầu từ :	{@st53}시작까지 :				
+UI_20150317_000774	{@st53b}Quà tặng nhận được : ×%s	{@st53b}받은선물 : %s개				
+UI_20150317_000775	{@st43b}Gửi quà tới %s{/}	{@st43b}%s님에게 선물{/}				
+UI_20150317_000776	{@st55_a}Trận Đấu Tiếp Theo	{@st55_a}다음 경기				
+UI_20150317_000777	{@st53}- Nhấn vào tên để theo dõi{nl}- kích chuột phải để gửi quà	{@st53}- 이름을 클릭하여 관전 가능{nl}- 우 클릭으로 선물가능				
+UI_20150317_000778	Dùng nhân vật làm camera	카메라를 나의 캐릭터로				
+UI_20150317_000779	{@st55_a}Xin Chúc Mừng!	{@st55_a}우승을 축하드립니다!				
+UI_20150317_000780	{@st42}Thay đổi camera	{@st42}카메라 전환				
+UI_20150317_000781	{@st44}Nhật Ký Hành Trình{/}	{@st44}모험일지{/}				
+UI_20150317_000782	{@st59}Thay Đổi Kiểu Xem{/}	{@st59}표시 방식을 변경합니다{/}				
+UI_20150317_000783	{@st41}Bản Thống Kê {/}	{@st41} 통계 {/}				
+UI_20150317_000784	{@st41}Chế Tạo {/}	{@st41} 제조 {/}				
+UI_20150317_000785	{@st41} Săn Bắn {/}	{@st41} 사냥 {/}				
+UI_20150317_000786	{@st41} Trợ Giúp {/}	{@st41} 도움말 {/}				
+UI_20150317_000787	{@st44}Trang Wiki{/}	{@st44}위키페이지{/}				
+UI_20150317_000788	{@st42}Thông Tin{/}	{@st42}정보{/}				
+UI_20150317_000789	{@st42}Chi Tiết{/}	{@st42}상세{/}				
+UI_20150317_000790	{@st42}Chiến Đấu{/}	{@st42}전투{/}				
+UI_20150317_000791	{@st42}Kiếm Được{/}	{@st42}획득{/}				
+UI_20150317_000792	{@st59}Đóng trang{/}	{@st59}페이지를 닫습니다{/}				
+UI_20150317_000793	{memo X}{@st43}Chiến Trường	{@st43}배틀 필드				
+UI_20150317_000794	{memo X}{@st59}Thoát Chiến Trường.	{@st59}배틀 필드를 닫습니다.				
+UI_20150317_000795	{memo X}(Đồng 3)	(브론즈 3)				
+UI_20150317_000796	{@sti8}Điểm kiếm được ngày hôm nay: {nl}%s{/}	{@sti8}오늘의 획득가능 점수 : {nl}%s{/}				
+UI_20150317_000797	{@st41}Cửa hàng điểm	{@st41}포인트샵				
+UI_20150317_000798	{@st41}Xếp Hạng	{@st41}랭킹				
+UI_20150317_000799	{memo X}{@st42}Lịch Chiến Trường	{@st42}배틀 필드 일정				
+UI_20150317_000800	{@st42}Hồ sơ gần đây	{@st42}최근 전적				
+UI_20150317_000801	{@st41}Kinh nghiệm nhận được	{@st41}경험치 받기				
+UI_20150317_000802	{@st41}Trang pvp	{@st41}PVP페이지				
+UI_20150317_000803	{@st41}Tìm Kiếm	{@st41}검색				
+UI_20150317_000804	{memo X}{@st43}Xếp Hạng Chiến Trường	{@st43}배틀 필드 랭킹				
+UI_20150317_000805	{memo X}{@st59}Thoát xếp hạng chiến trường	{@st59}배틀 필드랭킹을 닫습니다.				
+UI_20150317_000806	{@st56}Tên kỹ năng{/}	{@st56}스킬이름{/}				
+UI_20150317_000807	{@st41}Kiểm Tra Tọa Độ{/}	{@st41}좌표 확인{/}				
+UI_20150317_000808	{@st41}Tìm{/}	{@st41}찾아가기{/}				
+UI_20150317_000809	{@st42b}Quản lý quái vật{/}	{@st42b}몬젠 관리{/}				
+UI_20150317_000810	{@st42b}Danh Sách Quái{/}	{@st42b}몬스터 리스트{/}				
+UI_20150317_000811	{@st42b}Tạo Giao Diện{/}	{@st42b}UI 제작{/}				
+UI_20150317_000812	{@st42b}Sương Mù Bản Đồ{/}	{@st42b}맵 포그{/}				
+UI_20150317_000813	{@st42b}Tạo Bản Đồ{/}	{@st42b}맵 제작{/}				
+UI_20150317_000814	{@st42b}Tạo Bản Đồ Nhỏ{/}	{@st42b}미니맵 제작{/}				
+UI_20150317_000815	{@st42b}Đối Thoại {/}	{@st42b}다이얼로그 {/}				
+UI_20150317_000816	{@st42b}Đổi phần thưởng của nhiệm vụ{/}	{@st42b}퀘스트 보상 수정{/}				
 UI_20150317_000817	{@st42b}Group regen{/}	{@st42b}그룹젠{/}				
-UI_20150317_000818	{@st42b}Set map location{/}	{@st42b}맵 위치지정{/}				
-UI_20150317_000819	{@st42b}Skills map{/}	{@st42b}스킬맵{/}				
-UI_20150317_000820	{@st42b}List of events{/}	{@st42b}이벤트 목록{/}				
-UI_20150317_000821	{@st42b}Check coordinates{/}	{@st42b}좌표 확인{/}				
-UI_20150317_000822	{@st42b} Check XAC, texture path{/}	{@st42b}XAC,텍스쳐경로확인{/}				
+UI_20150317_000818	{@st42b}Thiết lập vị trí bản đồ{/}	{@st42b}맵 위치지정{/}				
+UI_20150317_000819	{@st42b}Kỹ năng bản đồ{/}	{@st42b}스킬맵{/}				
+UI_20150317_000820	{@st42b}Dach sách sự kiện{/}	{@st42b}이벤트 목록{/}				
+UI_20150317_000821	{@st42b}Kiểm tra tọa độ{/}	{@st42b}좌표 확인{/}				
+UI_20150317_000822	{@st42b} Kiểm Tra XAC, texture path{/}	{@st42b}XAC,텍스쳐경로확인{/}				
 UI_20150317_000823	{@st42b}Performance ON/OFF{/}	{@st42b}퍼포먼스ONOFF{/}				
 UI_20150317_000824	Dialogue list	대사 리스트				
 UI_20150317_000825	Search	검색.				
@@ -1802,13 +1802,13 @@ UI_20150918_001801	{@st66b}Try Again{/}	{@st66b}재도전{/}	UI_20150317_000610	
 UI_20150918_001802	{@st66b}Items Sold{/}	{@st66b}내가 판매한 아이템{/}	UI_20150317_000634	{@st41b}My Sold Items{/}	{@st41b}내가 판매한 아이템{/}	
 UI_20150918_001803	{@st53}Ranking Points : %s	{@st53}랭킹포인트 : %s				
 UI_20150918_001804	Total Untradable: %s	총 거래 불가: %s개				
-UI_20150918_001805	{@st42b}Check Dialogue{/}	{@st42b}대사 확인{/}				
-UI_20150918_001806	{@st66b}Give food to outside party{/}	{@st66b}파티원 외 음식 제공{/}				
-UI_20150918_001807	{@st41b}Change Signboard Title	{@st41b}간판이름변경				
-UI_20150918_001808	{@sti9}My Rank	{@sti9}내 랭킹				
-UI_20150918_001809	{@sti9}Kill Rank	{@sti9}킬 랭킹				
-UI_20150918_001810	{@sti9}Damage Rank	{@sti9}데미지 랭킹				
-UI_20151001_001811	{@st43}Key Settings{/}	{@st43}키 설정{/}				
-UI_20151001_001812	{@st45tw2}Category	{@st45tw2}카테고리				
-UI_20151001_001813	Action	액션				
-UI_20151001_001814	Restore defaults	기본값 복원				
+UI_20150918_001805	{@st42b}Kiểm Tra Đối Thoại{/}	{@st42b}대사 확인{/}				
+UI_20150918_001806	{@st66b}Cho tổ đội khác thức ăn{/}	{@st66b}파티원 외 음식 제공{/}				
+UI_20150918_001807	{@st41b}Thay đổi tiêu đề của bảng{@st41b}간판이름변경				
+UI_20150918_001808	{@sti9}Hạng Của Tôi	{@sti9}내 랭킹				
+UI_20150918_001809	{@sti9}Xếp hạng giết	{@sti9}킬 랭킹				
+UI_20150918_001810	{@sti9}Xếp Hạng sát thương	{@sti9}데미지 랭킹				
+UI_20151001_001811	{@st43}Thiết Lập Bàn Phím{/}	{@st43}키 설정{/}				
+UI_20151001_001812	{@st45tw2}Thể Loại	{@st45tw2}카테고리				
+UI_20151001_001813	Hành Động	액션				
+UI_20151001_001814	Khôi phục mặc định	기본값 복원				
