@@ -299,7 +299,7 @@ UI_20150317_000298	99 phút 99 giây	99분 99초
 UI_20150317_000299	38000 Điểm	38000 점				
 UI_20150317_000300	Thuốc tăng cao tóc độ	향상된 신속의 물약				
 UI_20150317_000301	{@st41}Xác Nhận{/}	{@st41}확 인{/}				
-UI_20150317_000302	${@st59b} Nhật ký Hành Trình {nl}{@st59s}- Sự tiến triển của trò chơi của bạn sẽ được lưu lại trong nhật ký hành trình. {nl} - bạn có thể tiến triển hành trình của bạn bằng cách: nhận được vật phẩm, giết quái, chế tạo, và khám phá thế giới.{nl}    Mục lục của hành trình : Tất cả mục lục của bạn. {nl}    Tăng Trưởng : 5 điểm cho mỗi cấp của nhân vật và cấp class.{nl}    Vật Phẩm : Trang Bị : Cấp Trang Bị X 10 Điểm, Sách : 10 points, Khác : 1 point {nl}    Quái Vật : 10 Điểm cho mỗi quái vật (50 Điểm cho Boss) {nl}    Thế Giới : 1 Điểm cho mỗi 10% thế giới được khám phá{nl}    Nhiệm Vụ : 1 điểm cho mỗi 1 nhiệm vụ {nl}    Thành Tích : Điểm tùy theo từng thành tích{nl}    Chế Tạo : 10 Điểm {nl}    Sưu Tầm : 5 điểm cho 1 bộ bài và 45 điểm khi hoàn thành.{nl} - Người chơi có thể nhận được quá đặc biết từ NPC trong thành phố tùy theo số điểm hành trình. {/}	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}				
+UI_20150317_000302	${@st59b} Nhật ký Hành Trình {nl}{@st59s}- Sự tiến triển của trò chơi của bạn sẽ được lưu lại trong nhật ký hành trình. {nl} - bạn có thể tiến triển hành trình của bạn bằng cách: nhận được vật phẩm, giết quái, chế tạo, và khám phá thế giới.{nl}    Mục lục của hành trình : Tất cả mục lục của bạn. {nl}    Tăng Trưởng : 5 điểm cho mỗi cấp của nhân vật và cấp class.{nl}    Vật Phẩm : Thiết Bị : Cấp Trang Bị X 10 Điểm, Sách : 10 points, Khác : 1 point {nl}    Quái Vật : 10 Điểm cho mỗi quái vật (50 Điểm cho Boss) {nl}    Thế Giới : 1 Điểm cho mỗi 10% thế giới được khám phá{nl}    Nhiệm Vụ : 1 điểm cho mỗi 1 nhiệm vụ {nl}    Thành Tích : Điểm tùy theo từng thành tích{nl}    Chế Tạo : 10 Điểm {nl}    Sưu Tầm : 5 điểm cho 1 bộ bài và 45 điểm khi hoàn thành.{nl} - Người chơi có thể nhận được quá đặc biết từ NPC trong thành phố tùy theo số điểm hành trình. {/}	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}				
 UI_20150317_000303	{@sti7}{s22}{ds}Thành Tích{/}	{@sti7}{s22}{ds}모험지수 달성도{/}				
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Điểm{/}	{@st42b}{#22FF22}상위 10% / %s점{/}				
 UI_20150317_000305	{@st42b} Trung Bình / %s Điểm {/}	{@st42b}전체 평균 /  %s점{/}				
@@ -474,222 +474,222 @@ UI_20150317_000473	Quy tắc đăng ký	규칙을 등록합니다
 UI_20150317_000474	{Gr gradation1}hủy{/}	{gr gradation1}취소{/}				
 UI_20150317_000475	Hủy hành động	작업을 취소합니다				
 UI_20150317_000476	{@st43}Thông tin bạn đồng hành	{@st43}컴패니언 정보				
-UI_20150317_000477	{@st59b} Thông tin bạn đồng hành{nl}{@st59s} - You can set your Companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your Companion can be customized. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}				
+UI_20150317_000477	{@st59b} Thông tin bạn đồng hành{nl}{@st59s} - Bạn có thể thiết lập bạn đồng hành của bạn ở chế độ kích hoạt hoặc chế độ nghỉ ngơi bằng các nút dưới đây.{nl} - Các thuộc tính và trang bị của bạn đồng hành có thể được tùy chỉnh {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}				
 UI_20150317_000478	{@st59}Đóng Thông tin bạn đồng hành{/}	{@st59}컴패니언 정보를 닫습니다{/}				
-UI_20150317_000479	{memo X}{@st41b}Name : {@sti9}%s{/}	{@st41b}이름 : {@sti9}%s{/}				
+UI_20150317_000479	{memo X}{@st41b}Tên : {@sti9}%s{/}	{@st41b}이름 : {@sti9}%s{/}				
 UI_20150317_000480	{memo X}{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}	{@sti9}%s{@st41b}과의 친밀도 : {@sti9}%s {@st41b}레벨{/}				
-UI_20150317_000481	{memo X}{@st41b}EXP{/}	{@st41b}경험치{/}				
+UI_20150317_000481	{memo X}{@st41b}Kinh Nghiệm{/}	{@st41b}경험치{/}				
 UI_20150317_000482	{memo X}{@st41b}Stamina{/}	{@st41b}스태미나{/}				
-UI_20150317_000483	{memo X}{@st41b}Closeness{/}	{@st41b}친밀도{/}				
-UI_20150317_000484	{memo X}{@st41b}Attributes and Information	{@st41b}특성 및 정보				
-UI_20150317_000485	{@st43}Companion{/}	{@st43}컴패니언{/}				
-UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}	{@st59b}컴패니언{nl}{@st59s} - 목록에서 원하는 항목을 클릭해서 상세 정보 보기{/}				
-UI_20150317_000487	{@st59}Close Companion{/}	{@st59}컴패니언을 닫습니다{/}				
-UI_20150317_000488	{@st59}Close Help window{/}	{@st59}도움말 창을 닫습니다{/}				
-UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}	{@st59}도움말{nl} - 도움말 상세 보기{nl} - 다른 항목을 보려면 도움말 목록에서 선택{/}				
-UI_20150317_000490	{@st43}Help{/}	{@st43}도움말{/}				
-UI_20150317_000491	Help Topics	도움말 제목				
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s	{ol}{#AAAA00}{s16}진행시간 : %s				
-UI_20150317_000493	{@st43}Poison Pot{/}	{@st43}포이즌 팟{/}				
-UI_20150317_000494	{@st59}Close Poison Pot UI{/}	{@st59}포이즌 팟 UI를 닫습니다{/}				
-UI_20150317_000495	{@st59}Need to write{/}	{@st59}작성 필요{/}				
-UI_20150317_000496	{memo X}The amount of poison: %s	독의 양 : %s				
-UI_20150317_000497	{memo X}Items that can be used to Craft poison	독 제조에 쓰일 수 있는 아이템				
-UI_20150317_000498	{memo X}Select All	전체 선택				
-UI_20150317_000499	Click again to unselect all	한번 더 클릭시 전체 해제				
-UI_20150317_000500	{memo X}Crafting	제조				
-UI_20150317_000501	{memo X}shuffle shuffle mix and shuffle	섞고 섞고 돌리고 섞고				
-UI_20150317_000502	{@st43}Category{/}	{@st43}항목{/}				
-UI_20150317_000503	{@st43}Me{/}	{@st43}나{/}				
-UI_20150317_000504	{@st43}Object{/}	{@st43}대상{/}				
+UI_20150317_000483	{memo X}{@st41b}Thân Thiết{/}	{@st41b}친밀도{/}				
+UI_20150317_000484	{memo X}{@st41b}Các thuộc tính và thông tin	{@st41b}특성 및 정보				
+UI_20150317_000485	{@st43}Bạn Đồng Hành{/}	{@st43}컴패니언{/}				
+UI_20150317_000486	{@st59b}Bạn Đồng Hành{nl}{@st59s} - Ấn vào vần phẩm trong danh sách để biết thêm thông tin.{/}	{@st59b}컴패니언{nl}{@st59s} - 목록에서 원하는 항목을 클릭해서 상세 정보 보기{/}				
+UI_20150317_000487	{@st59}Đóng cửa sổ bạn đồng hành{/}	{@st59}컴패니언을 닫습니다{/}				
+UI_20150317_000488	{@st59}Đóng cửa sổ trợ giúp{/}	{@st59}도움말 창을 닫습니다{/}				
+UI_20150317_000489	{@st59}Trợ Giúp{nl} - Xem thông tin chi tiết và lời khuyên. {nl} - Xem các chủ đề khác từ danh sách Trợ giúp{/}	{@st59}도움말{nl} - 도움말 상세 보기{nl} - 다른 항목을 보려면 도움말 목록에서 선택{/}				
+UI_20150317_000490	{@st43}Trợ Giúp{/}	{@st43}도움말{/}				
+UI_20150317_000491	Chủ đề trợ giúp	도움말 제목				
+UI_20150317_000492	{ol}{#AAAA00}{s16}Thời gian trôi qua : %s	{ol}{#AAAA00}{s16}진행시간 : %s				
+UI_20150317_000493	{@st43}Thuốc độc{/}	{@st43}포이즌 팟{/}				
+UI_20150317_000494	{@st59}Đóng cửa sổ thuốc độc{/}	{@st59}포이즌 팟 UI를 닫습니다{/}				
+UI_20150317_000495	{@st59}Chế Tạo Yêu Cầu{/}	{@st59}작성 필요{/}				
+UI_20150317_000496	{memo X}Lượng chất độc: %s	독의 양 : %s				
+UI_20150317_000497	{memo X}Vật phẩm có thể được sử dụng để tạo thuốc độc	독 제조에 쓰일 수 있는 아이템				
+UI_20150317_000498	{memo X}Chọn Tất Cả	전체 선택				
+UI_20150317_000499	Ấn một lần nữa để hủy chọn tất cả	한번 더 클릭시 전체 해제				
+UI_20150317_000500	{memo X}Đang Tạo	제조				
+UI_20150317_000501	{memo X}Xào xào trộn trộn	섞고 섞고 돌리고 섞고				
+UI_20150317_000502	{@st43}Thể loại{/}	{@st43}항목{/}				
+UI_20150317_000503	{@st43}Tôi{/}	{@st43}나{/}				
+UI_20150317_000504	{@st43}Mục Đích{/}	{@st43}대상{/}				
 UI_20150317_000505	{@st43}Level{/}	{@st43}레벨{/}				
-UI_20150317_000506	{@st43}Funds{/}	{@st43}소지금{/}				
-UI_20150317_000507	{@st43}Rate{/}	{@st43}등급{/}				
-UI_20150317_000508	{@st43}PvP Win rate{/}	{@st43}PvP승률{/}				
-UI_20150317_000509	{@st59}Close{/}	{@st59}창을 닫습니다{/}				
-UI_20150317_000510	{@sti5}Total Purchase Amount: %s{/}	{@sti5}총 구매 금액 : %s{/}				
-UI_20150317_000511	{@sti5}Total Amount : %s{/}	{@sti5}총 금액 : %s{/}				
-UI_20150317_000512	{@st41b} Purchase	{@st41b}구매				
-UI_20150317_000513	{memo X}{@st43}Gained materials for a craftable item!	{@st43}제작 아이템 재료 획득!				
+UI_20150317_000506	{@st43}Quỹ{/}	{@st43}소지금{/}				
+UI_20150317_000507	{@st43}Tỉ lệ{/}	{@st43}등급{/}				
+UI_20150317_000508	{@st43}Tỉ lệ thắng PvP {/}	{@st43}PvP승률{/}				
+UI_20150317_000509	{@st59}Đóng{/}	{@st59}창을 닫습니다{/}				
+UI_20150317_000510	{@sti5}Tổng số tiền sẽ mua: %s{/}	{@sti5}총 구매 금액 : %s{/}				
+UI_20150317_000511	{@sti5}Tổng Cộng : %s{/}	{@sti5}총 금액 : %s{/}				
+UI_20150317_000512	{@st41b} Mua	{@st41b}구매				
+UI_20150317_000513	{memo X}{@st43}Đã thu được vật liệu để chế tạo vật phẩm.{@st43}제작 아이템 재료 획득!				
 UI_20150317_000514	{@st43}Magnum Opus{/}	{@st43}마그눔 오푸스{/}				
-UI_20150317_000515	{@st41}Delete All	{@st41}전체 삭제				
+UI_20150317_000515	{@st41}Xóa Tất Cả {@st41}전체 삭제				
 UI_20150317_000516	{memo X}{@st42}Pension object {@stx1}(%s required){/}	{@st42}연금 대상 {@stx1}(%s 소요){/}				
-UI_20150317_000517	{@st41}Combine	{@st41}조합				
-UI_20150317_000518	{@st43}Quest{/}	{@st43}퀘스트{/}				
-UI_20150317_000519	${@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 알리미에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 알리미에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 알리미에 등록/해제시 퀘스트 이름 앞 체크 선택{/}				
-UI_20150317_000520	{@st41b}In Progress{/}	{@st41b}  진행  {/}				
-UI_20150317_000521	{@st41b}Abandon{/}	{@st41b}  포기  {/}				
-UI_20150317_000522	{@st43}{s22}Quest Information{/}	{@st43}{s22}퀘스트 정보{/}				
-UI_20150317_000523	Mission Complete	임무 완료				
-UI_20150317_000524	{@st41}Complete{/}	{@st41}완료{/}				
-UI_20150317_000525	Mission Progress Info	임무 진행 정보				
-UI_20150317_000526	{s18}{ol}Quest Information	{s18}{ol}퀘스트 정보				
-UI_20150317_000527	{s16}Time Left	{s16}남은 시간				
-UI_20150317_000528	Use quest item	퀘스트 아이템 사용				
-UI_20150317_000529	Quest Hint	퀘스트 힌트				
-UI_20150317_000530	{@st41}Confirm{/}	{@st41}확인{/}				
-UI_20150317_000531	{@st43}{s22}Quest Completed{/}	{@st43}{s22}퀘스트 완료{/}				
-UI_20150317_000532	{@st41b}Complete{/}	{@st41b}완료{/}				
-UI_20150317_000533	{@st41}Accept{/}	{@st41}수락{/}				
-UI_20150317_000534	{@st41}Decline{/}	{@st41}거절{/}				
-UI_20150317_000535	{@st44}Go Back{/}	{@st44}돌아가기{/}				
-UI_20150317_000536	Which quest would you like to go back to?	어떤 퀘스트로 돌아가시겠습니까?				
-UI_20150317_000537	{memo X}{@st41b}Quest class name{/}	{@st41b}퀘스트 클래스 네임{/}				
-UI_20150317_000538	{@st59}Expand slot {/}	{@st59}슬롯을 확장합니다{/}				
-UI_20150317_000539	{@st59}Reduce slot{/}	{@st59}슬롯을 축소합니다{/}				
-UI_20150317_000540	{memo X}{@st59}Summon Companion.{/}	{@st59}컴패니언을 소환합니다.{/}				
+UI_20150317_000517	{@st41}Phối hợp	{@st41}조합				
+UI_20150317_000518	{@st43}Nhiệm Vụ{/}	{@st43}퀘스트{/}				
+UI_20150317_000519	${@st59b}Nhiệm Vụ{nl}{@st59s} - Khi bạn đang trên một nhiệm vụ mới, nó sẽ được bổ sung vào danh sách theo dấu. {nl} - Nhiệm vụ chính sẽ được hiện bằng màu vàng,trong khi nhiệm vụ phụ sẽ được hiện bằng màu xanh dương.{nl} - Mũi tên ở dưới nhân vật sẽ dẫn tới địa điểm nhiệm vụ của bạn.{nl} - Nếu bạn hoàn thành một nhiệm vụ, sẽ có 1 icon 'trở về' xuất hiện bên danh sách theo dấu nhiệm vụ. {nl}    (Dịch chuyển về NPC của nhiệm vù bằng nút backspace hoặc nhấp chuột vào icon 'trở về' {nl} - Thêm hoặc xóa nhiệm vụ ở trong danh sách theo dấu nhiệm vụ bằng cách đánh dấu hoặc bỏ đánh dấu vào ô trước tên nhiệm vụ.{/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 알리미에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 알리미에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 알리미에 등록/해제시 퀘스트 이름 앞 체크 선택{/}				
+UI_20150317_000520	{@st41b}Đang làm{/}	{@st41b}  진행  {/}				
+UI_20150317_000521	{@st41b}Bỏ{/}	{@st41b}  포기  {/}				
+UI_20150317_000522	{@st43}{s22}Thông tin nhiệm vụ {/}	{@st43}{s22}퀘스트 정보{/}				
+UI_20150317_000523	Hoàn Thành Nhiệm Vụ	임무 완료				
+UI_20150317_000524	{@st41}Hoàn Thành{/}	{@st41}완료{/}				
+UI_20150317_000525	Thông tin tiến trình của nhiệm vụ	임무 진행 정보				
+UI_20150317_000526	{s18}{ol}Thông tin nhiệm vụ	{s18}{ol}퀘스트 정보				
+UI_20150317_000527	{s16}Thời gian còn lại	{s16}남은 시간				
+UI_20150317_000528	Sử dụng vật phẩm nhiệm vụ 퀘스트 아이템 사용				
+UI_20150317_000529	Gợi ý nhiệm vụ	퀘스트 힌트				
+UI_20150317_000530	{@st41}Xác Nhận{/}	{@st41}확인{/}				
+UI_20150317_000531	{@st43}{s22}Hoàn thành nhiệm vụ{/}	{@st43}{s22}퀘스트 완료{/}				
+UI_20150317_000532	{@st41b}Hoàn Thành{/}	{@st41b}완료{/}				
+UI_20150317_000533	{@st41}Chấp Nhận{/}	{@st41}수락{/}				
+UI_20150317_000534	{@st41}Từ Chối{/}	{@st41}거절{/}				
+UI_20150317_000535	{@st44}Trở Lại{/}	{@st44}돌아가기{/}				
+UI_20150317_000536	Bạn muốn trở về nhiệm vù nào ?어떤 퀘스트로 돌아가시겠습니까?				
+UI_20150317_000537	{memo X}{@st41b}Tên Nhiệm vụ của Class{/}	{@st41b}퀘스트 클래스 네임{/}				
+UI_20150317_000538	{@st59}Mở rộng slot {/}	{@st59}슬롯을 확장합니다{/}				
+UI_20150317_000539	{@st59}Giảm slot{/}	{@st59}슬롯을 축소합니다{/}				
+UI_20150317_000540	{memo X}{@st59}Triệu hồi bạn đồng hành.{/}	{@st59}컴패니언을 소환합니다.{/}				
 UI_20150317_000541	{@st44}Menu{/}	{@st44}메뉴{/}				
-UI_20150317_000542	{@st60}Character Selection{/}	{@st60}캐릭터선택{/}				
-UI_20150317_000543	{@st60}Logout{/}	{@st60}로그아웃{/}				
-UI_20150317_000544	{@st60}Exit Game{/}	{@st60}게임종료{/}				
-UI_20150317_000545	{@st60}Game Settings{/}	{@st60}게임설정{/}				
-UI_20150317_000546	{@st60}Go Back{/}	{@st60}돌아가기{/}				
-UI_20150317_000547	{@st41}Skip Tutorial{/}	{@st41}튜토리얼 건너뛰기{/}				
-UI_20150317_000548	{@st41}Character Selection{/}	{@st41}캐릭터 선택{/}				
-UI_20150317_000549	{@st41}Logout{/}	{@st41}로그아웃{/}				
-UI_20150317_000550	{@st41}Exit game{/}	{@st41}게임 종료{/}				
-UI_20150317_000551	{@st41}Go Back{/}	{@st41}돌아가기{/}				
-UI_20150317_000552	{@st43}{s22}Gather Raid!	{@st43}{s22}레이드 소집!				
-UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can solve this problem.	{@st41b}도시 외곽 성곽에 몬스터들이 몰려들고 있습니다. 당신만이 문제를 해결할 수 있습니다.				
-UI_20150317_000554	{@st43}{s22}Game Settings{/}	{@st43}{s22}게임설정{/}				
-UI_20150317_000555	{@sti7}Searching parties for raid...{/}	{@sti7}레이드파티 검색중..{/}				
-UI_20150317_000556	{@st41b}Cancel participation	{@st41b}참가 취소				
-UI_20150317_000557	{@st41b}I'll try to solve it!	{@st41b}제가 해결해보겠습니다!				
-UI_20150317_000558	{@st41b}I don't think I can help this time...	{@st41b}저는 힘들 것 같아요...				
-UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}	{@sti7}{s24}레이드 보상 선택{/}				
-UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}	{@st42b}남은 시간 {@st43}%s{@st42b} 초{/}				
-UI_20150317_000561	{@st41b}Increase the number of selections	{@st41b}선택 횟수 늘리기				
-UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}	{@43b}{s22}선택 가능 횟수 : {@st43}%s{/}				
+UI_20150317_000542	{@st60}Lựa Chọn Nhân Vật{/}	{@st60}캐릭터선택{/}				
+UI_20150317_000543	{@st60}Đăng Xuất{/}	{@st60}로그아웃{/}				
+UI_20150317_000544	{@st60}Thoát trò chơi{/}	{@st60}게임종료{/}				
+UI_20150317_000545	{@st60}Thiết Lập Trò Chơi{/}	{@st60}게임설정{/}				
+UI_20150317_000546	{@st60}Quay lại{/}	{@st60}돌아가기{/}				
+UI_20150317_000547	{@st41Bỏ qua hướng dẫn{/}	{@st41}튜토리얼 건너뛰기{/}				
+UI_20150317_000548	{@st41}Lựa Chọn Nhân vật{/}	{@st41}캐릭터 선택{/}				
+UI_20150317_000549	{@st41}Đăng Xuất{/}	{@st41}로그아웃{/}				
+UI_20150317_000550	{@st41}Thoát trò chơi{/}	{@st41}게임 종료{/}				
+UI_20150317_000551	{@st41}Quay lại{/}	{@st41}돌아가기{/}				
+UI_20150317_000552	{@st43}{s22}Tụ họp công kích!	{@st43}{s22}레이드 소집!				
+UI_20150317_000553	{@st41b}Quái vật đang tiếp cận vùng ngoại ô của thị trấn lâu đài. Chỉ có bạn mới có thể giải quyết vấn đề này.{@st41b}도시 외곽 성곽에 몬스터들이 몰려들고 있습니다. 당신만이 문제를 해결할 수 있습니다.				
+UI_20150317_000554	{@st43}{s22}Thiết lập trò chơi{/}	{@st43}{s22}게임설정{/}				
+UI_20150317_000555	{@sti7}Tìm kiếm tổ đội để công kích...{/}	{@sti7}레이드파티 검색중..{/}				
+UI_20150317_000556	{@st41b}Hủy tham gia Cancel participation	{@st41b}참가 취소				
+UI_20150317_000557	{@st41b}Tôi sẽ cố gắng giải quyết nó!	{@st41b}제가 해결해보겠습니다!				
+UI_20150317_000558	{@st41b}Tôi không nghĩ rằng tôi có thể giúp lần này ...	{@st41b}저는 힘들 것 같아요...				
+UI_20150317_000559	{@sti7}{s24}Chọn phần thưởng{/}	{@sti7}{s24}레이드 보상 선택{/}				
+UI_20150317_000560	{@st42b}Thời gian còn lại{@st43}%s{@st42b} seconds{/}	{@st42b}남은 시간 {@st43}%s{@st42b} 초{/}				
+UI_20150317_000561	{@st41b}Tăng số lượng các lựa chọn	{@st41b}선택 횟수 늘리기				
+UI_20150317_000562	{@43b}{s22} Số lần lựa chọn : {@st43}%s{/}	{@43b}{s22}선택 가능 횟수 : {@st43}%s{/}				
 UI_20150317_000563	shadow_box tentativeremoval	shadow_box 잠정제거				
-UI_20150317_000564	{@st43}Ranking{/}	{@st43}랭킹{/}				
-UI_20150317_000565	{@st59}Close Rankings Window{/}	{@st59}랭킹창을 닫습니다{/}				
-UI_20150317_000566	{@st41}Monster Kill Top 100{/}	{@st41}몬스터 킬 Top 100{/}				
-UI_20150317_000567	{@st41}Damage Top 100{/}	{@st41}데미지 Top 100{/}				
-UI_20150317_000568	{@st41}Money Money Top 100{/}	{@st41}머니머니 Top 100{/}				
-UI_20150317_000569	{@st41}Level Up Top 100{/}	{@st41}레벨업 Top 100{/}				
+UI_20150317_000564	{@st43}Xếp Hạng{/}	{@st43}랭킹{/}				
+UI_20150317_000565	{@st59}Đóng Cửa Sổ Xếp Hạng{/}	{@st59}랭킹창을 닫습니다{/}				
+UI_20150317_000566	{@st41}Top 100 người giết nhiều quái vật nhất{/}	{@st41}몬스터 킬 Top 100{/}				
+UI_20150317_000567	{@st41}Top 100 người sát thương cao nhất{/}	{@st41}데미지 Top 100{/}				
+UI_20150317_000568	{@st41}Top 100 Giàu Nhất{/}	{@st41}머니머니 Top 100{/}				
+UI_20150317_000569	{@st41}Top 100 Level{/}	{@st41}레벨업 Top 100{/}				
 UI_20150317_000570	{@st41b}Menu{/}	{@st41b}메뉴{/}				
-UI_20150317_000571	{@st43}{s22}Enhance Item{/}	{@st43}{s22}아이템 강화{/}				
-UI_20150317_000572	{@st41b}Selected Item	{@st41b}대상 아이템				
+UI_20150317_000571	{@st43}{s22}Cường hóa vật phẩm{/}	{@st43}{s22}아이템 강화{/}				
+UI_20150317_000572	{@st41b}Vật phẩm đã chọn	{@st41b}대상 아이템				
 UI_20150317_000573	{@st41b}Anvil	{@st41b}모루				
 UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s	{@st41}{s20}모루 타격 횟수 :{@st43} %s				
-UI_20150317_000575	{@st41} {s20}Price : %s	{@st41}{s20}강화 가격 : %s				
-UI_20150317_000576	{@st41b}Enhance{/}	{@st41b}강화 시작{/}				
-UI_20150317_000577	{@st59}Start Item Enhancement{/}	{@st59}아이템 강화를 시작합니다.{/}				
-UI_20150317_000578	{@st59}Close Item Enhancement{/}	{@st59}강화를 닫습니다{/}				
-UI_20150317_000579	{@st41b} Would you like to enhance the {@sti9}×%s{/} selected items?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 강화하시겠습니까?{/}				
-UI_20150317_000580	{memo X}{@st43}Enhance	{@st43}강화				
-UI_20150317_000581	{@st44}Enhance Item{/}	{@st44}아이템 강화{/}				
-UI_20150317_000582	{s24}{b}{#000000}Enhancement Completed!	{s24}{b}{#000000}강화 완료!				
-UI_20150317_000583	{@st41}Enhance Again{/}	{@st41}재강화{/}				
-UI_20150317_000584	{@st41}Close{/}	{@st41}닫기{/}				
-UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}	{s18}{ol}{gr gradation1}장비 수리{/}				
-UI_20150317_000586	Equipped Equipment	  착용장비  				
-UI_20150317_000587	Carried Equipment	  소지장비  				
-UI_20150317_000588	{Gr gradation1}Select All{/}	{gr gradation1}전체선택{/}				
-UI_20150317_000589	Select All	전체선택				
-UI_20150317_000590	{Gr gradation1}Repair{/}	{gr gradation1}수리{/}				
-UI_20150317_000591	{@st43}Repair{/}	{@st43}수리{/}				
-UI_20150317_000592	{memo X}List of items for repair	수리 필요 아이템 목록				
-UI_20150317_000593	{@st41b}Repair Cost{/}	{@st41b}수리 비용{/}				
-UI_20150317_000594	{@st41b}After Repair{/}	{@st41b}예상 잔액{/}				
-UI_20150317_000595	{@st41b}Repair Equipment{/}	{@st41b}장비 수리{/}				
-UI_20150317_000596	Repair the selected equipment.	선택한 장비를 수리합니다.				
-UI_20150317_000597	{@st59}Close Item Repair{/}	{@st59}아이템 정비를 닫습니다{/}				
-UI_20150317_000598	{@st43}Repair Item{/}	{@st43}아이템 정비{/}				
-UI_20150317_000599	{@st41}List of items for Repair{/}	{@st41}정비 필요 아이템 목록{/}				
-UI_20150317_000600	{@st44}Item Repair{/}	{@st44}아이템 정비{/}				
-UI_20150317_000601	{@st42}Repair{/}	{@st42}정비{/}				
-UI_20150317_000602	{@st59}Repair as current settings{/}	{@st59}현재 내용으로 정비합니다.{/}				
-UI_20150317_000603	{@st59}Do not repair{/}	{@st59}정비하지 않습니다.{/}				
-UI_20150317_000604	{@st44}Resume{/}	{@st44}재시작{/}				
-UI_20150317_000605	{memo X}{@st41b}You have become {/}{s20}{#cc6600}{ol} incapable of combat{/}{@st41b}{/}	{@st41b}당신은 {/}{s20}{#cc6600}{ol}전투 불능 {/}{@st41b}상태가 되었습니다!{/}				
-UI_20150317_000606	{memo X}{@st41b}Respawn from the nearest Revival Point{/}	{@st41b}가까운 부활지점에서 다시하기{/}				
-UI_20150317_000607	{memo X}{@st41b}Respawn here (requires %s iCoins) {/}	{@st41b}제자리에서 다시하기(NXP %s개 필요){/}				
-UI_20150317_000608	{memo X}{@st41b}Return to field{/}	{@st41b}필드로 복귀하기{/}				
-UI_20150317_000609	{memo X}{@st41b}Abandon quest and restart{/}	{@st41b}퀘스트 포기 후 재시작하기{/}				
-UI_20150317_000610	{memo X}{@st41b}Try again{/}	{@st41b}재도전{/}				
-UI_20150317_000611	Sanctuary of Resurrection (70031)	부활의 성소(70031)				
-UI_20150317_000612	This item is required.	아이템이 필요합니다.				
-UI_20150317_000613	Rest Quickslot	휴식 퀵슬롯				
-UI_20150317_000614	{@st43}Dialog box{/}	{@st43}말풍선{/}				
-UI_20150317_000615	Temporary Name	임시이름				
-UI_20150317_000616	{memo X}{@st41b} {s18} Your inventory lacks space. 	{@st41b}{s18}인벤토리 공간 부족				
-UI_20150317_000617	{memo X}You cannot obtain the item because your inventory is full{nl}Make sure you have enough space in your inventory.	인벤토리가 가득 차서 아이템을 획득할 수 없습니다.{nl}인벤토리를 정리해 주세요.				
-UI_20150317_000618	{@st44}Item Set acquired!{/}	{@st44}세트 아이템 획득!{/}				
-UI_20150317_000619	Please select an item	아이템을 선택해주세요				
-UI_20150317_000620	{memo X}{@st59b} shop {nl} {@st59s} - If you want to bulk purchase an item number, then right-click input {nl} - Use the mouse double right-click the item you want to sell quantity {/}	{@st59b}상점{nl}{@st59s} - 아이템을 대량 구입하려면 마우스 우클릭 후 갯수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}				
-UI_20150317_000621	{@st59}Close Shop{/}	{@st59}상점을 닫습니다{/}				
-UI_20150317_000622	{@st59}First Page{/}	{@st59}처음 페이지{/}				
-UI_20150317_000623	{@st59}Next Page{/}	{@st59}다음 페이지{/}				
-UI_20150317_000624	{@st59}Last Page{/}	{@st59}마지막 페이지{/}				
+UI_20150317_000575	{@st41} {s20}Giá : %s	{@st41}{s20}강화 가격 : %s				
+UI_20150317_000576	{@st41b}Cường Hóa{/}	{@st41b}강화 시작{/}				
+UI_20150317_000577	{@st59}Bắt đầu cướng hóa vật phẩm{/}	{@st59}아이템 강화를 시작합니다.{/}				
+UI_20150317_000578	{@st59}Đóng cửa sổ cường hóa{/}	{@st59}강화를 닫습니다{/}				
+UI_20150317_000579	{@st41b} Bạn có muốn cường hóa {@sti9}×%s{/} vật phẩm đang chọn?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 강화하시겠습니까?{/}				
+UI_20150317_000580	{memo X}{@st43}Cường Hóa	{@st43}강화				
+UI_20150317_000581	{@st44}Cường hóa vật phẩm {/}	{@st44}아이템 강화{/}				
+UI_20150317_000582	{s24}{b}{#000000}Cường hóa hoàn thành!	{s24}{b}{#000000}강화 완료!				
+UI_20150317_000583	{@st41}Cường hóa lần nữa{/}	{@st41}재강화{/}				
+UI_20150317_000584	{@st41}Đóng{/}	{@st41}닫기{/}				
+UI_20150317_000585	{s18}{ol}{gr gradation1}Sửa chữa thiết bị {/}	{s18}{ol}{gr gradation1}장비 수리{/}				
+UI_20150317_000586	Mặc thiết bị	  착용장비  				
+UI_20150317_000587	Trang bị đang mang	  소지장비  				
+UI_20150317_000588	{Gr gradation1}Chọn Tất Cả {/}	{gr gradation1}전체선택{/}				
+UI_20150317_000589	Chọn Tất Cả	전체선택				
+UI_20150317_000590	{Gr gradation1}Sửa Chữa{/}	{gr gradation1}수리{/}				
+UI_20150317_000591	{@st43}Sửa Chữa{/}	{@st43}수리{/}				
+UI_20150317_000592	{memo X}Danh sách vật phẩm có thể sửa chữa	수리 필요 아이템 목록				
+UI_20150317_000593	{@st41b}Chi phi sửa chữa{/}	{@st41b}수리 비용{/}				
+UI_20150317_000594	{@st41b}Sau khi sửa chữa{/}	{@st41b}예상 잔액{/}				
+UI_20150317_000595	{@st41b}Sửa chữa thiết bị{/}	{@st41b}장비 수리{/}				
+UI_20150317_000596	Sửa chữa thiết bị đang chọn.	선택한 장비를 수리합니다.				
+UI_20150317_000597	{@st59}Đóng cửa sổ sửa chữa{/}	{@st59}아이템 정비를 닫습니다{/}				
+UI_20150317_000598	{@st43}Sửa chữa vật phẩm{/}	{@st43}아이템 정비{/}				
+UI_20150317_000599	{@st41}Danh sách vật phẩm có thể sửa chữa{/}	{@st41}정비 필요 아이템 목록{/}				
+UI_20150317_000600	{@st44}Sửa Chữa Vật Phẩm{/}	{@st44}아이템 정비{/}				
+UI_20150317_000601	{@st42}sửa Chữa{/}	{@st42}정비{/}				
+UI_20150317_000602	{@st59}Sửa chữa như thiết lập hiện tại{/}	{@st59}현재 내용으로 정비합니다.{/}				
+UI_20150317_000603	{@st59}Không sửa chữa{/}	{@st59}정비하지 않습니다.{/}				
+UI_20150317_000604	{@st44}Tiếp Tục{/}	{@st44}재시작{/}				
+UI_20150317_000605	{memo X}{@st41b}Bạn đã không còn {/}{s20}{#cc6600}{ol} khả năng để chiến đấu.{/}{@st41b}{/}	{@st41b}당신은 {/}{s20}{#cc6600}{ol}전투 불능 {/}{@st41b}상태가 되었습니다!{/}				
+UI_20150317_000606	{memo X}{@st41b}Hồi sinh ở điểm an toàn gần nhất.{/}	{@st41b}가까운 부활지점에서 다시하기{/}				
+UI_20150317_000607	{memo X}{@st41b}Hồi sinh tại đây(Cần %s iCoins) {/}	{@st41b}제자리에서 다시하기(NXP %s개 필요){/}				
+UI_20150317_000608	{memo X}{@st41b}Trở lại chiến trường{/}	{@st41b}필드로 복귀하기{/}				
+UI_20150317_000609	{memo X}{@st41b}Bỏ nhiệm vụ và thử lại{/}	{@st41b}퀘스트 포기 후 재시작하기{/}				
+UI_20150317_000610	{memo X}{@st41b}Thử Lại {/}	{@st41b}재도전{/}				
+UI_20150317_000611	Nơi tôn nghiêm phục sinh(70031)	부활의 성소(70031)				
+UI_20150317_000612	Cần thiết vật phẩm này.	아이템이 필요합니다.				
+UI_20150317_000613	Phím tắt nghỉ ngơi	휴식 퀵슬롯				
+UI_20150317_000614	{@st43}Hộp Thoại{/}	{@st43}말풍선{/}				
+UI_20150317_000615	Tên tạm thời	임시이름				
+UI_20150317_000616	{memo X}{@st41b} {s18} Bạn không có chổ trong túi đồ. 	{@st41b}{s18}인벤토리 공간 부족				
+UI_20150317_000617	{memo X}Bạn không thể nhận vật phẩm này tại vì túi bạn đã đầy.{nl}Hãy chắc chắn rằng bạn có đủ chổ trống trong túi của bạn.	인벤토리가 가득 차서 아이템을 획득할 수 없습니다.{nl}인벤토리를 정리해 주세요.				
+UI_20150317_000618	{@st44}Bộ vật phẩm nhận được!{/}	{@st44}세트 아이템 획득!{/}			
+UI_20150317_000619	Xin vui lòng chọn một vật phẩm아이템을 선택해주세요				
+UI_20150317_000620	{memo X}{@st59b} Cửa Hàng {nl} {@st59s} - Nếu bạn muốn mua số lượng lớn thì kích chuột phải và ghi vào số mà bạn muốn.{nl} - Dùng chuột và kich chuột phải 2 lần vào vật phẩm bạn muốn bán số lớn.{/}	{@st59b}상점{nl}{@st59s} - 아이템을 대량 구입하려면 마우스 우클릭 후 갯수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}				
+UI_20150317_000621	{@st59}Đóng cửa hàng{/}	{@st59}상점을 닫습니다{/}				
+UI_20150317_000622	{@st59}Trang Đầu Tiên{/}	{@st59}처음 페이지{/}				
+UI_20150317_000623	{@st59}Trang Tiếp Theo{/}	{@st59}다음 페이지{/}				
+UI_20150317_000624	{@st59}Trang Cuối{/}	{@st59}마지막 페이지{/}				
 UI_20150317_000625	{@st41b}Reset{/}	{@st41b}비우기{/}				
-UI_20150317_000626	{@st59}Reset Shopping Cart{/}	{@st59}장바구니를 비웁니다{/}				
-UI_20150317_000627	{@st41b}Confirm{/}	{@st41b}정산{/}				
-UI_20150317_000628	{@st59}Confirm Transaction{/}	{@st59}거래를 결정합니다{/}				
-UI_20150317_000629	{@st43}Shop{/}	{@st43}상점{/}				
-UI_20150317_000630	{@st41b}Items Purchased{/}	{@st41b}구입 아이템{/}				
-UI_20150317_000631	{@st41b}Items Sold{/}	{@st41b}판매 아이템{/}				
-UI_20150317_000632	{memo X}{@st41b}Price{/}	{@st41b}거래 정산 ▶{/}				
-UI_20150317_000633	{memo X}{@st41b}Balance{/}	{@st41b}예상 잔액 ▶{/}				
-UI_20150317_000634	{memo X}{@st41b}My Sold Items{/}	{@st41b}내가 판매한 아이템{/}				
-UI_20150317_000635	{@st41}Empty slots{/}	{@st41}슬롯 비우기{/}				
-UI_20150317_000636	{@st43}Total{/}	{@st43}정산{/}				
-UI_20150317_000637	{@st41}Settle Transaction{/}	{@st41}거래 정산{/}				
-UI_20150317_000638	{@st41}After Transaction{/}	{@st41}예상 잔액{/}				
-UI_20150317_000639	{@st41}Items purchased{/}	{@st41}구입 아이템{/}				
+UI_20150317_000626	{@st59}Reset giỏ hàng{/}	{@st59}장바구니를 비웁니다{/}				
+UI_20150317_000627	{@st41b}Xác nhận{/}	{@st41b}정산{/}				
+UI_20150317_000628	{@st59}Xác nhận giao dịch{/}	{@st59}거래를 결정합니다{/}				
+UI_20150317_000629	{@st43}Cửa Hàng{/}	{@st43}상점{/}				
+UI_20150317_000630	{@st41b}Vật phẩm đã mua{/}	{@st41b}구입 아이템{/}				
+UI_20150317_000631	{@st41b}Vật phẩm đã bán {/}	{@st41b}판매 아이템{/}				
+UI_20150317_000632	{memo X}{@st41b}Giá{/}	{@st41b}거래 정산 ▶{/}				
+UI_20150317_000633	{memo X}{@st41b}Tiền còn lại{/}	{@st41b}예상 잔액 ▶{/}				
+UI_20150317_000634	{memo X}{@st41b}Vật phẩm đã bán của tôi{/}	{@st41b}내가 판매한 아이템{/}				
+UI_20150317_000635	{@st41}slots trống{/}	{@st41}슬롯 비우기{/}				
+UI_20150317_000636	{@st43}Tổng cộng{/}	{@st43}정산{/}				
+UI_20150317_000637	{@st41}Giải quyết giao dịch{/}	{@st41}거래 정산{/}				
+UI_20150317_000638	{@st41}Sau khi giao dịch{/}	{@st41}예상 잔액{/}				
+UI_20150317_000639	{@st41}Vật phẩm đã mua{/}	{@st41}구입 아이템{/}				
 UI_20150317_000640	{memo X}{@sti1c}Simony	{@sti1c}시모니				
-UI_20150317_000641	{@st41}Crafting Skills	{@st41}제작 스킬				
+UI_20150317_000641	{@st41}Kỹ năng chế tạo	{@st41}제작 스킬				
 UI_20150317_000642	{@st42}Level %s{/}	{@st42}레벨 %s{/}				
-UI_20150317_000643	Crafting costs	제작 비용				
-UI_20150317_000644	Crafting Qty	제작 갯수				
-UI_20150317_000645	Approximately %s seconds consumed	약 %s초 소요				
-UI_20150317_000646	{@st41}Create	{@st41}만들기				
-UI_20150317_000647	{memo X}${@st43}Skills & Attributes{/}	{@st43}클래스 스킬과 특성{/}				
-UI_20150317_000648	{memo X}${@st59}Close Classes & Skills{/}	{@st59}클래스와 스킬을 닫습니다{/}				
-UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} -  동일한 직업으로 총 3회까지 전직 가능{nl} -  다른 직업으로 전직 시 이전 직업은 전직 불가{nl} -  스킬포인트 모두 소비 시 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각  랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}				
+UI_20150317_000643	Chi phí chế tạo	제작 비용				
+UI_20150317_000644	Số lượng chế tạo	제작 갯수				
+UI_20150317_000645	Tiêu thụ Khoảng %s giây 약 %s초 소요				
+UI_20150317_000646	{@st41}Tạo	{@st41}만들기				
+UI_20150317_000647	{memo X}${@st43}Kĩ năng & Thuộc Tính{/}	{@st43}클래스 스킬과 특성{/}				
+UI_20150317_000648	{memo X}${@st59}Đóng Classes & Kĩ năng{/}	{@st59}클래스와 스킬을 닫습니다{/}				
+UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- Bạn có thể học kĩ năng mới bằng cách nâng cấp class. {nl} - Bạn có thể chọn từ 3 class mới để nâng cấp từ cấp 1 tới cấp 2. {nl} - bạn có thể nâng cấp cùng 1 class tới 3 lần.{nl} - Bạn không thể thay đổi trở lại class của bạn trước đó khi bạn nâng cấp đến lớp khác. {nl} - Bạn cần xài hết điểm kĩ năng trước khi nâng cấp. {nl} - Bạn có thể chọn class như trước.{nl}{@st59b}Skills{nl}{@st59s} - Bạn có thể tăng kĩ năng của mổi class tới cấp 5.{nl} - Bạn có thể xem các thuộc tính đã học ở dưới các kĩ năng.{/}	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} -  동일한 직업으로 총 3회까지 전직 가능{nl} -  다른 직업으로 전직 시 이전 직업은 전직 불가{nl} -  스킬포인트 모두 소비 시 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각  랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}				
 UI_20150317_000650	{memo X}{@st41b}Apply{/}	{@st41b}적용{/}				
-UI_20150317_000651	{@st59}Apply{/}	{@st59}스킬 포인트를 적용합니다{/}				
+UI_20150317_000651	{@st59}Áp dụng{/}	{@st59}스킬 포인트를 적용합니다{/}				
 UI_20150317_000652	Cleric	큘레릭				
-UI_20150317_000653	{@st59}Cancel{/}	{@st59}포인트 배분을 취소합니다{/}				
-UI_20150317_000654	Learning {#ff4400}%s (Lv. %s){/}...	{#ff4400}%s (%s레벨){/} 학습 중..				
+UI_20150317_000653	{@st59}Hủy{/}	{@st59}포인트 배분을 취소합니다{/}				
+UI_20150317_000654	Đang Học {#ff4400}%s (Lv. %s){/}...	{#ff4400}%s (%s레벨){/} 학습 중..				
 UI_20150317_000655	Psychohassle	싸이코해승				
-UI_20150317_000656	%s mins left	%s분 남음				
-UI_20150317_000657	{@st43}Pose{/}	{@st43}포즈{/}				
-UI_20150317_000658	{@st59}Close Pose{/}	{@st59}포즈를 닫습니다{/}				
+UI_20150317_000656	%s phút còn lại	%s분 남음				
+UI_20150317_000657	{@st43}Bộ Điệu{/}	{@st43}포즈{/}				
+UI_20150317_000658	{@st59}Đóng bộ điệu{/}	{@st59}포즈를 닫습니다{/}				
 UI_20150317_000659	{@st41}Board{/}	{@st41}게시판{/}				
-UI_20150317_000660	{@st41}Trade{/}	{@st41}거래{/}				
-UI_20150317_000661	{@st41}Social Functions{/}	{@st41}사회기능{/}				
-UI_20150317_000662	{@st41b}Write{/}	{@st41b}글쓰기{/}				
-UI_20150317_000663	{@st41}Register{/}	{@st41}등록{/}				
-UI_20150317_000664	{@st59}Register post{/}	{@st59}글을 등록합니다{/}				
-UI_20150317_000665	{@st41}Start MyPage{/}	{@st41}마이페이지 시작{/}				
-UI_20150317_000666	{@st59}Publish MyPage{/}	{@st59}마이페이지를 외부에 게시합니다{/}				
-UI_20150317_000667	{@st59}Write greetings{/}	{@st59}안부를 등록합니다{/}				
+UI_20150317_000660	{@st41}GIao DỊch{/}	{@st41}거래{/}				
+UI_20150317_000661	{@st41}Chức năng xã hội{/}	{@st41}사회기능{/}				
+UI_20150317_000662	{@st41b}Viết{/}	{@st41b}글쓰기{/}				
+UI_20150317_000663	{@st41}Đăng ký{/}	{@st41}등록{/}				
+UI_20150317_000664	{@st59}Đăng ký bài{/}	{@st59}글을 등록합니다{/}				
+UI_20150317_000665	{@st41}Bắt đầu MyPage{/}	{@st41}마이페이지 시작{/}				
+UI_20150317_000666	{@st59}Xuất bản MyPage{/}	{@st59}마이페이지를 외부에 게시합니다{/}				
+UI_20150317_000667	{@st59}Viết lời chào{/}	{@st59}안부를 등록합니다{/}				
 UI_20150317_000668	{@st41b}1. Menu{/}	{@st41b}1. 메뉴{/}				
-UI_20150317_000669	{@st41}Visit{/}	{@st41}방문{/}				
-UI_20150317_000670	{@st59}Visit MyPage{/}	{@st59}마이페이지를 방문합니다{/}				
-UI_20150317_000671	{@st41}Sell{/}	{@st41}판매{/}				
-UI_20150317_000672	{@st59}Sell item{/}	{@st59}아이템을 판매 합니다{/}				
-UI_20150317_000673	{@st43}Living{/}	{@st43}생 활{/}				
-UI_20150317_000674	{@st59}Close living{/}	{@st59}생활을 닫습니다{/}				
-UI_20150317_000675	{@st41}View all{/}	{@st41}모두 보기{/}				
-UI_20150317_000676	{@st41}Create Map{/}	{@st41}맵 만들기{/}				
+UI_20150317_000669	{@st41}Thăm{/}	{@st41}방문{/}				
+UI_20150317_000670	{@st59}Thăm MyPage{/}	{@st59}마이페이지를 방문합니다{/}				
+UI_20150317_000671	{@st41}Bán{/}	{@st41}판매{/}				
+UI_20150317_000672	{@st59}Bán vật phẩm{/}	{@st59}아이템을 판매 합니다{/}				
+UI_20150317_000673	{@st43}cuộc sống{/}	{@st43}생 활{/}				
+UI_20150317_000674	{@st59}Đóng cửa sổ cuộc sống {/}	{@st59}생활을 닫습니다{/}				
+UI_20150317_000675	{@st41}Xem tất cả{/}	{@st41}모두 보기{/}				
+UI_20150317_000676	{@st41}Tạo bản đồ{/}	{@st41}맵 만들기{/}				
 UI_20150317_000677	{@st41}%s/min (%s in hand){/}	{@st41}%s/분 (%s 보유){/}				
-UI_20150317_000678	Keyboard Warrior	키보드워리어				
+UI_20150317_000678	Anh Hùng Bàn Phím	키보드워리어				
 UI_20150317_000679	{@st42}%s{/}{@st42_yellow}Level{/}	{@st42}%s{/}{@st42_yellow}레벨{/}				
-UI_20150317_000680	{@st41_yellow}Employment Time	{@st41_yellow}고용시간				
-UI_20150317_000681	{@st43}Graffiti{/}	{@st43}그래피티{/}				
-UI_20150317_000682	{@st59}Close Spray{/}	{@st59}스프레이를 닫습니다{/}				
-UI_20150317_000683	{@st41b}Tip : Draw a picture in the frame below{/}	{@st41b}Tip : 아래 액자내에 그림을 그립니다.{/}				
-UI_20150317_000684	{@st41b}Colors{/}	{@st41b}색상{/}				
-UI_20150317_000685	{@st41b}Quantity{/}	{@st41b}수량{/}				
-UI_20150317_000686	{@st41b}Brush{/}	{@st41b}브러쉬{/}				
-UI_20150317_000687	{@st43}Draw{/}	{@st43}그리기{/}				
-UI_20150317_000688	{@st59}Draw the completed picture on the ground.{/}	{@st59}완성한 그림을 바닥에 그립니다.{/}				
-UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Save{/}{/}	{@st41b}{a SAVE_EDIT_SPRAY}저장{/}{/}				
-UI_20150317_000690	{@st59}Save drawings{/}	{@st59}그리고 있는 그림을 저장합니다.{/}				
-UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Load{/}{/}	{@st41b}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
-UI_20150317_000692	{@st59}Load pictures that you drew.{/}	{@st59}그렸던 그림을 불러옵니다.{/}				
+UI_20150317_000680	{@st41_yellow}Thời gian làm việc	{@st41_yellow}고용시간				
+UI_20150317_000681	{@st43}Hình vẽ trên tường{/}	{@st43}그래피티{/}				
+UI_20150317_000682	{@st59}Đóng Spray{/}	{@st59}스프레이를 닫습니다{/}				
+UI_20150317_000683	{@st41b}Lời Khuyên : Vẽ 1 bức tranh ở trong khung ở dưới.{/}	{@st41b}Tip : 아래 액자내에 그림을 그립니다.{/}				
+UI_20150317_000684	{@st41b}Màu{/}	{@st41b}색상{/}				
+UI_20150317_000685	{@st41b}Số Lượng{/}	{@st41b}수량{/}				
+UI_20150317_000686	{@st41b}Cọ Vẽ{/}	{@st41b}브러쉬{/}				
+UI_20150317_000687	{@st43}Vẽ{/}	{@st43}그리기{/}				
+UI_20150317_000688	{@st59}Vẽ bức tranh ở dưới đất.{/}	{@st59}완성한 그림을 바닥에 그립니다.{/}				
+UI_20150317_000689	{@st41b}{a SAVE_EDIT_SPRAY}Lưu{/}{/}	{@st41b}{a SAVE_EDIT_SPRAY}저장{/}{/}				
+UI_20150317_000690	{@st59}Lưu bức tranh{/}	{@st59}그리고 있는 그림을 저장합니다.{/}				
+UI_20150317_000691	{@st41b}{a LOAD_EDIT_SPRAY}Tải{/}{/}	{@st41b}{a LOAD_EDIT_SPRAY}불러오기{/}{/}				
+UI_20150317_000692	{@st59}Tải hình đã từng vẽ.{/}	{@st59}그렸던 그림을 불러옵니다.{/}				
 UI_20150317_000693	{@st59}Selected color 1{/}	{@st59}선택한 색상1{/}				
 UI_20150317_000694	{@st59}Selected color 2{/}	{@st59}선택한 색상2{/}				
 UI_20150317_000695	{@st59}Color List{/}	{@st59}색상 목록{/}				
