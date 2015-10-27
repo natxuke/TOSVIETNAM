@@ -3,7 +3,7 @@ UI_20150317_000002	{@st43}Danh Sách Thuộc Tính {/}	{@st43}특성 목록{/
 UI_20150317_000003	{@st59}Đóng Danh Sách Thuộc Tính {/}	{@st59}특성리스트를 닫습니다{/}				
 UI_20150317_000004	{@st43}Học Thuộc Tính{/}	{@st43}특성 배우기{/}				
 UI_20150317_000005	{@st59}Thoát Của Sổ Thuộc Tính {/}	{@st59}특성창을 닫습니다{/}				
-UI_20150317_000006	{@st41b}Quỹ{/}	{@st41b}소지금{/}				
+UI_20150317_000006	{@st41b}Silver{/}	{@st41b}소지금{/}				
 UI_20150317_000007	Thành Tích Của Tôi	나의 업적				
 UI_20150317_000008	Xếp Hạng Máy Chủ	서버 랭킹				
 UI_20150317_000009	{@st59}Một sự kiện bất ngờ đã xuất hiện.{/}	{@st59}돌발이벤트가 있습니다{/}				
@@ -12,7 +12,7 @@ UI_20150317_000011	{@st41}Bạn có chắc chắn muốn chế tạo loại mũi
 UI_20150317_000012	{@st41b}Một Lần{/}	{@st41b}한번만{/}				
 UI_20150317_000013	{@st41b}Tất Cả{/}	{@st41b}모두{/}				
 UI_20150317_000014	{@st41b}Ngừng{/}	{@st41b}중단{/}				
-UI_20150317_000015	{@st43}Nhựt Ký Phiêu Lưu{/}	{@st43}모험일지{/}				
+UI_20150317_000015	{@st43}Nhật Ký Phiêu Lưu{/}	{@st43}모험일지{/}				
 UI_20150317_000016	{@st43}Nhà Đấu Giá{/}	{@st43}경매장{/}				
 UI_20150317_000017	{@st59}Thoát Nhà Đấu Giá{/}	{@st59}경매장을 닫습니다{/}				
 UI_20150317_000018	{memo X}{@st41b}Items Sold : ×%s, Items Unsold : ×%s{/}	{@st41b}낙찰물품 : %s개,  유찰물품 : %s개{/}				
@@ -86,7 +86,7 @@ UI_20150317_000085	{memo X}{@st41b}Độ Khó{@sti7}%s{/}	{@st41b}난이도 {@
 UI_20150317_000086	{@st59}Đóng cửa sổ thông tin class.{/}	{@st59}클래스 정보 창을 닫습니다{/}				
 UI_20150317_000087	Báo Động Phát Triển	전직 가능 알람				
 UI_20150317_000088	{@st43}Phát Triển	{@st43}클래스 전직				
-UI_20150317_000089	{@sti7}{s14} Nhât Vật {/}	{@sti7}{s14}캐릭터{/}				
+UI_20150317_000089	{@sti7}{s14} Nhân Vật {/}	{@sti7}{s14}캐릭터{/}				
 UI_20150317_000090	{@sti8}{s14} Class {/}	{@sti8}{s14}클래스{/}				
 UI_20150317_000091	{@st44}Chat{/}	{@st44}채팅{/}				
 UI_20150317_000092	To. WWWWWWWW and 1 other	To. WWWWWWWW 외 1				
@@ -299,17 +299,17 @@ UI_20150317_000298	99 phút 99 giây	99분 99초
 UI_20150317_000299	38000 Điểm	38000 점				
 UI_20150317_000300	Thuốc tăng cao tóc độ	향상된 신속의 물약				
 UI_20150317_000301	{@st41}Xác Nhận{/}	{@st41}확 인{/}				
-UI_20150317_000302	${@st59b} Nhật ký Hành Trình {nl}{@st59s}- Sự tiến triển của trò chơi của bạn sẽ được lưu lại trong nhật ký hành trình. {nl} - bạn có thể tiến triển hành trình của bạn bằng cách: nhận được vật phẩm, giết quái, chế tạo, và khám phá thế giới.{nl}    Mục lục của hành trình : Tất cả mục lục của bạn. {nl}    Tăng Trưởng : 5 điểm cho mỗi cấp của nhân vật và cấp class.{nl}    Vật Phẩm : Thiết Bị : Cấp Trang Bị X 10 Điểm, Sách : 10 points, Khác : 1 point {nl}    Quái Vật : 10 Điểm cho mỗi quái vật (50 Điểm cho Boss) {nl}    Thế Giới : 1 Điểm cho mỗi 10% thế giới được khám phá{nl}    Nhiệm Vụ : 1 điểm cho mỗi 1 nhiệm vụ {nl}    Thành Tích : Điểm tùy theo từng thành tích{nl}    Chế Tạo : 10 Điểm {nl}    Sưu Tầm : 5 điểm cho 1 bộ bài và 45 điểm khi hoàn thành.{nl} - Người chơi có thể nhận được quá đặc biết từ NPC trong thành phố tùy theo số điểm hành trình. {/}	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}				
+UI_20150317_000302	{@st59b} Nhật ký Hành Trình {nl}{@st59s}- Sự tiến triển của trò chơi của bạn sẽ được lưu lại trong nhật ký hành trình. {nl} - bạn có thể tiến triển hành trình của bạn bằng cách: nhận được vật phẩm, giết quái, chế tạo, và khám phá thế giới.{nl}    Mục lục của hành trình : Tất cả mục lục của bạn. {nl}    Tăng Trưởng : 5 điểm cho mỗi cấp của nhân vật và cấp class.{nl}    Vật Phẩm : Thiết Bị : Cấp Trang Bị X 10 Điểm, Sách : 10 points, Khác : 1 point {nl}    Quái Vật : 10 Điểm cho mỗi quái vật (50 Điểm cho Boss) {nl}    Thế Giới : 1 Điểm cho mỗi 10% thế giới được khám phá{nl}    Nhiệm Vụ : 1 điểm cho mỗi 1 nhiệm vụ {nl}    Thành Tích : Điểm tùy theo từng thành tích{nl}    Chế Tạo : 10 Điểm {nl}    Sưu Tầm : 5 điểm cho 1 bộ bài và 45 điểm khi hoàn thành.{nl} - Người chơi có thể nhận được quá đặc biết từ NPC trong thành phố tùy theo số điểm hành trình. {/}	{@st59b}모험일지{nl}{@st59s} - 자신의 진행한 정보가 모험일지에 기록{nl} - 아이템 습득, 몬스터 사냥, 제작, 맵탐험, 콘텐츠 진행으로 모험지수 획득{nl}    모험지수 : 다른 모든 지수의 총 합{nl}    성장 : 레벨 및 직업 레벨당 5점{nl}    아이템 : 장비 : 등급 X 10점, 책 : 10점, 기타 : 1점{nl}    몬스터 : 몬스터당 10점 (보스 : 50점){nl}    지역탐색 : 10%당 1점{nl}    퀘스트 : 퀘스트당 1점{nl}    업적 : 업적별로 다름{nl}    제작법 : 개당 10점{nl}    콜렉션 : 덱 5점 , 완성 45점{nl} - 획득한 모험지수에 따라 마을 NPC에게서 보상 획득{/}				
 UI_20150317_000303	{@sti7}{s22}{ds}Thành Tích{/}	{@sti7}{s22}{ds}모험지수 달성도{/}				
-UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Điểm{/}	{@st42b}{#22FF22}상위 10% / %s점{/}				
-UI_20150317_000305	{@st42b} Trung Bình / %s Điểm {/}	{@st42b}전체 평균 /  %s점{/}				
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s {/}	{@st42b}{#22FF22}상위 10% / %s점{/}				
+UI_20150317_000305	{@st42b} Trung Bình / %s  {/}	{@st42b}전체 평균 /  %s점{/}				
 UI_20150317_000306	1st / %s Điểm	1위 / %s점				
-UI_20150317_000307	Hạng %s	%s위				
+UI_20150317_000307	Hạng %s			
 UI_20150317_000308	%s Điểm	%s점				
 UI_20150317_000309	Ngành	직업				
 UI_20150317_000310	Đội	팀				
 UI_20150317_000311	{@st59}Đóng nhật ký hành trình{/}	{@st59}모험일지를 닫습니다{/}				
-UI_20150317_000312	{@st43}Xếp Hạng Nhất Ký Hành Trình{/}	{@st43}모험일지 랭킹{/}				
+UI_20150317_000312	{@st43}Xếp Hạng Nhật Ký Hành Trình{/}	{@st43}모험일지 랭킹{/}				
 UI_20150317_000313	{@st43}{s22}Hạng  	{@st43}{s22}랭킹				
 UI_20150317_000314	{@st43}{s22}Tên	{@st43}{s22}이름				
 UI_20150317_000315	{@st43}{s22}Điểm	{@st43}{s22}점수				
@@ -326,7 +326,7 @@ UI_20150317_000325	Tấn công pháp thuật	주문력
 UI_20150317_000326	Phòng thủ vật lý	방어력				
 UI_20150317_000327	Phòng thủ pháp thuật	마법저항력				
 UI_20150317_000328	Sát thương chí mạng	치명타율				
-UI_20150317_000329	${@st43}Ổ Gem{/}	{@st43}소켓 관리{/}				
+UI_20150317_000329	{@st43}Ổ Gem{/}	{@st43}소켓 관리{/}				
 UI_20150317_000330	{@st59}Đóng của sổ quản lý gem.{/}	{@st59}소켓 관리를 닫습니다{/}				
 UI_20150317_000331	Xin vui lòng để vật phẩm của bạn vào	아이템을 올려주세요				
 UI_20150317_000332	Tìm lực	포텐셜				
@@ -424,9 +424,9 @@ UI_20150317_000423	Chúc Mừng! Bạn đã lên cấp.	축하합니다! 레
 UI_20150317_000424	Báo vật phẩm	아이템알림				
 UI_20150317_000425	{@st64}Chi tiết{/}	{@st64}내용{/}				
 UI_20150317_000426	Hướng dẫn chơi	조작 튜토리얼				
-UI_20150317_000427	${@st42b}          Di chuyển một lần với mỗi phím{/}	{@st42b}캐릭터가 상하좌우 4방향으로  이동합니다{/}				
-UI_20150317_000428	${@st42b}         Dùng tấn công cở bản{/}	{@st42b}캐릭터가 기본 공격을 합니다{/}				
-UI_20150317_000429	${@st42b}                Nhảy lên{/}	{@st42b}캐릭터가 제자리 또는 이동시 점프를 합니다{/}				
+UI_20150317_000427	{@st42b}Di chuyển một lần với mỗi phím{/}	{@st42b}캐릭터가 상하좌우 4방향으로  이동합니다{/}				
+UI_20150317_000428	{@st42b}Dùng tấn công cở bản{/}	{@st42b}캐릭터가 기본 공격을 합니다{/}				
+UI_20150317_000429	{@st42b}Nhảy lên{/}	{@st42b}캐릭터가 제자리 또는 이동시 점프를 합니다{/}				
 UI_20150317_000430	{@st42b}Sử dụng hai phím để di chuyển theo đường chéo{/}	{@st42b}인접한 방향키 2개를 동시에 입력해 대각선으로 이동합니다{/}				
 UI_20150317_000431	Bản đồ sương mù dụng cụ	맵 포그 툴				
 UI_20150317_000432	Dụng cụ để giết quái	몬스터 죽이기 툴				
@@ -457,11 +457,11 @@ UI_20150317_000456	{memo X}{@st41b}Mở	{@st41b}사용
 UI_20150317_000457	{memo X}{@st41b}Tắt	{@st41b}사용안함				
 UI_20150317_000458	{@st41b}Tạo tổ đội	{@st41b}파티 생성				
 UI_20150317_000459	{@st43}Danh sách tổ đội công cộng {/}	{@st43}공개 파티 목록{/}				
-UI_20150317_000460	${@st59b}Danh sách tổ đội công cộng{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}	{@st59b}공개 파티 목록{nl}{@st59s} - 서버내 공개된 파티 목록을 확인해서 원하는 파티에 가입{nl} - 검색 옵션 사용으로 원하는 조건의 파티 검색{/}				
+UI_20150317_000460	{@st59b}Danh sách tổ đội công cộng{nl}{@st59s} - Search for parties you want to join. {nl} - Ticking "Use Search" uses your search conditions to help find desirable parties. {/}	{@st59b}공개 파티 목록{nl}{@st59s} - 서버내 공개된 파티 목록을 확인해서 원하는 파티에 가입{nl} - 검색 옵션 사용으로 원하는 조건의 파티 검색{/}				
 UI_20150317_000461	{@st59}Đóng danh sách{/}	{@st59}파티목록을 닫습니다{/}				
 UI_20150317_000462	Dùng tìm kiếm	검색 옵션 사용				
 UI_20150317_000463	Chia sẽ nhiệm vụ	퀘스트 공유				
-UI_20150317_000464	Ưu tiên exp 경험치 분배규칙				
+UI_20150317_000464	Ưu tiên exp 		
 UI_20150317_000465	Ưu tiên vật phẩm	아이템 분배규칙				
 UI_20150317_000466	{@st43}Mời	{@st43}초대				
 UI_20150317_000467	{@st41b}Mời{/}	{@st41b}초대{/}				
@@ -503,9 +503,9 @@ UI_20150317_000502	{@st43}Thể loại{/}	{@st43}항목{/}
 UI_20150317_000503	{@st43}Tôi{/}	{@st43}나{/}				
 UI_20150317_000504	{@st43}Mục Đích{/}	{@st43}대상{/}				
 UI_20150317_000505	{@st43}Level{/}	{@st43}레벨{/}				
-UI_20150317_000506	{@st43}Quỹ{/}	{@st43}소지금{/}				
-UI_20150317_000507	{@st43}Tỉ lệ{/}	{@st43}등급{/}				
-UI_20150317_000508	{@st43}Tỉ lệ thắng PvP {/}	{@st43}PvP승률{/}				
+UI_20150317_000506	{@st43}Silver{/}	{@st43}소지금{/}				
+UI_20150317_000507	{@st43}Tỷ lệ{/}	{@st43}등급{/}				
+UI_20150317_000508	{@st43}Tỷ lệ thắng PvP {/}	{@st43}PvP승률{/}				
 UI_20150317_000509	{@st59}Đóng{/}	{@st59}창을 닫습니다{/}				
 UI_20150317_000510	{@sti5}Tổng số tiền sẽ mua: %s{/}	{@sti5}총 구매 금액 : %s{/}				
 UI_20150317_000511	{@sti5}Tổng Cộng : %s{/}	{@sti5}총 금액 : %s{/}				
@@ -516,7 +516,7 @@ UI_20150317_000515	{@st41}Xóa Tất Cả {@st41}전체 삭제
 UI_20150317_000516	{memo X}{@st42}Pension object {@stx1}(%s required){/}	{@st42}연금 대상 {@stx1}(%s 소요){/}				
 UI_20150317_000517	{@st41}Phối hợp	{@st41}조합				
 UI_20150317_000518	{@st43}Nhiệm Vụ{/}	{@st43}퀘스트{/}				
-UI_20150317_000519	${@st59b}Nhiệm Vụ{nl}{@st59s} - Khi bạn đang trên một nhiệm vụ mới, nó sẽ được bổ sung vào danh sách theo dấu. {nl} - Nhiệm vụ chính sẽ được hiện bằng màu vàng,trong khi nhiệm vụ phụ sẽ được hiện bằng màu xanh dương.{nl} - Mũi tên ở dưới nhân vật sẽ dẫn tới địa điểm nhiệm vụ của bạn.{nl} - Nếu bạn hoàn thành một nhiệm vụ, sẽ có 1 icon 'trở về' xuất hiện bên danh sách theo dấu nhiệm vụ. {nl}    (Dịch chuyển về NPC của nhiệm vù bằng nút backspace hoặc nhấp chuột vào icon 'trở về' {nl} - Thêm hoặc xóa nhiệm vụ ở trong danh sách theo dấu nhiệm vụ bằng cách đánh dấu hoặc bỏ đánh dấu vào ô trước tên nhiệm vụ.{/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 알리미에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 알리미에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 알리미에 등록/해제시 퀘스트 이름 앞 체크 선택{/}				
+UI_20150317_000519	{@st59b}Nhiệm Vụ{nl}{@st59s} - Khi bạn đang trên một nhiệm vụ mới, nó sẽ được bổ sung vào danh sách theo dấu. {nl} - Nhiệm vụ chính sẽ được hiện bằng màu vàng,trong khi nhiệm vụ phụ sẽ được hiện bằng màu xanh dương.{nl} - Mũi tên ở dưới nhân vật sẽ dẫn tới địa điểm nhiệm vụ của bạn.{nl} - Nếu bạn hoàn thành một nhiệm vụ, sẽ có 1 icon 'trở về' xuất hiện bên danh sách theo dấu nhiệm vụ. {nl}    (Dịch chuyển về NPC của nhiệm vù bằng nút backspace hoặc nhấp chuột vào icon 'trở về' {nl} - Thêm hoặc xóa nhiệm vụ ở trong danh sách theo dấu nhiệm vụ bằng cách đánh dấu hoặc bỏ đánh dấu vào ô trước tên nhiệm vụ.{/}	{@st59b}퀘스트{nl}{@st59s} - 퀘스트 획득시 퀘스트 알리미에 등록{nl} - 메인퀘스트는 노란색, 서브퀘스트는 파란색 표시{nl} - 캐릭터 발 밑의 화살표로 퀘스트 위치를 표시{nl} - 퀘스트 완료시 퀘스트 알리미에 돌아가기 아이콘 표시{nl}  (백스페이스나 마우스 클릭으로 완료 NPC로 순간이동){nl} - 퀘스트 알리미에 등록/해제시 퀘스트 이름 앞 체크 선택{/}				
 UI_20150317_000520	{@st41b}Đang làm{/}	{@st41b}  진행  {/}				
 UI_20150317_000521	{@st41b}Bỏ{/}	{@st41b}  포기  {/}				
 UI_20150317_000522	{@st43}{s22}Thông tin nhiệm vụ {/}	{@st43}{s22}퀘스트 정보{/}				
@@ -627,8 +627,8 @@ UI_20150317_000626	{@st59}Reset giỏ hàng{/}	{@st59}장바구니를 비웁니
 UI_20150317_000627	{@st41b}Xác nhận{/}	{@st41b}정산{/}				
 UI_20150317_000628	{@st59}Xác nhận giao dịch{/}	{@st59}거래를 결정합니다{/}				
 UI_20150317_000629	{@st43}Cửa Hàng{/}	{@st43}상점{/}				
-UI_20150317_000630	{@st41b}Vật phẩm đã mua{/}	{@st41b}구입 아이템{/}				
-UI_20150317_000631	{@st41b}Vật phẩm đã bán {/}	{@st41b}판매 아이템{/}				
+UI_20150317_000630	{@st41b}Vật phẩm sẽ mua{/}	{@st41b}구입 아이템{/}				
+UI_20150317_000631	{@st41b}Vật phẩm sẽ bán {/}	{@st41b}판매 아이템{/}				
 UI_20150317_000632	{memo X}{@st41b}Giá{/}	{@st41b}거래 정산 ▶{/}				
 UI_20150317_000633	{memo X}{@st41b}Tiền còn lại{/}	{@st41b}예상 잔액 ▶{/}				
 UI_20150317_000634	{memo X}{@st41b}Vật phẩm đã bán của tôi{/}	{@st41b}내가 판매한 아이템{/}				
@@ -644,9 +644,9 @@ UI_20150317_000643	Chi phí chế tạo	제작 비용
 UI_20150317_000644	Số lượng chế tạo	제작 갯수				
 UI_20150317_000645	Tiêu thụ Khoảng %s giây 약 %s초 소요				
 UI_20150317_000646	{@st41}Tạo	{@st41}만들기				
-UI_20150317_000647	{memo X}${@st43}Kĩ năng & Thuộc Tính{/}	{@st43}클래스 스킬과 특성{/}				
-UI_20150317_000648	{memo X}${@st59}Đóng Classes & Kĩ năng{/}	{@st59}클래스와 스킬을 닫습니다{/}				
-UI_20150317_000649	${@st59b}Classes{nl}{@st59s}- Bạn có thể học kĩ năng mới bằng cách nâng cấp class. {nl} - Bạn có thể chọn từ 3 class mới để nâng cấp từ cấp 1 tới cấp 2. {nl} - bạn có thể nâng cấp cùng 1 class tới 3 lần.{nl} - Bạn không thể thay đổi trở lại class của bạn trước đó khi bạn nâng cấp đến lớp khác. {nl} - Bạn cần xài hết điểm kĩ năng trước khi nâng cấp. {nl} - Bạn có thể chọn class như trước.{nl}{@st59b}Skills{nl}{@st59s} - Bạn có thể tăng kĩ năng của mổi class tới cấp 5.{nl} - Bạn có thể xem các thuộc tính đã học ở dưới các kĩ năng.{/}	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} -  동일한 직업으로 총 3회까지 전직 가능{nl} -  다른 직업으로 전직 시 이전 직업은 전직 불가{nl} -  스킬포인트 모두 소비 시 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각  랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}				
+UI_20150317_000647	{memo X}{@st43}Kĩ năng & Thuộc Tính{/}	{@st43}클래스 스킬과 특성{/}				
+UI_20150317_000648	{memo X}{@st59}Đóng Classes & Kĩ năng{/}	{@st59}클래스와 스킬을 닫습니다{/}				
+UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- Bạn có thể học kĩ năng mới bằng cách nâng cấp class. {nl} - Bạn có thể chọn từ 3 class mới để nâng cấp từ cấp 1 tới cấp 2. {nl} - bạn có thể nâng cấp cùng 1 class tới 3 lần.{nl} - Bạn không thể thay đổi trở lại class của bạn trước đó khi bạn nâng cấp đến lớp khác. {nl} - Bạn cần xài hết điểm kĩ năng trước khi nâng cấp. {nl} - Bạn có thể chọn class như trước.{nl}{@st59b}Skills{nl}{@st59s} - Bạn có thể tăng kĩ năng của mổi class tới cấp 5.{nl} - Bạn có thể xem các thuộc tính đã học ở dưới các kĩ năng.{/}	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} -  동일한 직업으로 총 3회까지 전직 가능{nl} -  다른 직업으로 전직 시 이전 직업은 전직 불가{nl} -  스킬포인트 모두 소비 시 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각  랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}				
 UI_20150317_000650	{memo X}{@st41b}Apply{/}	{@st41b}적용{/}				
 UI_20150317_000651	{@st59}Áp dụng{/}	{@st59}스킬 포인트를 적용합니다{/}				
 UI_20150317_000652	Cleric	큘레릭				
@@ -725,7 +725,7 @@ UI_20150317_000724	{@st43}Chỉ Số{/}	{@st43}스탯{/}
 UI_20150317_000725	systemmenu_vertical tentative removal	systemmenu_vertical 잠정제거				
 UI_20150317_000726	{@st59}Thông Tin Nhân Vật (F1){/}	{@st59}캐릭터 정보 (F1){/}				
 UI_20150317_000727	{@st59}Túi Đồ (F2){/}	{@st59}인벤토리 (F2){/}				
-UI_20150317_000728	${@st59}Nghề Nghiệp & Kỹ Năng (F3){/}	{@st59}클래스와 스킬 (F3){/}				
+UI_20150317_000728	{@st59}Nghề Nghiệp & Kỹ Năng (F3){/}	{@st59}클래스와 스킬 (F3){/}				
 UI_20150317_000729	{@st59}Nhật kí hành trình (F4){/}	{@st59}모험일지 (F4){/}				
 UI_20150317_000730	{@st59}Nhiệm Vụ (F5){/}	{@st59}퀘스트 (F5){/}				
 UI_20150317_000731	{@st59}Tổ Đội (F6){/}	{@st59}파티 (F6){/}				
@@ -848,9 +848,9 @@ UI_20150317_000847	Nhập từ tìm kiếm	검색어를 입력합니다.
 UI_20150317_000848	Tất cả các giá trị của thuộc tính	모든 속성 값				
 UI_20150317_000849	{ol}Tên	{ol}이름				
 UI_20150317_000850	{ol}Thuộc Tính	{ol}값				
-UI_20150317_000851	$Rogue	로그				
+UI_20150317_000851	Rogue	로그				
 UI_20150317_000852	{ol}Xem Lại	{ol}리비전				
-UI_20150317_000853	${ol}Rogue	{ol}로그				
+UI_20150317_000853	{ol}Rogue	{ol}로그				
 UI_20150317_000854	Danh Sách Class	클래스 리스트				
 UI_20150317_000855	XML Conversion	XML변환				
 UI_20150317_000856	{ol}Tên Class	{ol}클래스네임				
@@ -991,7 +991,7 @@ UI_20150317_000990	{@st59}Cleric{/}	{@st59}클레릭{/}
 UI_20150317_000991	{@St41b}Thăm Doanh Trại  {/}	{@st41b}배럭방문{/}				
 UI_20150317_000992	{@St59}Thăm Doanh Trại của người chơi khác.{/}	{@st59}다른 사람의 배럭을 방문합니다.{/}				
 UI_20150317_000993	{@St41b}Đăng Xuất{/}	{@st41b}로그아웃{/}				
-UI_20150317_000994	{@St59}Di chuyển tới màn hình đăng nhập Move to login screen{/}	{@st59}로그인 화면으로 이동합니다{/}				
+UI_20150317_000994	{@St59}Di chuyển tới màn hình đăng nhập {/}	{@st59}로그인 화면으로 이동합니다{/}				
 UI_20150317_000995	{@St41b}Thoát Trò Chơi{/}	{@st41b}게임종료{/}				
 UI_20150317_000996	{@St59}Thoát Tree Of Savior{/}	{@st59}게임을 종료합니다{/}				
 UI_20150317_000997	{@st41b}Chọn Kênh{/}	{@st41b}게임을 시작할 채널을 선택하세요{/}				
@@ -1011,8 +1011,8 @@ UI_20150317_001010	{@St59}Tạo 1 Nhân Vật{/}	{@st59}캐릭터를 생성합�
 UI_20150317_001011	{@St59}Hủy tạo nhân vật{/}	{@st59}생성을 취소합니다{/}				
 UI_20150317_001012	{@St59}Đóng{/}	{@st59}팀 이름 입력을 닫습니다{/}				
 UI_20150317_001013	{@St59}Tạo tên của Gia Đình{/}	{@st59}입력한 이름으로 팀을 생성합니다{/}				
-UI_20150317_001014	{@St43}{s30}{#f0dcaa}Nhập tên Gia Đình của bạn!	{@st43}{s30}{#f0dcaa}팀 이름 입력!				
-UI_20150317_001015	{memo X}{@St41b}Tên Gia Đình sẽ được dùng để đại diện cho tất cả nhân vật của bạn.{nl}Nó là tên thường được sử dụng trong trò chơi.{nl}               Tên gia đình có thể được thay đổi sau này.{/}	{@st41b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
+UI_20150317_001014	{@St43}{s30}{#f0dcaa}Nhập tên Gia Đình	{@st43}{s30}{#f0dcaa}팀 이름 입력!				
+UI_20150317_001015	{memo X}{@St41b}Tên Gia Đình sẽ được dùng để đại diện cho tất cả nhân vật của bạn.{nl}Nó là tên thường được sử dụng trong trò chơi.{nl}  Tên gia đình có thể được thay đổi sau này.{/}	{@st41b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
 UI_20150317_001016	Đang Tải Hình Nền	로딩 배경				
 UI_20150317_001017	Lời khuyên	팁				
 UI_20150317_001018	Lời Khuyên của trò chơi	게임팁				
@@ -1060,7 +1060,7 @@ UI_20150317_001059	{@st41}Hỗ Trợ{/}	{@st41}보조{/}
 UI_20150317_001060	{@st41}Độ Khó{/}	{@st41}난이도{/}				
 UI_20150317_001061	{@st41}Kiểu Tóc	{@st41}헤 어				
 UI_20150317_001062	{@st41}Xoay	{@st41}회 전				
-UI_20150317_001063	{@st43}Tạo Nhân Vật {@st43}캐릭터 생성				
+UI_20150317_001063	{@st43}Tạo Nhân Vật {@st43}			
 UI_20150317_001064	{@st59}Tạo Nhân Vật {/}	{@st59}설정대로 캐릭터를 생성합니다{/}				
 UI_20150317_001065	{@st41b}Hủy	{@st41b}선택 취소				
 UI_20150317_001066	{@st59}Không Chọn Nhân Vật Này {/}	{@st59}캐릭터 선택을 취소합니다{/}				
@@ -1192,7 +1192,7 @@ UI_20150317_001191	{memo X}Ưu tiền vật phẩm : {#FFFF00}%s{/}	아이템
 UI_20150317_001192	{memo X}Ngẫu nhiên	래앤덤하게 분배				
 UI_20150317_001193	Làm thế nào để tôi	어떻게하면내가				
 UI_20150317_001194	Bạn không nhìn thấy đó là ai	누군지모를까				
-UI_20150317_001195	{@st41b}Cập nhật nhật ký hành trình Updated	{@st41b}모험일지에 등록되었습니다.				
+UI_20150317_001195	{@st41b}Cập nhật nhật ký hành trình	{@st41b}모험일지에 등록되었습니다.				
 UI_20150317_001196	Đối tượng của nhiệm vụ	퀘스트용 메뉴오브젝트				
 UI_20150317_001197	Các loại nhiệm vụ	퀘스트의 카테고리				
 UI_20150317_001198	Danh sách đối tượng của nhiệm vụ	퀘스트의 리스트 오브젝트				
@@ -1333,12 +1333,12 @@ UI_20150323_001332	{@st59}Đóng giao diện{/}	{@st59}UI를 닫습니다{/}
 UI_20150323_001333	{@st41b}Sửa chữa {/}	{@st41b}손질{/}				
 UI_20150323_001334	{memo X}{@st41b}Lưu ký{/}	{@st41b}로그{/}				
 UI_20150323_001335	{memo X}Giá để nhận	받는 가격				
-UI_20150323_001336	${@st59}Để gem vào{/}	{@st59}젬을 올려주세요{/}				
+UI_20150323_001336	{@st59}Để gem vào{/}	{@st59}젬을 올려주세요{/}				
 UI_20150323_001337	Vật phẩm sự dụng	소비재료				
 UI_20150323_001338	Số lượng còn lại	남은 갯수				
 UI_20150323_001339	{@st42}Đóng	{@st42}폐점				
-UI_20150323_001340	${@st43}Bảo trì vũ khí{/}	{@st43}무기 손질{/}				
-UI_20150323_001341	${@st43}Bảo trì thiết bị{/}	{@st43}장비 손질{/}				
+UI_20150323_001340	{@st43}Bảo trì vũ khí{/}	{@st43}무기 손질{/}				
+UI_20150323_001341	{@st43}Bảo trì thiết bị{/}	{@st43}장비 손질{/}				
 UI_20150323_001342	{memo X}{@st41b}Giá để nhận	{@st41b}받는 가격				
 UI_20150323_001343	{@st41b}Nguyên liệu	{@st41b}소비재료				
 UI_20150323_001344	{@st43}Sửa{/}	{@st43}수 리{/}				
@@ -1419,7 +1419,7 @@ UI_20150401_001418	{@st41b}Hộp đề nghị	{@st41b}봉헌함
 UI_20150401_001419	{@st41}Tên hộp đề nghị	{@st41}봉헌함 이름				
 UI_20150401_001420	Thanh toán	지급 금액				
 UI_20150401_001421	Lợi nhuận ước tính	예상 수익				
-UI_20150401_001422	Quỹ	소지금				
+UI_20150401_001422	Silver	소지금				
 UI_20150401_001423	{memo X}{@st45tw}Vật phẩm hộp đề nghị	{@st45tw}봉헌함 물품 상세내용				
 UI_20150401_001424	{@st41}Bán tất cả	{@st41}일괄 판매				
 UI_20150401_001425	{@st43}Hộp đề nghị	{@st43}봉헌함				
@@ -1522,7 +1522,7 @@ UI_20150428_001522	{memo X}{@st41}Phong cách chơi{/}	{@st41}플레이 스타�
 UI_20150428_001523	Nhiệm Vụ	퀘스트 진행				
 UI_20150428_001524	Săn Bắn	사냥 중심				
 UI_20150428_001525	Sự Kiện	이벤트 진행				
-UI_20150428_001526	{memo X}{@st41}Số Level hơn/kém{/}	{@st41}레벨 차이{/}				
+UI_20150428_001526	{memo X}{@st41}Lvl hơn/kém{/}	{@st41}레벨 차이{/}				
 UI_20150428_001527	{memo X}Không liên quan	관계없음  /				
 UI_20150428_001528	{memo X}{@st41}Class mà bạn muốn{/}	{@st41}원하는 클래스 계열{/}				
 UI_20150428_001529	{@st41b}Thoát tổ đội	{@st41b}파티 탈퇴				
@@ -1533,7 +1533,7 @@ UI_20150428_001533	{memo X}{@st45ty}Màu tóc	{@st45ty}헤어컬러
 UI_20150428_001534	{memo X}{@st45ty}Danh hiệu có thể dùng	{@st45ty}장착 가능 칭호				
 UI_20150428_001535	{@st41_yellow}Giúp đỡ kỹ năng	{@st41_yellow}헬퍼 스킬				
 UI_20150428_001536	{memo X}{@st41b}Hiển thị tên nhân vật khác{/}	{@st41b}다른 캐릭터 이름 표시{/}				
-UI_20150428_001537	{@st43}Chế độ giao diện{/}	{@st43}UI 모드{/}				
+UI_20150428_001537	{@st43}Chế độ điều khiển{/}	{@st43}UI 모드{/}				
 UI_20150428_001538	{memo X}{@st41b}Tự động{/}	{@st41b}자동{/}				
 UI_20150428_001539	{memo X}{@st41b}Joypad{/}	{@st41b}조이패드{/}				
 UI_20150428_001540	{memo X}{@st41b}Bàn Phím{/}	{@st41b}키보드{/}				
@@ -1579,10 +1579,10 @@ UI_20150714_001579	>>Hiện thêm thông tin...	>>더 보기..
 UI_20150714_001580	%s (Rank %s)	%s (%s 랭크)				
 UI_20150714_001581	Tên nghề	직업이름				
 UI_20150714_001582	{@st41b}Mời	{@st41b}초대				
-UI_20150714_001583	{@st41}Nếu bạn dùng tay cầm điều khiển hoặc chuột để điều khiển, bạn có thể chọn cái này trong thiết lập trò chơi.nl}	{@st41}조이패드나 마우스 조작을 원할 경우, 시스템 메뉴의 게임 설정에서 선택할 수 있습니다.{/}				
+UI_20150714_001583	{@st41}Nếu bạn dùng tay cầm điều khiển hoặc chuột để điều khiển, bạn có thể chọn cái này trong thiết lập trò chơi.{nl}	{@st41}조이패드나 마우스 조작을 원할 경우, 시스템 메뉴의 게임 설정에서 선택할 수 있습니다.{/}				
 UI_20150714_001584	{memo X}Khi người chơi khác đáp ứng các tiêu chí mà bạn thiết lập, thông báo [Party Match!] sẽ được hiển thị trên màn hình của bạn.	조건이 일치하는 캐릭터를 만난다면 [파티 조건 일치!] 문구가 표시 됩니다.{nl}또한 파티원을 구하는 다른 파티에 자주 추천됩니다.				
 UI_20150714_001585	{memo X}{@st42}Phong cách chơi{/}	{@st42}플레이 스타일{/}				
-UI_20150714_001586	{@st42}Số Level hơn/kém{/}	{@st42}레벨 차이{/}				
+UI_20150714_001586	{@st42}Lvl hơn/kém{/}	{@st42}레벨 차이{/}				
 UI_20150714_001587	Any	관계없음				
 UI_20150714_001588	{memo X}{@st42}Class{/}	{@st42}원하는 클래스 계열{/}				
 UI_20150714_001589	{memo X}{@st42}Tên tổ đội : %s{/}	{@st42}파티명 : %s{/}				
@@ -1685,7 +1685,7 @@ UI_20150714_001685	Ghi Chú :%s	메모 :%s
 UI_20150714_001686	{@st59}Thêm các nguyên liệu ở ô vật phẩm này{/}	{@st59}재료 아이템을 슬롯에 추가합니다.{/}				
 UI_20150714_001687	{@st66b}Giá : %s{/}	{@st66b}가격 : %s{/}				
 UI_20150714_001688	Lời chào nhân vật	캐릭터 인사말				
-UI_20150714_001689	Mua ở cửa hàng	매입의뢰상점				
+UI_20150714_001689	Cửa hàng buy-in	매입의뢰상점				
 UI_20150714_001690	×%s	%s 개				
 UI_20150714_001691	{@41b}Tiêu Chuẩn	{@41b}조건				
 UI_20150714_001692	{memo X}{@st41}Xóa	{@st41}삭제				
@@ -1728,7 +1728,7 @@ UI_20150717_001728	Theo dõi người chơi khác	다른사람 시점으로 �
 UI_20150717_001729	{@st41}Chiến Trường	{@st41}배틀 필드				
 UI_20150717_001730	Kết Quả	결과				
 UI_20150717_001731	{@st41}Di chuyển ngay lập tức 	{@st41}바로 이동				
-UI_20150717_001732	${@st41b}            Tên gia đình đại diện cho tất cả nhân vật của bạn.{nl}                 Nó là cái tên được sử dụng phổ biến trong trò chơi.{nl}                  Tên gia đình của bạn có thể được thay đổi sau này.{/}	{@st66b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
+UI_20150717_001732	{@st41b}Tên gia đình đại diện cho tất cả nhân vật của bạn.{nl}Nó là cái tên được sử dụng phổ biến trong trò chơi.{nl}- Tên gia đình của bạn có thể được thay đổi sau này.{/}	{@st66b} 팀 이름은 모든 캐릭터를 대표하는 이름입니다.{nl}자유롭게 바꿀 수 있는 팀 이름은 거래, 길드 가입, 대화 등에 사용되는 공용 이름입니다.{/}				
 UI_20150729_001733	{@st42}Chỉ hiển thị các thuộc tính có thể học.{/}	{@st42}학습 가능한 특성만 표시{/}				
 UI_20150729_001734	Số chân	다리갯수				
 UI_20150729_001735	Chiều cao	키				
@@ -1737,7 +1737,7 @@ UI_20150729_001737	{@st43}Gem Roasting{/}	{@st43}젬 로스팅{/}	UI_20150323_00
 UI_20150729_001738	{@st59b}Chế tạo{nl}{@st59s} - Vật phẩm có thể chế tạo bằng công thức.{nl} - Đặt công thức và nguyên liệu cần thiết trong các khe để bắt đầu việc tạo vật phẩm. {nl} - Bạn có thể đính kèm một tên đặc biệt và bản ghi nhớ cho vật phẩm của bạn.{/}	{@st59b}아이템 제작{nl}{@st59s} - 레시피 아이템을 입수하면 해당하는 아이템 제작 가능{nl} - 레시피와 재료를 슬롯에 넣은 후 아이템 제작 실행{nl} - 제작하는 아이템에 이름과 메모 기입 가능{/}				
 UI_20150729_001739	{@st59}Đóng chế tạo mũi tên{/}	{@st59}화살제작을 닫습니다.{/}				
 UI_20150729_001740	{memo X}Mảnh vở cần: Quái dị %s / Thú %s / Cây cỏ %s	필요 파편 : 변이 %s개 / 야수 %s개 / 식물 %s개	UI_20150317_000417	{memo X}Mảnh vở cần : %s	필요 파편 : %s	
-UI_20150729_001741	${@st42b}            Class Swordsman có thể chạy nhanh bằng cách                nhấn phím di chuyển 2 lần.{/}	{@st42b}전사 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	UI_20150717_001714	{memo X}{@st42b}Swordsman có thể trượt tới bằng cách nhấn phím mũi tên 2 lần.{/}	{@st42b}소드맨 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	
+UI_20150729_001741	{@st42b}Class Swordsman có thể chạy nhanh bằng cách nhấn phím di chuyển 2 lần.{/}	{@st42b}전사 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	UI_20150717_001714	{memo X}{@st42b}Swordsman có thể trượt tới bằng cách nhấn phím mũi tên 2 lần.{/}	{@st42b}소드맨 계열은 방향을 빠르게 두번 입력하여 질주할 수 있습니다{/}	
 UI_20150729_001742	{@st41}Cài đặt tổ đội	{@st41}파티 설정				
 UI_20150729_001743	{@st41}Cài đặt chiêu mộ tổ đội	{@st41}파티 모집 설정				
 UI_20150729_001744	{@st42}Tìm thành viên tổ đội{/}	{@st42}파티원 찾기 기능 사용{/}				
@@ -1767,7 +1767,7 @@ UI_20150803_001767	Tổng Hợp: /s chat{nl}La Hét: /y chat {nl}Đội: /p ch
 UI_20150803_001768	{@st66b}Rung Joypad{/}	{@st66b}조이패드 진동{/}				
 UI_20150803_001769	Một trận đấu đã được tìm thấy. Hãy đợi cho đến khi bạn có thể tham gia.	게임을 찾았습니다. 잠시 후 게임에 입장합니다.	UI_20150714_001657	{memo X}Found a game. Do you want to join?	게임을 찾았습니다. 참가하시겠습니까?	
 UI_20150804_001770	{@st43}{s18}Chọn nhân vật mà bạn muốn nhận được món hàng(s).{/}	{@st43}{s18}아이템을 수령할 캐릭터를 선택해주세요.{/}				
-UI_20150804_001771	$Maximum Sockets : %s	최대 소켓 %s개	UI_20150317_001141	{memo X}Maximum Sockets : ×%s	최대 소캣 %s개	
+UI_20150804_001771	Maximum Sockets : %s	최대 소켓 %s개	UI_20150317_001141	{memo X}Maximum Sockets : ×%s	최대 소캣 %s개	
 UI_20150807_001772	{@st41b}Chi tiết {img red_down_arrow 16 16}	{@st41b}상세 보기 {img red_down_arrow 16 16}				
 UI_20150807_001773	{memo X}	{@st41b}거래 정산 :{/}	UI_20150317_000632	{memo X}{@st41b}Giá{/}	{@st41b}거래 정산 ▶{/}	
 UI_20150807_001774	{memo X}	{@st41b}예상 잔액 :{/}	UI_20150317_000633	{memo X}{@st41b}Tiền còn lại{/}	{@st41b}예상 잔액 ▶{/}	
@@ -1801,7 +1801,7 @@ UI_20150918_001801	{@st66b}Thử Lại{/}	{@st66b}재도전{/}	UI_20150317_0006
 UI_20150918_001802	{@st66b}Vật phẩm đã bán{/}	{@st66b}내가 판매한 아이템{/}	UI_20150317_000634	{@st41b}My Sold Items{/}	{@st41b}내가 판매한 아이템{/}	
 UI_20150918_001803	{@st53}Điểm xếp hạng : %s	{@st53}랭킹포인트 : %s				
 UI_20150918_001804	Tổng không giao dịch: %s	총 거래 불가: %s개				
-UI_20150918_001805	{@st42b}Kiểm Tra Đối Thoại{/}	{@st42b}대사 확인{/}				
+UI_20150918_001805	{@st42b}Đối Thoại{/}	{@st42b}대사 확인{/}				
 UI_20150918_001806	{@st66b}Cho tổ đội khác thức ăn{/}	{@st66b}파티원 외 음식 제공{/}				
 UI_20150918_001807	{@st41b}Thay đổi tiêu đề của bảng{@st41b}간판이름변경				
 UI_20150918_001808	{@sti9}Hạng Của Tôi	{@sti9}내 랭킹				
@@ -1811,3 +1811,4 @@ UI_20151001_001811	{@st43}Thiết Lập Bàn Phím{/}	{@st43}키 설정{/}
 UI_20151001_001812	{@st45tw2}Thể Loại	{@st45tw2}카테고리				
 UI_20151001_001813	Hành Động	액션				
 UI_20151001_001814	Khôi phục mặc định	기본값 복원				
+UI_20151022_001829	{@st66b}Hiển thị hiệu ứng người khác
